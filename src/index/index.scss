@@ -1,0 +1,110 @@
+
+@import "../common/sass_modules/variables.scss";
+
+.homePageComponents{
+
+    height: 100vh;
+    
+    .center-container{
+        height: 95vh;
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: row;
+
+        picture{
+            img{
+                @media screen and (max-height: 880px){
+                    height: 40vh;
+                }
+                @media screen and (max-height: 550px){
+                    height: 45vh;
+                }
+                @media screen and (min-height: 881px){
+                    height: 35vh;
+                }
+                
+                width: auto;
+                border-radius: 450px;
+                box-shadow: 0 0 2px 1px $icon-border;
+            }
+        }
+        .name{
+            order: 2;
+            text-align: center;
+            font-weight: bold;
+            flex-basis: 100%;
+            margin: 20px 0 -5px 0;
+            text-shadow: 0 0 1px $icon-border; 
+            @media screen and (max-height: 880px){
+                font-size: 4vh;
+            }
+            @media screen and (min-height: 881px){
+                font-size: 3vh;
+            }
+        }
+        .jobTitle{
+            order: 3;
+            text-align: center;
+            margin: 0 0 30px 0;
+            flex-basis: 100%;
+            text-shadow: 0 0 1px $icon-border;
+            @media screen and (max-height: 880px){
+                font-size: 3vh;
+            }
+            @media screen and (min-height: 881px){
+                font-size: 2vh;
+            }
+        }
+
+        .page{
+            order: 5;
+            text-align: center;
+            font-size: 4vh;
+            font-weight: bold;
+            flex-basis: 100%;
+            margin: 20px 0 -5px 0;
+            text-shadow: 0 0 1px $icon-border; 
+        }
+        ul{
+            flex-basis: 100%;
+            order: 4;
+            list-style: none;
+            text-align: center;
+            li{
+                display: inline-block;
+                margin-left: 6px;
+                margin-right: 6px;
+
+                a{
+                    color: $icon-color;
+                    text-decoration: none;
+                    font-family: 'sahel';
+
+                    @media screen and (max-height: 880px){
+                        font-size: 4vh;
+                    }
+                    @media screen and (min-height: 881px){
+                        font-size: 3vh;
+                    }
+                    
+                    &:hover{
+                        color: $font-color;
+                        cursor: pointer;
+                        &::before{
+                            border-color: #666;
+                        }
+                    }
+                    &::before{
+                        text-align: center;
+                        padding: 3px 5px;
+                        border: 1px solid $icon-border;
+                        border-radius: 5px;
+                    }
+                }
+            }
+        }
+    }
+}

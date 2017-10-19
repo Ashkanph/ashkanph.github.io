@@ -1,0 +1,84 @@
+
+#language-switcher{
+    position: fixed;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    bottom: 0;
+    background-color: gray;
+    left:50%;
+    text-align: center;
+    padding-top: 0.6vh;
+    transition: all $languageSwitcherTransitionTime;
+
+    @media screen and (max-height: 880px){
+        font-size: 3vh;
+        height: 6vh;
+        width: 6vh;
+        margin-left: -3vh;
+    }
+
+    @media screen and (max-height: 550px){
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+        padding-top: 0.75vh;
+    }
+
+    @media screen and (min-height: 881px){
+        width: 3.7vh;
+        height: 3.7vh;
+        font-size: 1.5vh;
+        margin-left: -3.85vh;
+    }
+
+    .lang{
+        font-size: 2vh;
+        color: $language-color;
+        margin: 5px;
+        display: none;
+        padding: 0 2px;  
+        padding: 0 1px;
+        @media screen and (max-height: 880px){
+            margin: 4px;
+        }
+        @media screen and (min-height: 880px){
+            padding: 0 1px;
+            font-size: 1.5vh;
+        }
+        &:hover{
+            cursor: pointer;
+        }
+    }
+
+
+    .icon-language{
+        border-radius: 250px;
+        background-color: black;
+        color: white;
+        margin: 0 auto;
+        text-align: center;
+        &:hover{
+            cursor: pointer;
+        }
+        @media screen and (max-height: 880px){
+            padding: 0.4vh 0.8vh;
+            height: 4.4vh;
+            width: 4.4vh;
+        }
+        @media screen and (min-height: 881px){
+            padding: 0.3vh 0.5vh;
+            height: 2.6vh;
+            width: 2.6vh;
+        }
+    }
+
+    .active-language{
+        border-bottom: 5px solid black;
+        color: black;
+        @media screen and (max-height: 880px){
+            font-size: 2.4vh;
+        }
+        @media screen and (min-height: 880px){
+            font-size: 1.6vh;
+        }
+    }
+}

@@ -1,0 +1,27 @@
+
+@import "sass_modules/variables.scss";
+@import "sass_modules/myIconFont.scss";
+
+
+@font-face {
+    font-family: 'sahel';
+    src: url('../assets/fonts/sahel.woff');
+}
+
+ 
+*{
+    font-family: 'sahel';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    color: font-color;
+    background-color: $background-color;
+    font-family: 'sahel';
+}
+
+@import "sass_modules/myTooltip.scss";
+@import "sass_modules/languageSwitcher.scss";

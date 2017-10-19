@@ -1,0 +1,58 @@
+
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    title My Personal Website
+    link(rel='stylesheet', href='dist/css/common.min.css')
+    link(rel='stylesheet', href='dist/css/index.min.css')
+    meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0")
+    meta(name="description" content="Modal Easter Egg, An easy way to hide data in a web page")
+    meta(name="keywords" content="Ashkan PH., Personal webpage")
+    meta(name="robots" content="all")
+    meta(name="rights" content="Copyright © 2017 Ashkan PH. - All rights reserved")
+    meta(name="Copyright" content="Ashkan PH")
+    meta(name="Designer" content="https://github.com/Ashkanph")
+    meta(name="Publisher" content="Ashkan PH")
+    meta(name="distribution" content="Global")
+    meta(name="Robots" content="INDEX,FOLLOW")
+    meta(property="og:title" content="Ashkan PH. personal webpage")
+    meta(property="og:site_name" content="Ashkan PH. personal webpage")
+    meta(property="og:type" content="website")
+    meta(property="og:url" content="http://ashkanph.github.io")
+    meta(property="og:description" content="Ashkan PH. personal webpage")
+    meta(http-equiv="Content-Type" content="text/html; charset=utf-8")  
+    link(rel="author" href="http://ashkanph.github.io")
+    link(rel="icon" type="image/png" href="https://user-images.githubusercontent.com/22937754/31788092-851d5c66-b51a-11e7-8e16-f5c3335dd537.jpg" sizes="32x32")
+  body
+    .homePageComponents
+        .center-container
+            picture
+                //- source(media="screen and (max-height: 550px)", srcset="dist/assets/images/ashkan_v3_250px.jpg")
+                source(media="screen and (max-height: 550px)", srcset="https://user-images.githubusercontent.com/22937754/31787999-381baef4-b51a-11e7-9ddc-e11976dbae7c.jpg")
+                //- source(media="screen and (max-height: 880px)", srcset="dist/assets/images/ashkan_v3_400px.jpg")
+                source(media="screen and (max-height: 880px)", srcset="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg")
+                //- source(media="screen and (min-height: 881px)", srcset="dist/assets/images/ashkan_v3_500px.jpg")
+                source(media="screen and (min-height: 881px)", srcset="https://user-images.githubusercontent.com/22937754/31788055-6baa5f54-b51a-11e7-9bf3-4a9652d05055.jpg")
+                img(src="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg")
+            .name(data-i18n_text="fullName")
+            .jobTitle(data-i18n_text="jobTitle")
+            ul(style="direction: ltr;")
+                li
+                    a.icon-gh.myTooltip(href='https://www.github.com/Ashkanph', data-i18n_title='githubDesc')
+                li
+                    a.icon-in.myTooltip(href='https://www.linkedin.com/Ashkanph', data-i18n_title='linkedinDesc')
+                li
+                    a.icon-so.myTooltip(href='https://stackoverflow.com/users/7338291/ashkan', data-i18n_title='so')
+                li
+                    a.icon-email.myTooltip(href='mailto:ashkanpaleganeh@gmail.com?Subject=HiFromYourWebsite', data-i18n_title='myEmail')
+                li
+                    a.icon-wp.myTooltip(data-i18n_href='wikipediaProfile', data-i18n_title='wikipediaDesc')
+                li
+                    a.icon-gr.myTooltip(href='https://www.goodreads.com/Ashkanph', data-i18n_title='goodreadsDesc')
+    #language-switcher(dir="ltr" style="width: 30vh; margin-left: -15vh;")
+        i.icon-language
+        #en.lang  English
+        #fa.lang.active-language(data-i18n_text="persian")
+        #eo.lang  Esperanto
+    script(src="dist/js/common.min.js")

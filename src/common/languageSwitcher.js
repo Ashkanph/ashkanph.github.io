@@ -8,8 +8,8 @@ function toggleLanguageSwitcher(closeLanguageIcon) {
 
 	if (languageIcon.style.display !== 'none' && !closeLanguageIcon) {
 		if (document.body.offsetHeight < 880) {
-			languageSwitcher.style.width = '30vh';
-			languageSwitcher.style.marginLeft = '-15vh';
+			languageSwitcher.style.width = '35vh';
+			languageSwitcher.style.marginLeft = '-17.5vh';
 		} else if (document.body.offsetHeight > 880) {
 			languageSwitcher.style.width = '24vh';
 			languageSwitcher.style.marginLeft = '-12vh';
@@ -46,29 +46,35 @@ function localizeAllContents(language) {
 				((localStorage.getItem('language') !== null) ?
 				localStorage.getItem('language') :
 				'en');
+				
 	localStorage.setItem('language', lang);
 	toggleLanguageSwitcher(true);
 
-	fa.classList.remove("active-language");
-	en.classList.remove("active-language");
-	eo.classList.remove("active-language");
-	
+	document.getElementsByClassName('active-language')[0].
+			classList.remove("active-language");
+
 	if (lang === 'fa'){
-		document.body.style.direction = "rtl";
+		document.body.classList.add("rtl");
+		document.body.classList.remove("ltr");
 		fa.classList.add("active-language");
 	}else{
-		document.body.style.direction = "ltr";
+		document.body.classList.add("ltr");
+		document.body.classList.remove("rtl");
 		if(lang === 'en')
 			en.classList.add("active-language");
 		if(lang === 'eo')
 			eo.classList.add("active-language");
 	}
 
-	let elementList = document.querySelectorAll('[data-i18n_title]');
-
+	let elementList = document.querySelectorAll('[data-i18n_tooltipTitle]');
 	for (let elm in elementList)
 		if (elementList[elm].dataset !== undefined)
-			elementList[elm].dataset.title = locale[lang][elementList[elm].dataset['i18n_title']];
+			elementList[elm].dataset.title = locale[lang][elementList[elm].dataset['i18n_tooltiptitle']];
+
+	elementList = document.querySelectorAll('[data-i18n_title]');
+	for (let elm in elementList)
+		if (elementList[elm].dataset !== undefined)
+			elementList[elm].title = locale[lang][elementList[elm].dataset['i18n_title']];
 
 	elementList = document.querySelectorAll('[data-i18n_text]');
 	for (let elm in elementList)
@@ -79,6 +85,8 @@ function localizeAllContents(language) {
 	for (let elm in elementList)
 		if (elementList[elm].dataset !== undefined)
 			elementList[elm].href = locale[lang][(elementList[elm].dataset['i18n_href'])];
+
+	addPageTitle();
 }
 
 window.onload = function () {

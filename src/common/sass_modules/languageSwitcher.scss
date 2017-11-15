@@ -1,14 +1,27 @@
 
+
+#space{
+    @media screen and (max-height: 880px){
+        height: 6vh; 
+    }
+
+    @media screen and (min-height: 881px){
+        height: 3.7vh; 
+    }
+}
+
 #language-switcher{
     position: fixed;
+    border: 1px solid #363030;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
     bottom: 0;
-    background-color: gray;
+    background-color: $language-switcher-bg;
     left:50%;
     text-align: center;
     padding-top: 0.6vh;
     transition: all $languageSwitcherTransitionTime;
+    z-index: 4;
 
     @media screen and (max-height: 880px){
         font-size: 3vh;
@@ -48,7 +61,6 @@
             cursor: pointer;
         }
     }
-
 
     .icon-language{
         border-radius: 250px;

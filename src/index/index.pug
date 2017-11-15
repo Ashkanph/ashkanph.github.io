@@ -37,22 +37,21 @@ html
                 img(src="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg")
             .name(data-i18n_text="fullName")
             .jobTitle(data-i18n_text="jobTitle")
+            .page
+                a(href="./dist/html/skills.html", data-i18n_text="skills")
+                //- a(href="./dist/html/book-recommendation.html", data-i18n_text="book-recommendation")
             ul(style="direction: ltr;")
                 li
-                    a.icon-gh.myTooltip(href='https://www.github.com/Ashkanph', data-i18n_title='githubDesc')
+                    a.icon-gh.myTooltip(href='https://www.github.com/Ashkanph', data-i18n_tooltipTitle='githubDesc')
                 li
-                    a.icon-in.myTooltip(href='https://www.linkedin.com/Ashkanph', data-i18n_title='linkedinDesc')
+                    a.icon-in.myTooltip(href='https://www.linkedin.com/Ashkanph', data-i18n_tooltipTitle='linkedinDesc')
                 li
-                    a.icon-so.myTooltip(href='https://stackoverflow.com/users/7338291/ashkan', data-i18n_title='so')
+                    a.icon-so.myTooltip(href='https://stackoverflow.com/users/7338291/ashkan', data-i18n_tooltipTitle='so')
                 li
-                    a.icon-email.myTooltip(href='mailto:ashkanpaleganeh@gmail.com?Subject=HiFromYourWebsite', data-i18n_title='myEmail')
+                    a.icon-email.myTooltip(href='mailto:ashkanpaleganeh@gmail.com?Subject=HiFromYourWebsite', data-i18n_tooltipTitle='myEmail')
                 li
-                    a.icon-wp.myTooltip(data-i18n_href='wikipediaProfile', data-i18n_title='wikipediaDesc')
+                    a.icon-wp.myTooltip(data-i18n_href='wikipediaProfile', data-i18n_tooltipTitle='wikipediaDesc')
                 li
-                    a.icon-gr.myTooltip(href='https://www.goodreads.com/Ashkanph', data-i18n_title='goodreadsDesc')
-    #language-switcher(dir="ltr" style="width: 30vh; margin-left: -15vh;")
-        i.icon-language
-        #en.lang  English
-        #fa.lang.active-language(data-i18n_text="persian")
-        #eo.lang  Esperanto
+                    a.icon-gr.myTooltip(href='https://www.goodreads.com/Ashkanph', data-i18n_tooltipTitle='goodreadsDesc')
+    include ../common/pug_modules/language-switcher.pug
     script(src="dist/js/common.min.js")

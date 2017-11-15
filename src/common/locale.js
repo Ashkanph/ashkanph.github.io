@@ -11,9 +11,13 @@ const locale = {
         "goodreadsDesc":     "پروفایل من در Goodreads",
         "so":                "پروفایل من در StackOverflow",
         "skills":            "توانایی‌ها",
-        "bookRecommendation":"پیشنهاد کتاب",
+        "book-recommendation":"پیشنهاد کتاب",
         "blog":              "وبلاگ",
-        "persian":           "فارسی"
+        "persian":           "فارسی",
+        "home":              "خانه",
+        "br":                "پیشنهاد کتاب",
+        "blog":              "وبلاگ",
+        "codes":             "کدهای من"
     },
     "en":{
         "fullName":          "Ashkan Ph.",
@@ -26,7 +30,14 @@ const locale = {
         "wikipediaDesc":     "My profile in English wikipedia",
         "goodreadsDesc":     "My profile in Goodreads",
         "so":                "My profile in StackOverflow",
-        "persian":           "فارسی"
+        "skills":            "Skills",
+        "book-recommendation":"Book Recommendations",
+        "blog":              "Blog",
+        "persian":           "فارسی",
+        "home":              "Home",
+        "br":                "Book recommendation",
+        "blog":              "Blog",
+        "codes":             "Codes"
     },
     "eo":{
         "fullName":          "Aŝkan Ph.",
@@ -39,6 +50,9 @@ const locale = {
         "wikipediaDesc":     "Mia profilo en la Esperanta Wikipedio",
         "goodreadsDesc":     "Mia profilo en la Goodreads",
         "so":                "Mia profilo en la StackOverflow",
-        "persian":           "فارسی"
+        "skills":            "Kapabloj",
+        "book-recommendation":"Rekomendoj de lobro",
+        "persian":           "فارسی",
+        "home":              "Hejmpaĝo"
     }
 };

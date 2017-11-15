@@ -1,0 +1,34 @@
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    title My Personal Website
+    link(rel='stylesheet', href='../css/common.min.css')
+    meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0")
+    meta(name="description" content="Modal Easter Egg, An easy way to hide data in a web page")
+    meta(name="keywords" content="Ashkan PH., Personal webpage")
+    meta(name="robots" content="all")
+    meta(name="rights" content="Copyright © 2017 Ashkan PH. - All rights reserved")
+    meta(name="Copyright" content="Ashkan PH")
+    meta(name="Designer" content="https://github.com/Ashkanph")
+    meta(name="Publisher" content="Ashkan PH")
+    meta(name="distribution" content="Global")
+    meta(name="Robots" content="INDEX,FOLLOW")
+    meta(property="og:title" content="Ashkan PH. personal webpage")
+    meta(property="og:site_name" content="Ashkan PH. personal webpage")
+    meta(property="og:type" content="website")
+    meta(property="og:url" content="http://ashkanph.github.io")
+    meta(property="og:description" content="Ashkan PH. personal webpage")
+    meta(http-equiv="Content-Type" content="text/html; charset=utf-8")  
+    link(rel="author" href="http://ashkanph.github.io")
+    link(rel="icon" type="image/png" href="https://user-images.githubusercontent.com/22937754/31788092-851d5c66-b51a-11e7-8e16-f5c3335dd537.jpg" sizes="32x32")
+  body.flex-layout
+    include ./header.pug
+    .main-wrapper
+      include ./side-menu.pug
+      .main-content
+        block content
+      .space(style="height: 50px;")
+    include ./language-switcher.pug
+    include ./footer.pug
+    script(src="../js/common.min.js")

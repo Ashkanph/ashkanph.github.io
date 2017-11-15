@@ -1,0 +1,98 @@
+
+
+.side-menu{
+    background-color: $side-menu-bg;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    min-height: 100%;
+    z-index: 2;
+    width: 0; /* 0 width - change this with JavaScript */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s;
+
+    #close-menu{
+        width: 220px;
+        position: absolute;
+        top: 0;
+        min-height: $header-height;
+        margin: 6px 0;
+        font-size: 1.9rem;
+        line-height: 30px;
+        background-color: $close-menu-background-color;
+        color: $side-menu-font-color;
+        border: none;
+        
+        &:hover{
+            color: white;
+        }
+    }
+
+    #top-vertical-menu {
+        z-index: 2;
+        display: block;
+        position: absolute;
+        background-color: $side-menu-bg;
+        width: 220px;
+        z-index: 2;
+        top: 47px;
+        white-space: nowrap;
+        overflow-y: auto;
+        bottom: 50px;
+        height: 100%;
+        top: 0;
+        bottom: 0;
+        min-height: 100%;
+        a{
+            color: $side-menu-font-color;
+            i{
+                padding: 2px;
+                text-shadow: -1px 0 #000, 0 2px 3px #000, 0px 0 0px #000, 0 -1px #000;
+                color: $side-menu-font-color;
+                margin-top: 2px;
+            }
+            span{
+                padding: 2px 2px;
+            }
+            .combined-icon-top-menu{
+                float: right;
+            }
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            width: 100%;
+
+            &:active, &:focus, &:hover{
+                background-color: $menu-link-hover-color;
+                text-shadow: none;
+            }
+        }
+        ul{
+            margin-bottom: 0;
+            width: 100%;
+            list-style-type: none;
+            padding: 0;
+        }
+        &:after, &:before {
+            bottom: 100%;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        &:after {
+            margin-left: -8px;
+        }
+        &:before {
+            margin-left: -14px;
+        }
+
+    }
+
+}
+
+.width-220px{
+    width: 220px !important;
+}

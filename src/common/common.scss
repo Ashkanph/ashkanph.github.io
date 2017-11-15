@@ -2,26 +2,73 @@
 @import "sass_modules/variables.scss";
 @import "sass_modules/myIconFont.scss";
 
-
 @font-face {
     font-family: 'sahel';
     src: url('../assets/fonts/sahel.woff');
 }
-
  
-*{
+*,
+*:before,
+*:after{
     font-family: 'sahel';
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    height: 100%;
+    min-height: 100%;
 
+}
 body {
     font-size: 16px;
-    color: font-color;
+    color: $font-color;
     background-color: $background-color;
     font-family: 'sahel';
+    height: 100%;
+    min-height: 100%;
+}
+
+.rtl{
+    direction: rtl;
+}
+.ltr{
+    direction: ltr;
+}
+
+.cursor-pointer{
+    &:hover{
+        cursor: pointer;
+    }
 }
 
 @import "sass_modules/myTooltip.scss";
 @import "sass_modules/languageSwitcher.scss";
+@import "sass_modules/plus-icon.scss";
+@import "sass_modules/side-menu.scss";
+@import "sass_modules/header.scss";
+@import "sass_modules/footer.scss";
+@import "sass_modules/locale.scss";
+
+/**
+ * 1. Avoid the IE 10-11 `min-height` bug.
+ * 2. Set `flex-shrink` to `0` to prevent some browsers from
+ *    letting these items shrink to smaller than their content's default
+ *    minimum size. See http://bit.ly/1Mn35US for details.
+ * 3. Use `%` instead of `vh` since `vh` is buggy in older mobile Safari.
+ */
+
+.flex-layout {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+
+.main-wrapper {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+    flex: 1 1 auto;
+  position: relative;/* need this to position inner content */
+  overflow-y: auto;
+}

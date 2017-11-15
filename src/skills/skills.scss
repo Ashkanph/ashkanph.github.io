@@ -1,0 +1,40 @@
+
+@import "../common/sass_modules/variables.scss";
+
+.skill{
+    margin: 10px;
+    background-color: $skill-body-bg;
+    border-radius: 15px;
+    .skill-title{
+        padding: 10px 15px;
+        background-color: $skill-title-bg;
+        color: $icon-background-color;
+        border-radius: 5px;
+        &:hover{
+            cursor: pointer;
+            color: white;
+        }
+        .icon-check-square{
+            vertical-align: sub;
+            font-size: 20px;
+            padding: 0 5px;
+        }
+        .stars{
+            padding: 0 15px;
+            color: $star-gold;
+            vertical-align: sub;
+        }
+    }
+
+    .skill-body{
+        display: none;
+        padding: 10px;
+        color: $language-color;
+        ul{
+            list-style-position: inside;
+            li{
+                padding: 0 10px;
+            }
+        }
+    }
+}

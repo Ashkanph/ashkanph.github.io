@@ -48,7 +48,7 @@
         .jobTitle{
             order: 3;
             text-align: center;
-            margin: 0 0 30px 0;
+            // margin: 0 0 30px 0;
             flex-basis: 100%;
             text-shadow: 0 0 1px $icon-border;
             @media screen and (max-height: 880px){
@@ -58,21 +58,42 @@
                 font-size: 2vh;
             }
         }
+        .vsjo{
+            order: 4;
+            text-align: center;
+            // margin: 0 0 25px 0;
+            flex-basis: 100%;
+            text-shadow: 0 0 1px $icon-border;
+            @media screen and (max-height: 880px){
+                font-size: 2.5vh;
+            }
+            @media screen and (min-height: 881px){
+                font-size: 1.5vh;
+            }
+        }
 
         .page{
             order: 5;
             text-align: center;
             font-weight: bold;
             flex-basis: 100%;
-            margin: 20px 0 -5px 0;
+            margin: 15px 0 -5px 0;
             text-shadow: 0 0 1px $icon-border;
             a{
                 display: inline-block;
                 @media screen and (max-height: 880px){
                     font-size: 2vh;
+                    width: 110px;
+                }
+                @media screen and (max-height: 600px){
+                    width: 80px;
+                }
+                @media screen and (max-height: 400px){
+                    width: 70px;
                 }
                 @media screen and (min-height: 881px){
                     font-size: 1.5vh;
+                    width: 120px;
                 }
                 background-color: $skill-title-bg;
                 padding: 10px;
@@ -122,4 +143,8 @@
             }
         }
     }
+}
+
+.index-margin-bottom-25{
+    margin-bottom: 25px;
 }

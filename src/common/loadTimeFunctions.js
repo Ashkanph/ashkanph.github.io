@@ -22,6 +22,7 @@ function addPageTitle() {
 
         if(typeof pageName === 'string'){
             writePageTitle(pageTitle, pageName);
+            setActiveMenu(pageName);
         }
     }
 }
@@ -35,7 +36,23 @@ function addPageTitle() {
 function writePageTitle(el, pageName) {
     let lang  =  (localStorage.getItem('language') !== undefined) ?
                   localStorage.getItem('language') : 'en';
-    setTimeout(function() {
+    // setTimeout(function() {
         el.innerHTML = (locale !== undefined) ? locale[lang][pageName] : '';
-    }, 400);
+    // }, 400);
+}
+
+/**
+ * Add css class of 'active' to appropriate menu
+ * 
+ * @param {string} pageName 
+ */
+function setActiveMenu(pageName) {
+    let activeMenu = document.getElementsByClassName('active-menu'),
+        menuItems  = document.getElementsByClassName('menu-item');
+    
+    if(activeMenu.length > 0)
+        activeMenu[0].classList.remove('active-menu');
+    
+    if(menuItems.length > 0)
+        document.getElementById('menu-' + pageName).classList.add('active-menu');
 }

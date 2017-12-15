@@ -1,14 +1,16 @@
 nav.side-menu
-    button#close-menu.cursor-pointer(onclick="toggleMenu('close');")
-        i.icon-bars
     #top-vertical-menu.dropdown-content
         .top-vertical-menu-links
             ul
-                li#menu-home
+                li.menu-item#menu-home
                     a(href="../../index.html")
                         i.icon-home
                         span(data-i18n_text="home")
-                li#menu-skills
+                li.menu-item#menu-skills
                     a(href="./skills.html")
                         i.icon-check-square
                         span(data-i18n_text="skills")
+                li.menu-item#menu-book-recommendation
+                    a(href="./book-recommendation.html", data-hide="en-eo")
+                        i.icon-book
+                        span(data-i18n_text="book-recommendation")

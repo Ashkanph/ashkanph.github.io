@@ -23,12 +23,12 @@ html
     link(rel="author" href="http://ashkanph.github.io")
     link(rel="icon" type="image/png" href="https://user-images.githubusercontent.com/22937754/31788092-851d5c66-b51a-11e7-8e16-f5c3335dd537.jpg" sizes="32x32")
   body.flex-layout
-    include ./header.pug
     .main-wrapper
+      include ./header.pug  
       include ./side-menu.pug
       .main-content
         block content
       .space(style="height: 50px;")
+      include ./footer.pug
     include ./language-switcher.pug
-    include ./footer.pug
     script(src="../js/common.min.js")

@@ -3,30 +3,12 @@
 .side-menu{
     background-color: $side-menu-bg;
     position: absolute;
-    top: 0;
+    top: $header-height;
     bottom: 0;
-    min-height: 100%;
     z-index: 2;
     width: 0; /* 0 width - change this with JavaScript */
     overflow-x: hidden; /* Disable horizontal scroll */
-    transition: 0.5s;
-
-    #close-menu{
-        width: 220px;
-        position: absolute;
-        top: 0;
-        min-height: $header-height;
-        margin: 6px 0;
-        font-size: 1.9rem;
-        line-height: 30px;
-        background-color: $close-menu-background-color;
-        color: $side-menu-font-color;
-        border: none;
-        
-        &:hover{
-            color: white;
-        }
-    }
+    transition: width 0.5s;
 
     #top-vertical-menu {
         z-index: 2;
@@ -67,28 +49,15 @@
                 text-shadow: none;
             }
         }
+        .active-menu{
+            background-color: $active-menu-link-color;
+        }
         ul{
             margin-bottom: 0;
             width: 100%;
             list-style-type: none;
             padding: 0;
         }
-        &:after, &:before {
-            bottom: 100%;
-            content: " ";
-            height: 0;
-            width: 0;
-            position: absolute;
-            pointer-events: none;
-        }
-
-        &:after {
-            margin-left: -8px;
-        }
-        &:before {
-            margin-left: -14px;
-        }
-
     }
 
 }

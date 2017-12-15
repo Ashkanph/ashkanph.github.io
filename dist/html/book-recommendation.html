@@ -24,34 +24,37 @@
     <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/22937754/31788092-851d5c66-b51a-11e7-8e16-f5c3335dd537.jpg" sizes="32x32">
   </head>
   <body class="flex-layout">
-    <header><span class="cursor-pointer" id="open-menu" onclick="toggleMenu();"><i class="icon-bars"></i></span><span id="page-title"></span>
-      <div class="home cursor-pointer" data-i18n_title="home"><a href="../../index.html"><i class="icon-home"></i></a></div>
-    </header>
     <div class="main-wrapper">
+      <header><span class="cursor-pointer" id="open-menu" onclick="toggleMenu();"><i class="icon-bars"></i></span><span id="page-title"></span>
+        <div class="home cursor-pointer" data-i18n_title="home"><a href="../../index.html"><i class="icon-home"></i></a></div>
+      </header>
+      <div class="free-space"></div>
       <nav class="side-menu">
-        <button class="cursor-pointer" id="close-menu" onclick="toggleMenu('close');"><i class="icon-bars"></i></button>
         <div class="dropdown-content" id="top-vertical-menu">
           <div class="top-vertical-menu-links">
             <ul>
-              <li id="menu-home"><a href="../../index.html"><i class="icon-home"></i><span data-i18n_text="home"></span></a></li>
-              <li id="menu-skills"><a href="./skills.html"><i class="icon-check-square"></i><span data-i18n_text="skills"></span></a></li>
+              <li class="menu-item" id="menu-home"><a href="../../index.html"><i class="icon-home"></i><span data-i18n_text="home"></span></a></li>
+              <li class="menu-item" id="menu-skills"><a href="./skills.html"><i class="icon-check-square"></i><span data-i18n_text="skills"></span></a></li>
+              <li class="menu-item" id="menu-book-recommendation"><a href="./book-recommendation.html" data-hide="en-eo"><i class="icon-book"></i><span data-i18n_text="book-recommendation"></span></a></li>
             </ul>
           </div>
         </div>
       </nav>
       <div class="main-content">
-        <link rel="stylesheet" href="../css/skills.min.css">
-        <div class="ltr" id="skills"></div>
-        <script src="../js/skills.min.js"></script>
+        <link rel="stylesheet" href="../css/book-recommendation.min.css">
+        <div id="books"></div>
+        <script src="../js/common.min.js"></script>
+        <script src="../assets/books.js"></script>
+        <script src="../js/book-recommendation.min.js"></script>
       </div>
       <div class="space" style="height: 50px;"></div>
+      <footer class="ltr" id="footer"><span class="name">Ashkan Ph.</span><span class="year">2017</span></footer>
     </div>
     <div id="language-switcher" dir="ltr" style="width: 30vh; margin-left: -15vh;"><i class="icon-language"></i>
       <div class="lang" id="en"> English</div>
       <div class="lang active-language" id="fa" data-i18n_text="persian"></div>
       <div class="lang" id="eo"> Esperanto</div>
     </div>
-    <footer class="ltr" id="footer"><span class="name">Design & content By: Ashkan Ph.</span><span class="year">2017</span></footer>
     <script src="../js/common.min.js"></script>
   </body>
 </html>

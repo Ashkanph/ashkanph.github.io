@@ -1,10 +1,10 @@
 
 function toggleLanguageSwitcher(closeLanguageIcon) {
-	let languageIcon 		= document.getElementsByClassName('icon-language')[0],
-		languageSwitcher 	= document.getElementById('language-switcher'),
-		en			 		= document.getElementById('en'),
-		fa			 		= document.getElementById('fa'),
-		eo			 		= document.getElementById('eo');
+	let languageIcon 	  = document.getElementsByClassName('icon-language')[0],
+		languageSwitcher  = document.getElementById('language-switcher'),
+		en			 	  = document.getElementById('en'),
+		fa			 	  = document.getElementById('fa'),
+		eo			 	  = document.getElementById('eo');
 
 	if (languageIcon.style.display !== 'none' && !closeLanguageIcon) {
 		if (document.body.offsetHeight < 880) {
@@ -85,7 +85,26 @@ function localizeAllContents(language) {
 	for (let elm in elementList)
 		if (elementList[elm].dataset !== undefined)
 			elementList[elm].href = locale[lang][(elementList[elm].dataset['i18n_href'])];
+	
+	elementList = document.querySelectorAll('[data-hide]');
+	for (let elm in elementList){
+		if (elementList[elm].dataset !== undefined){
+			let ls = (elementList[elm].dataset.hide).split('-'),
+				done = false;
+			
+			for(let el of ls){
+				if(!done)
+					if(lang === el){
+						done = true;
+						elementList[elm].style.display = 'none';
+					}else
+						elementList[elm].style.display = 'inline-block';
+			}
+		}
+		
+	}
 
+	addMarginBottom(lang);
 	addPageTitle();
 }
 
@@ -121,3 +140,21 @@ window.onload = function () {
 
 	localizeAllContents();
 };
+
+/**
+ * Add margin bottom to vsjo or jobTitle class elements depend on the language
+ */
+function addMarginBottom(lang) {
+	let jobTitle = document.getElementsByClassName('jobTitle'),
+		vsjo     = document.getElementsByClassName('vsjo');
+		
+	if(jobTitle.length > 0){
+		document.getElementsByClassName('index-margin-bottom-25')[0].
+				classList.remove('index-margin-bottom-25');
+		
+		if(lang === 'fa')
+			jobTitle[0].classList.add('index-margin-bottom-25');
+		else
+			vsjo[0].classList.add('index-margin-bottom-25');
+	}
+}

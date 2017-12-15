@@ -37,7 +37,8 @@ const locale = {
         "home":              "Home",
         "br":                "Book recommendation",
         "blog":              "Blog",
-        "codes":             "Codes"
+        "codes":             "Codes",
+        "vsjo":              "(Open for visa-sponsored job offers)"
     },
     "eo":{
         "fullName":          "Aŝkan Ph.",
@@ -53,6 +54,7 @@ const locale = {
         "skills":            "Kapabloj",
         "book-recommendation":"Rekomendoj de lobro",
         "persian":           "فارسی",
-        "home":              "Hejmpaĝo"
+        "home":              "Hejmpaĝo",
+        "vsjo":              "(Malferma por Vizo-patronita laborpostenoj)"
     }
 };

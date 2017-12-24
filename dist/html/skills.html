@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>My Personal Website</title>
+    <link rel="stylesheet" href="../css/common.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="description" content="Modal Easter Egg, An easy way to hide data in a web page">
+    <meta name="keywords" content="Ashkan PH., Personal webpage">
+    <meta name="robots" content="all">
+    <meta name="rights" content="Copyright © 2017 Ashkan PH. - All rights reserved">
+    <meta name="Copyright" content="Ashkan PH">
+    <meta name="Designer" content="https://github.com/Ashkanph">
+    <meta name="Publisher" content="Ashkan PH">
+    <meta name="distribution" content="Global">
+    <meta name="Robots" content="INDEX,FOLLOW">
+    <meta property="og:title" content="Ashkan PH. personal webpage">
+    <meta property="og:site_name" content="Ashkan PH. personal webpage">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://ashkanph.github.io">
+    <meta property="og:description" content="Ashkan PH. personal webpage">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="author" href="http://ashkanph.github.io">
+    <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/22937754/31788092-851d5c66-b51a-11e7-8e16-f5c3335dd537.jpg" sizes="32x32">
+  </head>
+  <body class="flex-layout">
+    <div class="main-wrapper">
+      <header><span class="cursor-pointer" id="open-menu" onclick="toggleMenu();"><i class="icon-bars"></i></span><span id="page-title"></span>
+        <div class="home cursor-pointer" data-i18n_title="home"><a href="../../index.html"><i class="icon-home"></i></a></div>
+      </header>
+      <div class="free-space"></div>
+      <nav class="side-menu">
+        <div class="dropdown-content" id="top-vertical-menu">
+          <div class="top-vertical-menu-links">
+            <ul>
+              <li class="menu-item" id="menu-home"><a href="../../index.html"><i class="icon-home"></i><span data-i18n_text="home"></span></a></li>
+              <li class="menu-item" id="menu-skills"><a href="./skills.html"><i class="icon-check-square"></i><span data-i18n_text="skills"></span></a></li>
+              <li class="menu-item" id="menu-book-recommendation"><a href="./book-recommendation.html" data-hide="en-eo"><i class="icon-book"></i><span data-i18n_text="book-recommendation"></span></a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="main-content">
+        <link rel="stylesheet" href="../css/skills.min.css">
+        <div class="ltr" id="skills"></div>
+        <script src="../assets/skills.js"></script>
+        <script src="../js/skills.min.js"></script>
+      </div>
+      <div class="space" style="height: 50px;"></div>
+      <footer class="ltr" id="footer"><span class="name">Ashkan Ph.</span><span class="year">2017</span></footer>
+    </div>
+    <div id="language-switcher" dir="ltr" style="width: 30vh; margin-left: -15vh;"><i class="icon-language"></i>
+      <div class="lang" id="en"> English</div>
+      <div class="lang active-language" id="fa" data-i18n_text="persian"></div>
+      <div class="lang" id="eo"> Esperanto</div>
+    </div>
+    <script src="../js/common.min.js"></script>
+  </body>
+</html>

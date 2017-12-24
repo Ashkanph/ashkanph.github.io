@@ -1,9 +1,9 @@
 /**
  * A set of self-invoking functions for all pages
  */
-(() => {
-    addPageTitle();
-})();
+// (() => {
+//     addPageTitle();
+// })();
 
 function addPageTitle() {
     let pagePathName = location.pathname,
@@ -12,7 +12,8 @@ function addPageTitle() {
     if(pageTitle !== null){
         let pageName = {
                 'skills': 'skills',
-                'book-recommendation': 'book-recommendation' 
+                'book-recommendation': 'book-recommendation', 
+                'siri_rebellion': 'siri_rebellion' 
             },
             keys = Object.keys(pageName);
         
@@ -34,11 +35,18 @@ function addPageTitle() {
  * @param {string} pageName 
  */
 function writePageTitle(el, pageName) {
+    console.log('hi');
+    
     let lang  =  (localStorage.getItem('language') !== undefined) ?
                   localStorage.getItem('language') : 'en';
-    // setTimeout(function() {
+    console.log(lang);
+                  
+    console.log(locale);
+    
+    setTimeout(function() {
+    console.log(locale[lang][pageName]);
         el.innerHTML = (locale !== undefined) ? locale[lang][pageName] : '';
-    // }, 400);
+    }, 400);
 }
 
 /**

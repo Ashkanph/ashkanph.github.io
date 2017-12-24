@@ -17,7 +17,8 @@ const locale = {
         "home":              "خانه",
         "br":                "پیشنهاد کتاب",
         "blog":              "وبلاگ",
-        "codes":             "کدهای من"
+        "codes":             "کدهای من",
+        "siri_rebellion":             "شورش سیری"
     },
     "en":{
         "fullName":          "Ashkan Ph.",
@@ -38,7 +39,8 @@ const locale = {
         "br":                "Book recommendation",
         "blog":              "Blog",
         "codes":             "Codes",
-        "vsjo":              "(Open for visa-sponsored job offers)"
+        "vsjo":              "(Open for visa-sponsored job offers)",
+        "siri_rebellion":    "Siri's rebellion"
     },
     "eo":{
         "fullName":          "Aŝkan Ph.",
@@ -55,6 +57,7 @@ const locale = {
         "book-recommendation":"Rekomendoj de lobro",
         "persian":           "فارسی",
         "home":              "Hejmpaĝo",
-        "vsjo":              "(Malferma por Vizo-patronita laborpostenoj)"
+        "vsjo":              "(Malferma por Vizo-patronita laborpostenoj)",
+        "siri_rebellion":    "Ribelo de Siri"
     }
 };

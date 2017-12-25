@@ -104,7 +104,8 @@ function localizeAllContents(language) {
 		
 	}
 
-	addMarginBottom(lang);
+	// This was for vsjo
+	// addMarginBottom(lang);
 	addPageTitle();
 }
 

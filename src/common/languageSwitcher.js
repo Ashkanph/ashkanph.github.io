@@ -46,6 +46,9 @@ function localizeAllContents(language) {
 				((localStorage.getItem('language') !== null) ?
 				localStorage.getItem('language') :
 				'en');
+
+				console.log(lang);
+				
 				
 	localStorage.setItem('language', lang);
 	toggleLanguageSwitcher(true);
@@ -139,8 +142,17 @@ window.onload = function () {
 			localizeAllContents('fa');
 		};
 
-	localizeAllContents();
+	localizeAllContents(readQueryString());
 };
+
+// read query string of the address 
+// (It will be used to send the language we want the page be send with it)
+function readQueryString() {
+	let qs = window.location.search;
+	if(qs !== "")
+		return qs.split('?')[1];
+	return undefined;
+}
 
 /**
  * Add margin bottom to vsjo or jobTitle class elements depend on the language

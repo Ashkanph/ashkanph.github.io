@@ -35,16 +35,9 @@ function addPageTitle() {
  * @param {string} pageName 
  */
 function writePageTitle(el, pageName) {
-    console.log('hi');
-    
     let lang  =  (localStorage.getItem('language') !== undefined) ?
                   localStorage.getItem('language') : 'en';
-    console.log(lang);
-                  
-    console.log(locale);
-    
     setTimeout(function() {
-    console.log(locale[lang][pageName]);
         el.innerHTML = (locale !== undefined) ? locale[lang][pageName] : '';
     }, 400);
 }

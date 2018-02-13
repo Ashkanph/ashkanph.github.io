@@ -3,7 +3,7 @@ let skills = {
         "stars": 4.5
     },
     "CSS(3)": {
-        "stars": 4.5,
+        "stars": 4,
         "subs": [
             "SASS",
             "LESS",
@@ -13,17 +13,17 @@ let skills = {
         ]
     }, 
     "Javascript": {
-        "stars": 4,
+        "stars": 3.5,
         "subs": [
             "Ajax",
             "jQuery",
-            "AngularJS", 
-            "Angular",
+            "AngularJS",
             "React",
+            "Redux",
             "Node.js",
             "Gulp, Webpack",
             "Leaflet, Open Street Map, Google Map, etc",
-            "Chart.js, Chartist, D3 charts, etc"
+            "Chart.js, Chartist, etc"
         ]
     },
     "PHP": {

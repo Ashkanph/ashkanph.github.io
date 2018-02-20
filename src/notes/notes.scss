@@ -146,14 +146,14 @@ html{
 }
 
 code, ul li pre code{
-    font-family: 'DejaVuSansMono', "Menlo", "Liberation Mono", "Consolas", "DejaVu Sans Mono", "Ubuntu Mono", "Courier New", "andale mono", "lucida console", monospace !important;
     white-space: pre;
     word-wrap: normal;
-    padding: 3px 7px;
+    padding: 1px 6px 1px 4px;
     color: #24292e;
-    background-color: rgba(27,31,35,0.05);
+    background-color: rgba(27,31,35,0.12);
     border-radius: 3px;
     font-size: 1rem;
+    font-style: italic
 }
 
 pre code span, code span{
@@ -194,14 +194,16 @@ a{
     font-weight: 900;
     font-size: 1.3rem;
     padding-top: 3.8rem;
-    font-style: italic;
     text-align: center;
 
     a {
+        font-size: 16px;
         background-color: #fff;
-        padding: 2px;
-        border: 1px solid #dbb;
+        padding: 0 10px;
+        border-radius: 125px;
+        border: 1px solid lightgray;
         text-decoration: none;
+        color: darkgray;
     }
 }
 
@@ -222,8 +224,8 @@ a{
     text-align: center !important;
     letter-spacing: 2px;
     color: dimgray;
+    clear: both;
 }
-
 
 .english, .french, .other{
     direction: ltr;
@@ -268,6 +270,11 @@ a{
   padding: 10px;
 }
 
+#list-of-titles ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
 
 /* ------ list of titles -------- */
 @media screen and (min-width: 400px) {

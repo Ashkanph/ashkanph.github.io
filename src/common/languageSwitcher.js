@@ -45,10 +45,7 @@ function localizeAllContents(language) {
 	let lang =  (language !== undefined) ? language :
 				((localStorage.getItem('language') !== null) ?
 				localStorage.getItem('language') :
-				'en');
-
-				console.log(lang);
-				
+				'en');				
 				
 	localStorage.setItem('language', lang);
 	toggleLanguageSwitcher(true);

@@ -12,13 +12,14 @@ const locale = {
         "so":                "پروفایل من در StackOverflow",
         "skills":            "توانایی‌ها",
         "book-recommendation":"پیشنهاد کتاب",
+        "notes":             "یادداشت‌ها",
         "blog":              "وبلاگ",
         "persian":           "فارسی",
         "home":              "خانه",
         "br":                "پیشنهاد کتاب",
         "blog":              "وبلاگ",
         "codes":             "کدهای من",
-        "siri_rebellion":             "شورش سیری"
+        "siri_rebellion":    "شورش سیری"
     },
     "en":{
         "fullName":          "Ashkan Ph.",
@@ -33,6 +34,7 @@ const locale = {
         "so":                "My profile in StackOverflow",
         "skills":            "Skills",
         "book-recommendation":"Book Recommendations",
+        "notes":             "Notes",
         "blog":              "Blog",
         "persian":           "فارسی",
         "home":              "Home",
@@ -57,6 +59,7 @@ const locale = {
         "book-recommendation":"Rekomendoj de lobro",
         "persian":           "فارسی",
         "home":              "Hejmpaĝo",
+        "notes":             "Notoj",
         "vsjo":              "(Malferma por Vizo-patronita laborpostenoj)",
         "siri_rebellion":    "Ribelo de Siri"
     }

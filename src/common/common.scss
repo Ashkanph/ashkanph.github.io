@@ -22,7 +22,8 @@ html{
 }
 body {
     color: $font-color;
-    background-color: $background-color;
+    // background-color: $background-color;
+    background-color: white;
     font-family: 'sahel';
     height: 100%;
     min-height: 100%;
@@ -52,8 +53,10 @@ body {
 .main-wrapper {
   width: 100%;
   max-width: 1024px;
+  min-height: 100%;
   margin: 0 auto;
-  background-color: $main-wrapper-color;
+  outline: 1px solid $header-bg;
+  background-color: $background-color;
   position: relative;/* need this to position inner content */
 }
 

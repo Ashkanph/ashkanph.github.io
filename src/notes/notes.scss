@@ -278,11 +278,27 @@ a{
     }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 530px) {
     #list-of-titles ul {
         columns: 3;
         -webkit-columns: 3;
         -moz-columns: 3;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    #list-of-titles ul {
+        columns: 4;
+        -webkit-columns: 4;
+        -moz-columns: 4;
+    }
+}
+
+@media screen and (min-width: 870px) {
+    #list-of-titles ul {
+        columns: 5;
+        -webkit-columns: 5;
+        -moz-columns: 5;
     }
 }
 #list-of-titles {

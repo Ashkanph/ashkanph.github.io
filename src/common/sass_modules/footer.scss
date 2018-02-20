@@ -1,15 +1,17 @@
 #footer {
+    position: fixed;
     width: 100%;
     max-width: 1024px;
-    color: $side-menu-font-color;
     padding: 2px 25px;
-    background-color: $header-bg;
+    @media screen and (max-width: 600px) {
+        height: $footer-height;
+        padding: 0 25px;
+    }
+    color: $side-menu-font-color;
+    background-color: $footer-bg;
     border: none;
     border-top: 1px solid $header-border-bottom-color;
     z-index: 3;
-    width: 100%;
-    max-width: 1024px;
-    position: fixed;
     bottom: 0;
     font-size: 14px;
     .name{

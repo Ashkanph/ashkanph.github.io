@@ -13,7 +13,8 @@ function addPageTitle() {
         let pageName = {
                 'skills': 'skills',
                 'book-recommendation': 'book-recommendation', 
-                'siri_rebellion': 'siri_rebellion' 
+                'siri_rebellion': 'siri_rebellion', 
+                'notes': 'notes' 
             },
             keys = Object.keys(pageName);
         

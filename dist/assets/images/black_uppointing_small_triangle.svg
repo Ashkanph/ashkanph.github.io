@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+   height="24.5"
+   width="28.299999"
+   id="svg9"
+   version="1.1"
+   font-size="12"
+   font-style="normal"
+   font-weight="normal"
+   stroke-miterlimit="10">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!--Unicode Character 'BLACK UP-POINTING SMALL TRIANGLE' (U+25B4)-->
+  <defs
+     id="genericDefs" />
+  <g
+     transform="matrix(0.31790828,0,0,0.31790828,-13.286001,-72.081502)"
+     style="fill:#a9a9a9;fill-opacity:1"
+     id="g7">
+    <g
+       style="fill:#a9a9a9;fill-opacity:1"
+       id="g5">
+      <path
+         style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+         id="path3"
+         d="m 130.7812,303.75 -88.7343,0 44.2969,-76.7812 z" />
+    </g>
+  </g>
+</svg>

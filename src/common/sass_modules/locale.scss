@@ -9,8 +9,19 @@ body.rtl {
         .home {
             left: 15px;
         }
+        .first-page-languge-switcher{
+            left: 50px;
+        }
         #page-title {
             right: 55px;
+        }
+    }
+    .first-page-open-menu{
+        #open-menu{
+            margin-right: 16px;
+        }
+        .first-page-languge-switcher{
+            left: 15px;
         }
     }
     .side-menu {
@@ -39,10 +50,23 @@ body.ltr {
         .home {
             right: 15px;
         }
+        .first-page-languge-switcher{
+            right: 50px;
+        }
         #page-title {
             left: 55px;
         }
     }
+
+    .first-page-open-menu{
+        #open-menu{
+            left: 16px;
+        }
+        .first-page-languge-switcher{
+            right: 15px;
+        }
+    }
+
     .side-menu {
         left: 0;
         #hard-reset-btn {

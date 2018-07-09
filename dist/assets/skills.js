@@ -17,13 +17,13 @@ let skills = {
         "subs": [
             "Ajax",
             "jQuery",
-            "AngularJS",
+            "AngularJS", 
             "React",
             "Redux",
             "Node.js",
             "Gulp, Webpack",
             "Leaflet, Open Street Map, Google Map, etc",
-            "Chart.js, Chartist, etc"
+            "Chart.js, Chartist, D3 charts, etc"
         ]
     },
     "PHP": {

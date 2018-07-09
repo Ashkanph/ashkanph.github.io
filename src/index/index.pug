@@ -4,9 +4,8 @@ html
   head
     meta(charset='UTF-8')
     title My Personal Website
-    link(rel='stylesheet', href='dist/css/common.min.css')
-    link(rel='stylesheet', href='dist/css/index.min.css')
-    script(src="dist/js/common.min.js")
+    link(rel='stylesheet', href='dist/css/common.min.css?v=2.0')
+    link(rel='stylesheet', href='dist/css/index.min.css?v=2.0')
     meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0")
     meta(name="description" content="Modal Easter Egg, An easy way to hide data in a web page")
     meta(name="keywords" content="Ashkan PH., Personal webpage")
@@ -26,6 +25,14 @@ html
     link(rel="author" href="http://ashkanph.github.io")
     link(rel="icon" type="image/png" href="https://user-images.githubusercontent.com/22937754/31788092-851d5c66-b51a-11e7-8e16-f5c3335dd537.jpg" sizes="32x32")
   body
+    .first-page-open-menu.hide-in-desktop.cursor-pointer
+        .first-page-languge-switcher
+            span#index-lang-en(onclick="localizeAllContents('en');") En
+            span#index-lang-fa(onclick="localizeAllContents('fa');") Fa
+            span#index-lang-eo(onclick="localizeAllContents('eo');") Eo
+        span#open-menu(onclick="toggleMenu();")
+            i.icon-bars
+    include ../common/pug_modules/first-page-side-menu.pug
     .homePageComponents
         .center-container
             picture
@@ -39,9 +46,9 @@ html
             .name(data-i18n_text="fullName")
             .jobTitle.index-margin-bottom-25(data-i18n_text="jobTitle")
             //- .vsjo.index-margin-bottom-25(data-i18n_text="vsjo", data-hide="fa")
-            .page
+            .page.hide-in-mobile-tablet
                 a(href="./dist/html/skills.html", data-i18n_text="skills")
-                a(href="./dist/html/book-recommendation.html", data-i18n_text="book-recommendation", data-hide="en-eo")
+                a(href="./dist/html/notes.html", data-i18n_text="notes", data-hide="en-eo")
             ul(style="direction: ltr;")
                 li
                     a.icon-gh.myTooltip(href='https://www.github.com/Ashkanph', data-i18n_tooltipTitle='githubDesc')
@@ -56,3 +63,4 @@ html
                 li
                     a.icon-gr.myTooltip(href='https://www.goodreads.com/Ashkanph', data-i18n_tooltipTitle='goodreadsDesc')
     include ../common/pug_modules/language-switcher.pug
+    script(src="dist/js/common.min.js?v=2.0")

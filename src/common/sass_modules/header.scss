@@ -1,5 +1,5 @@
 
- header{
+header{
     color: $header-color;
     z-index: 3;
     background-color: $header-bg;
@@ -39,10 +39,61 @@
             }
         }
     }
- }
+}
+
 .free-space{
     height: $header-height;
 }
+
 .active-menu-link{
     background-color: $menu-link-hover-color;
+}
+
+.first-page-open-menu{
+    color: $header-color;
+    z-index: 3;
+    background-color: $header-bg;
+    height: $header-height;
+    width: 0px;
+    position: fixed;
+    transition: width 0.5s;
+    #open-menu{
+        padding: 8px 10px;
+        border-radius: 5px;
+        line-height: 1rem;
+        position: absolute;
+        color: $side-menu-font-color;
+        display: inline-block;
+        margin: 6px 0;
+        font-size: 1.9rem;
+        border: none;
+        background-color: $header-bg;
+        &:hover{
+            color: white;
+            border: none;
+        }
+    }
+}
+.first-page-open-menu, header{
+    .first-page-languge-switcher{
+        font-size: 1.8rem;
+        position: absolute;
+        a{
+            color: $side-menu-font-color;
+            text-decoration: none;
+        }
+
+        #index-lang-en, #index-lang-eo, #index-lang-fa{
+            background-color: rgba(255, 255, 255 , 0.7);
+            border-radius: 5px;
+            font-size: 1.3rem;
+            padding: 0 0.4rem;
+            margin: 0 0.2rem;
+            cursor: pointer;
+            &:hover{
+                background-color: rgba(255, 255, 255 , 1.0);
+            }
+        }
+        
+    }
 }

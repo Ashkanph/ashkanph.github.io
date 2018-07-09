@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>My Personal Website</title>
-    <link rel="stylesheet" href="../css/common.min.css">
+    <link rel="stylesheet" href="../css/common.min.css?v=2.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta name="description" content="Modal Easter Egg, An easy way to hide data in a web page">
     <meta name="keywords" content="Ashkan PH., Personal webpage">
@@ -27,6 +27,7 @@
     <div class="main-wrapper">
       <header><span class="cursor-pointer" id="open-menu" onclick="toggleMenu();"><i class="icon-bars"></i></span><span id="page-title"></span>
         <div class="home cursor-pointer" data-i18n_title="home"><a href="../../index.html"><i class="icon-home"></i></a></div>
+        <div class="first-page-languge-switcher"><span id="index-lang-en" onclick="localizeAllContents('en');">En</span><span id="index-lang-fa" onclick="localizeAllContents('fa');">Fa</span><span id="index-lang-eo" onclick="localizeAllContents('eo');">Eo</span></div>
       </header>
       <div class="free-space"></div>
       <nav class="side-menu">
@@ -48,13 +49,7 @@
         <script src="../js/skills.min.js"></script>
       </div>
       <div class="space" style="height: 50px;"></div>
-      <footer class="ltr" id="footer"><span class="name">Ashkan Ph.</span><span class="year">2017</span></footer>
     </div>
-    <div id="language-switcher" dir="ltr" style="width: 30vh; margin-left: -15vh;"><i class="icon-language"></i>
-      <div class="lang" id="en"> English</div>
-      <div class="lang active-language" id="fa" data-i18n_text="persian"></div>
-      <div class="lang" id="eo"> Esperanto</div>
-    </div>
-    <script src="../js/common.min.js"></script>
+    <script src="../js/common.min.js?v=2.0"></script>
   </body>
 </html>

@@ -1,7 +1,4 @@
 
-
-
-
 languageInitiate();
 
 function toggleLanguageSwitcher(closeLanguageIcon) {
@@ -70,19 +67,17 @@ function localizeAllContents(language) {
 	if (lang === 'fa'){
 		document.body.classList.add("rtl");
 		document.body.classList.remove("ltr");
-		// if(languageIcon.length > 0)
-		// 	fa.classList.add("active-language");
+		if(languageIcon.length > 0)
+			fa.classList.add("active-language");
 	}else{
 		document.body.classList.add("ltr");
 		document.body.classList.remove("rtl");
-		// if(lang === 'en' && languageIcon.length > 0)
-		// 	en.classList.add("active-language");
-		// else if(lang === 'eo' && languageIcon.length > 0)
-		// 	eo.classList.add("active-language");
+		if(lang === 'en' && languageIcon.length > 0)
+			en.classList.add("active-language");
+		else if(lang === 'eo' && languageIcon.length > 0)
+			eo.classList.add("active-language");
 	}
 
-		console.log('saaaaaaaaaaaaa');
-		console.log(locale);
 	let elementList = document.querySelectorAll('[data-i18n_tooltipTitle]');
 	for (let elm in elementList)
 		if (elementList[elm].dataset != null)

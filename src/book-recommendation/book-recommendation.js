@@ -46,12 +46,11 @@ function latToPerNumbers(s) {
 function fillBooks(){    
     let bookIndex   = 1,
         content = makeList(books);
-
     for (let book of books) {
         if(book['pname'] && book['type'] == 'book'){
             content += (bookIndex !== 1) ? '<hr>' : '';
             content += '<section class="book">\
-                            <span class="book-title" id="' + book.pname + '">\
+                            <span class="book-title" id="' + book.oname + '">\
                                 <em>' + latToPerNumbers(bookIndex++) + '. \
                                     <strong>' +  book['pname'] + 
                                             ' (' + book['oname'] + ')</strong>\
@@ -59,8 +58,8 @@ function fillBooks(){
                                 <em>نویسنده: \
                                     <strong>' + book['creator'] + 
                                                         '</strong>&nbsp;&nbsp;\
-                                    <a href="#listofbooks" title="برگشت به بالای صفحه"\
-                                        <b>&#8593;</b>\
+                                    <a href="#notes-desc"\
+                                       class="return-to-top" title="برگشت به بالای صفحه">\
                                     </a>\
                                 </em>\
                             </span>';
@@ -82,21 +81,24 @@ function fillBooks(){
  * @returns {string} The HTML list of the books
  */
 function makeList() {
-    let content = '<div id="listofbooks" class="list">',
+    let content = '',
         bookIndex = 1;
 
-    content += '<span class="list-title">\
-                    <b>فهرست کتاب‌ها</b>\
-                </span>';
-    content += " به مرور کتاب‌ها و آهنگ‌های بیشتری را در این صفحه معرفی می‌کنم (ترتیب معرفی‌ها مشخص‌کننده چیزی نیست).";
-    content += '<p>';
-    
+    content += '<div id="notes-desc">';
+    content += " به مرور کتاب‌های بیشتری را در این صفحه معرفی می‌کنم (ترتیب معرفی‌ها مشخص‌کننده چیزی نیست).";
+    content += '</div>\
+            <div id="list-of-titles">\
+                <div class="list-title">\
+                    فهرست کتاب‌ها<span class="plus-icon"></span>\
+                </div>\
+            <ul class="list-body">';
+
     for (let book of books) {
         if(book.pname && book.type == 'book')
-            content += '<a href="#' + book['pname'] + '">' + 
+            content += '<li><a href="#' + book.oname + '">' + 
                         latToPerNumbers(bookIndex++) + '. ' + 
-                        book.pname + '</a><br>';
+                        book.pname + '</a></li>';
     }
-    content += '</p>';
-    return content + '</div><hr>';
+    content += '</ul></div>';
+    return content;
 }

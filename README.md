@@ -1,5 +1,3 @@
-# ashkanph.github.io
-This is my personal webpage. 
 
 # ashkanph.github.io
 This is my personal webpage. 

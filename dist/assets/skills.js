@@ -17,7 +17,7 @@ let skills = {
         "subs": [
             "Ajax",
             "jQuery",
-            "AngularJS", 
+            "AngularJS (1.5.6)", 
             "React",
             "Redux",
             "Node.js",
@@ -34,6 +34,9 @@ let skills = {
             "Restfull web APIs"
         ]
     },
+    "Go": {
+        "stars": 1.5
+    },
     "Template Engines":{
         "stars": 4,
         "subs":[
@@ -45,14 +48,15 @@ let skills = {
         "stars": 2.5,
         "subs": [
             "MySQL", 
-            "MongoDB"
+            "MongoDB",
+            "SQLite3"
         ]
     },
     "CMSs": {
         "stars": 2.5,
         "subs": [
-            "Joomla", 
-            "Wordpress"
+            "Wordpress",
+            "Joomla"
         ]
     },
     "Git": {

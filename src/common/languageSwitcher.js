@@ -47,10 +47,13 @@ function toggleLanguageSwitcher(closeLanguageIcon) {
 }
 
 function localizeAllContents(language) {
-	let lang =  (language !== undefined) ? language :
+	let lang =  language !== "" ? language :
 				((localStorage.getItem('language') !== null) ?
 				localStorage.getItem('language') :
-				'en');				
+				'en');
+    
+	if(lang !== "en" && lang !== "fa" && lang !== "eo")			
+		lang = "en";
 				
 	localStorage.setItem('language', lang);
 	toggleLanguageSwitcher(true);
@@ -158,9 +161,10 @@ function languageInitiate() {
 // (It will be used to send the language we want the page be send with it)
 function readQueryString() {
 	let qs = window.location.search;
-	if(qs !== "")
+	if(qs !== ""){
 		return qs.split('?')[1];
-	return undefined;
+	}
+	return "";
 }
 
 /**

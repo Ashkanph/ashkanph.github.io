@@ -59,8 +59,12 @@ function fillBooks(){
                                     <strong>' + book['creator'] + 
                                                         '</strong>&nbsp;&nbsp;\
                                     <a href="#notes-desc"\
-                                       class="return-to-top" title="برگشت به بالای صفحه">\
+                                        class="return-to-top" title="برگشت به بالای صفحه">\
                                     </a>\
+                                </em>\
+                                <em>تاریخ اولین چاپ: \
+                                    <strong>' + latToPerNumbers(book['year']) + 
+                                                        '</strong>\
                                 </em>\
                             </span>';
             if(book.imageAddress)

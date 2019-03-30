@@ -1,0 +1,8 @@
+#ashkanph.github.io ignore
+
+node_modules
+package-lock.json
+
+dist/css
+dist/html
+dist/js

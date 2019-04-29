@@ -73,7 +73,6 @@ gulp.task('_sass',  () => {
     return merge(tasks);
 });
 
-// Компилируем Pug (Jade) в HTML без его минификации
 gulp.task('pug',  () => {
     let tasks = folders.map(function(folder){
         return gulp.src(source + folder + '/*.pug')

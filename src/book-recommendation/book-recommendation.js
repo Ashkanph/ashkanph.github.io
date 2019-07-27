@@ -1,4 +1,3 @@
-
 // Adding books' recommendations to the page
 fillBooks();
 
@@ -10,7 +9,7 @@ fillBooks();
  * @returns {string} An string with coverted latin numbers to Persian
  */
 function latToPerNumbers(s) {
-    if(s == null){
+    if (s == null) {
         console.log('The string you passed to LatToPerNumbers was undefined!');
         return '';
     }
@@ -43,35 +42,35 @@ function latToPerNumbers(s) {
  * A function to convert Array of books to html and wrtite it to the page
  *
  */
-function fillBooks(){    
-    let bookIndex   = 1,
+function fillBooks() {
+    let bookIndex = 1,
         content = makeList(books);
     for (let book of books) {
-        if(book['pname'] && book['type'] == 'book'){
+        if (book['pname'] && book['type'] == 'book') {
             content += (bookIndex !== 1) ? '<hr>' : '';
             content += '<section class="book">\
                             <span class="book-title" id="' + book.oname + '">\
                                 <em>' + latToPerNumbers(bookIndex++) + '. \
-                                    <strong>' +  book['pname'] + 
-                                            ' (' + book['oname'] + ')</strong>\
+                                    <strong>' + book['pname'] +
+                ' <bdi>(' + book['oname'] + ')</bdi></strong>\
                                 </em>\
                                 <em>نویسنده: \
-                                    <strong>' + book['creator'] + 
-                                                        '</strong>&nbsp;&nbsp;\
+                                    <strong>' + book['creator'] +
+                '</strong>&nbsp;&nbsp;\
                                     <a href="#notes-desc"\
                                         class="return-to-top" title="برگشت به بالای صفحه">\
                                     </a>\
                                 </em>\
                                 <em>تاریخ اولین چاپ: \
-                                    <strong>' + latToPerNumbers(book['year']) + 
-                                                        '</strong>\
+                                    <strong>' + latToPerNumbers(book['year']) +
+                '</strong>\
                                 </em>\
                             </span>';
-            if(book.imageAddress)
-                content += "<img src='http://www.ashkanph.ir/images/books/" + 
-                            book['imageAddress'] +"'>";
+            if (book.imageAddress)
+                content += "<img src='http://www.ashkanph.ir/images/books/" +
+                book['imageAddress'] + "'>";
 
-            content     += '<p>' + book['description'] + '</p>\
+            content += '<p>' + book['description'] + '</p>\
                         </section>';
         }
     }
@@ -98,10 +97,10 @@ function makeList() {
             <ul class="list-body">';
 
     for (let book of books) {
-        if(book.pname && book.type == 'book')
-            content += '<li><a href="#' + book.oname + '">' + 
-                        latToPerNumbers(bookIndex++) + '. ' + 
-                        book.pname + '</a></li>';
+        if (book.pname && book.type == 'book')
+            content += '<li><a href="#' + book.oname + '">' +
+            latToPerNumbers(bookIndex++) + '. ' +
+            book.pname + '</a></li>';
     }
     content += '</ul></div>';
     return content;

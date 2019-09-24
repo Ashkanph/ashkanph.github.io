@@ -40,7 +40,7 @@ In March 1839, in the Iranian city of Mashhad, a Jewish woman who suffered from 
 <br>
 Yuval Noah Harari
 <br>
-From the 12th chapter: Meaning
+From the 20th chapter: Meaning
 <br>
 برگردان فارسی از نیک گرگین
 </p>
@@ -71,13 +71,11 @@ From the 12th chapter: Humility
 
 ### Big wheel
 <p class="english tr">
-<b>Melichrone</b>: "I was supernal, immortal, omnipotent and omniscient. All things were resident in me - even dissident opinions about myself. Not a blade of grass grew that was not some infinitesimal portion of my being. The very mountains and rivers were shaped by me. I was the life in the sperm cells, and I was the death in the plague bacillus. I was the All and the Many, That Which Always Was And That Which Always Will Be."
+<b>Melichrone:</b> "I was supernal, immortal, omnipotent and omniscient. All things were resident in me - even dissident opinions about myself. Not a blade of grass grew that was not some infinitesimal portion of my being. The very mountains and rivers were shaped by me. I was the life in the sperm cells, and I was the death in the plague bacillus. I was the All and the Many, That Which Always Was And That Which Always Will Be."
 <br>
+<b>Carmody:</b> "That's really something."
 <br>
-<b>Carmody</b>: "That's really something."
-<br>
-<br>
-<b>Melichrone</b>: "Yes. I was the Big Wheel in the Heavenly Bicycle Factory, as one of my poets expressed it."
+<b>Melichrone:</b> "Yes. I was the Big Wheel in the Heavenly Bicycle Factory, as one of my poets expressed it."
 </p>
 
 <p class="english ref">
@@ -88,7 +86,7 @@ Robert Sheckley
 From chapter 7, page 34 
 </p>
 
-```پی‌نوشت:``` ملیکرون قادر مطلق یک سیاره دورافتاده است که کارمودی در بخشی از سفرش در کهکشان به او برمی‌خورد. ملیکرون برایش تعریف می‌کند که چگونه زندگی‌ها به وجود آورده و چگونه خود به آن‌ها پایان داده است. شخصیت‌های این کتاب همگی از جالب‌ترین شخصیت‌هایی هستند که تاکنون در دنیای ادبیات با آن روبه‌رو شده‌ام. نکته جالب توجه اینکه داگلاس آدامز، کتاب معروف <a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy" target="_blank">The Hitchhiker's Guide to the Galaxy</a> را با الهام از این کتاب نوشته‌است.
+```پی‌نوشت:``` ملیکرون، قادر مطلق یک سیاره دورافتاده است که کارمودی در بخشی از سفرش در کهکشان به او برمی‌خورد. ملیکرون برایش تعریف می‌کند که چگونه زندگی‌ها به وجود آورده و چگونه خود به آن‌ها پایان داده است. شخصیت‌های این کتاب همگی از جالب‌ترین شخصیت‌هایی هستند که تاکنون در دنیای ادبیات با آن روبه‌رو شده‌ام. نکته جالب توجه اینکه داگلاس آدامز، کتاب معروف <a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy" target="_blank">The Hitchhiker's Guide to the Galaxy</a> را با الهام از این کتاب نوشته‌است.
 
 ---
 

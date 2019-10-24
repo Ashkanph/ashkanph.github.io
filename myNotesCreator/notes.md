@@ -3,6 +3,70 @@
 
 ---
 
+### جهان منطقی
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.
+</p>
+<p class="persian tr">
+در عمق ضمیر ناخودآگاه بشر نیازی همیشگی و فراگیر به جهانی منطقی وجود دارد؛ جهانی که با عقل و منطق جور دربیاید. ولی جهان خارج همیشه یک گام فراتر از عقل و منطق است.
+</p>
+</div>
+
+<p class="english ref">
+Dune (1965)
+<br>
+Frank Herbert
+<br>
+برگردان فارسی از مهیار فروتن‌فر
+</p>
+
+---
+
+### آزادمردان
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+The Fremen were supreme in that quality the ancients called “spannungsbogen”—which is the self-imposed delay between desire for a thing and the act of reaching out to grasp that thing.
+</p>
+<p class="persian tr">
+حره‌مردان در خصوصیتی که پیشینیان به آن «کفِّ نفس» می‌گفتند سرآمد خاص و عام بودند و آن درنگی است که انسان بین خواستن چیزی و دست دراز کردن به سوی آن بر خود تحمیل می‌کند.
+</p>
+</div>
+
+<p class="english ref">
+Dune (1965)
+<br>
+Frank Herbert
+<br>
+برگردان فارسی از مهیار فروتن‌فر
+</p>
+
+```پی‌نوشت:``` حره‌مردانی که در اینجا از آنان نام برده شده، مردمان بومی سیاره‌ای به نام آراکیس (تلماسه) هستند که به نظر می‌رسد از پسینیان ایرانیان و اعراب باشند. آنها آزادمردانی هستند که زیر بند نیروهای امپراتوری و جلادان حاکم قرار نگرفته‌اند و در بیابان‌های سخت آراکیس به سختی اما با جسارت زندگی می‌کنند. اراده آهنین آنها در سرسبز کردن سیاره‌شان ستودنی است.
+
+---
+
+### رنج
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Over the exit of the Arrakeen landing field, crudely carved as though with a poor instrument, there was an inscription that Muad'Dib was to repeat many times. He saw it that first night on Arrakis, having been brought to the ducal command post to participate in his father's first full staff conference. The words of the inscription were a plea to those leaving Arrakis, but they fell with dark import on the eyes of a boy who had just escaped a close brush with death. They said: "O you who know what we suffer here, do not forget us in your prayers."
+</p>
+<p class="persian tr">
+مؤدِّب بارها در زندگی‌اش از نوشته‌ای یاد کرد که بدخط و ناشیانه، تو گویی با ابزاری کُند، بالای سردرِ سکوی فرود آراکین حک شده بود. او آن‌را در اولین شبِ زندگی‌اش در آراکیس دید؛ در همان هنگام که او را به ستاد فرماندهی می‌بردند تا در اولین جلسه رسمی پدرش با مقامات زیردست شرکت کند. آن نوشته تمنایی بود از کسانی که آراکیس را ترک می‌کردند، ولی به چشمان پسرکی که دقایقی پیش از چنگال مرگ گریخته بود جلوه‌ای به مراتب سیاه‌تر و تاثیرگذارتر داشت. متن آن چنین بود: «ای کسانی که از مصائب ما در این سیاره باخبرید! در دعاهای خود ما را از یاد نبرید.» 
+</p>
+</div>
+
+<p class="english ref">
+Dune (1965)
+<br>
+Frank Herbert
+<br>
+برگردان فارسی از مهیار فروتن‌فر
+</p>
+
+```پی‌نوشت:``` شخصی که در اینجا با نام مؤدِّب از او نام برده شده، فرزند دوکی بود که پدرش برای فرمانروایی به سیاره آراکیس آمده بود؛ سیاره‌ای بدون آب که زندگی برای ساکنانش بسیار سخت بود. در شب اول ورودش، در اولین جلسه پدرش در فرودگاه شاتل‌ها حاضر شد و نوشته بالا بر سردرِ یکی از سکو‌های فرود بود.
+
+---
+
 ### Infallibility
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">

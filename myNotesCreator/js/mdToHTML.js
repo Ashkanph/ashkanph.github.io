@@ -74,14 +74,12 @@ function injectToHtml(response) {
         a.href  = "#" + titles[i].id;
         // ▴
         a.innerHTML = (i+1) + "- " + titles[i].innerText;
-        // a.innerHTML = (i+1) + "- " + titles[i].innerText.replace(" ▴","");
         li.appendChild(a);
         listOfTitles.appendChild(li)
     }
     let listTitle = document.createElement('div');
     listTitle.classList.add("list-title");
     listTitle.innerHTML = "فهرست یادداشت‌ها" + '<span class="plus-icon"></span>';
-    // clickEvent(listTitle);
     // Add list to the #list-of-titles
     content.getElementsByTagName('div')[0].appendChild(listTitle);
     content.getElementsByTagName('div')[0].appendChild(listOfTitles);
@@ -101,13 +99,7 @@ function addLinkToTitle(text) {
     for (var i = 0; i < x.length; i++){
         let a = document.createElement('a');
         a.href = "#notes-desc";
-        // a.innerHTML = "&#x025B4;";
-        // a.inerHTML = "▴";
-        // a.innerHTML = "↑";
         a.title = "برگشت به بالای صفحه";
-        // let b = document.createElement("img");
-        // b.id = "salam";
-        // b.src = "./black_uppointing_small_triangle.svg";
         x[i].id = "part"+ i;
         x[i].classList.add('manual-anchor');
         x[i].innerHTML = x[i].innerHTML + " ";
@@ -138,20 +130,7 @@ function saveTheFile(file) {
             
 
             let theName = file.name.slice(0, -3), // fileName.slice(0, -3) removes last 3 chars ('.md')
-                str     = 
-                        // '<!DOCTYPE html>\
-                        //     <html>\
-                        //         <head>\
-                        //             <meta charset="UTF-8">\
-                        //             <title>' + theName + '</title>\
-                        //             <link rel="stylesheet" href="./style/style.css">\
-                        //             <link rel="stylesheet" href="./style/kimbie.dark.css">\
-                        //             <meta name="viewport" content="width=device-width, initial-scale=1.0">\
-                        //         </head>\
-                        //         <body>\
-                                content.replace(/\n/g, '');
-                                // '</body>\
-                            // </html>',
+                str     = content.replace(/\n/g, ''),
                 blob    = new Blob([str], {type: "text/plain;charset=utf-8"});
 
             saveAs(blob, theName+".html");

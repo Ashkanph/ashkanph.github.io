@@ -3,6 +3,60 @@
 
 ---
 
+### سرود امید
+<div class="two-column" style="max-width: 450px;">
+<p class="english tr">
+Meze de vintro malvarma<br>
+kantas ankoraŭ birdeto;<br>
+kaj en la nokto malhela<br>
+lumas ankoraŭ steleto.
+</p>
+<p class="persian tr">
+در میان زمستانی سرد،<br>
+هنوز پرنده‌ای، نغمه می‌سراید؛<br>
+و در شبی تیره؛<br>
+هنوز، ستاره‌ی کوچکی، می‌درخشد.
+</p>
+<br>
+<p class="english tr">
+Meze de nigra nubaro<br>
+brilas ankoraŭ la suno;<br>
+blovas la suda venteto<br>
+malgraŭ la griza aŭtuno.
+</p>
+<p class="persian tr">
+در میان توده-ابری سیاه،<br>
+هنوز، خورشید، می‌تابد؛<br>
+نسیم دلنواز جنوب؛<br>
+علی‌رغم خزان غم‌آلوده، می‌وزد.
+</p>
+<br>
+<p class="english tr">
+Meze de mond' egoista<br>
+batas la koro amanta;<br>
+meze de horo malgaja<br>
+ridas espero flamanta.
+</p>
+<p class="persian tr">
+در میان جهانی خودخواه،<br>
+قلب آکنده از مهر، هنوز، در تپش است؛<br>
+در میان ساعاتی ناشادمان؛<br>
+امیدی پر لهیب، می‌خندد.
+</p>
+</div>
+
+<p class="english ref">
+kanto de l' espero
+<br>
+Montagu C. Butler
+<br>
+برگردان از دکتر ناصرالدین صاحب الزمانی
+</p>
+
+```پی‌نوشت:``` این شعر یکی از مثال‌هایی است که در کتاب «زبان دوم: خودآموز زبان اسپرانتو»، چاپ انتشارات عطایی (۱۳۸۴) آمده‌است. این شعر را در کتاب «جُنگ اشعار اسپرانتو» (Esperanta antologio poemoj) گردآوری William Auld نیز  دیدم که با نام ankoraŭ (هنوز) آمده بود.
+
+---
+
 ### جهان منطقی
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">

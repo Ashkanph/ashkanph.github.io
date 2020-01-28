@@ -3,57 +3,123 @@
 
 ---
 
-### سرود امید
-<div class="two-column" style="max-width: 450px;">
+### طریقت سامورایی
+<div class="two-column" style="max-width: 700px;">
 <p class="english tr">
-Meze de vintro malvarma<br>
-kantas ankoraŭ birdeto;<br>
-kaj en la nokto malhela<br>
-lumas ankoraŭ steleto.
+The Way of the warrior (bushido) is to be found in dying. If one is faced with two options of life or death, simply settle for death. It is not an especially difficult choice; just go forth and meet it confidently. To declare that dying without aiming for the right purpose is nothing more than a “dog’s death” is the timid and shallow way of Kamigata warriors. Whenever faced with the choice of life and death, there is no need to try and achieve one’s aims.
 </p>
 <p class="persian tr">
-در میان زمستانی سرد،<br>
-هنوز پرنده‌ای، نغمه می‌سراید؛<br>
-و در شبی تیره؛<br>
-هنوز، ستاره‌ی کوچکی، می‌درخشد.
-</p>
-<br>
-<p class="english tr">
-Meze de nigra nubaro<br>
-brilas ankoraŭ la suno;<br>
-blovas la suda venteto<br>
-malgraŭ la griza aŭtuno.
-</p>
-<p class="persian tr">
-در میان توده-ابری سیاه،<br>
-هنوز، خورشید، می‌تابد؛<br>
-نسیم دلنواز جنوب؛<br>
-علی‌رغم خزان غم‌آلوده، می‌وزد.
-</p>
-<br>
-<p class="english tr">
-Meze de mond' egoista<br>
-batas la koro amanta;<br>
-meze de horo malgaja<br>
-ridas espero flamanta.
-</p>
-<p class="persian tr">
-در میان جهانی خودخواه،<br>
-قلب آکنده از مهر، هنوز، در تپش است؛<br>
-در میان ساعاتی ناشادمان؛<br>
-امیدی پر لهیب، می‌خندد.
+طریقت سامورایی استوار بر مرگ است. آن‌گاه که باید بین مرگ و زندگی یکی را انتخاب کنی بی‌درنگ مرگ را انتخاب برگزین. دشوار نیست؛ مصمم باش و به پیش برو. این‌که بگوییم مردن بدون رسیدن به هدفِ خود مرگی بی‌ارزش است راهی است سبکسرانه برای پیچیده‌کردن موضوع. آن هنگام که تحت فشار انتخاب زندگی یا مرگ قرار گرفته‌ای لزومی هم ندارد به هدف خود برسی.
 </p>
 </div>
 
 <p class="english ref">
-kanto de l' espero
+Hagakure (1716)
 <br>
-Montagu C. Butler
+Yamamoto Tsunetomo
 <br>
-برگردان از دکتر ناصرالدین صاحب الزمانی
+English translation by Alexander Bennett
+<br>
+From the first book
+<br>
+برگردان فارسی از سید رضا حسینی
+<br>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
 </p>
 
-```پی‌نوشت:``` این شعر یکی از مثال‌هایی است که در کتاب «زبان دوم: خودآموز زبان اسپرانتو»، چاپ انتشارات عطایی (۱۳۸۴) آمده‌است. این شعر را در کتاب «جُنگ اشعار اسپرانتو» (Esperanta antologio poemoj) گردآوری William Auld نیز  دیدم که با نام ankoraŭ (هنوز) آمده بود.
+
+---
+
+### از پیش مردن
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Begin each day pondering death as its climax. Each morning, with a calm mind, conjure images in your head of your last moments. See yourself being pierced by bow and arrow, gun, sword, or spear, or being swept away by a giant wave, vaulting into a fiery inferno, taking a lightning strike, being shaken to death in a great earthquake, falling hundreds of feet from a high cliff top, succumbing to a terminal illness, or just dropping dead unexpectedly. Every morning, be sure to meditate yourself into a trance of death.
+<br>
+An elder decreed: “If one steps out of his house, he will be in the midst of corpses; if he steps out of his gate, he will meet the enemy.” The point here is not vigilance; but rather to kill one’s self from the very outset.
+</p>
+<p class="persian tr">
+هر روز باید به مرگ گریزناپذیر اندیشید. هر روز و آن هنگام که جسم و روح تو در آرامش است، به دریده شدن با نیزه‌ها و زوبین‌ها، گلوله‌ها و شمشیرها، ناپدید شدن در امواج سهمگین، افکنده‌شدن در میان آتشی بزرگ، مرگ با برق صاعقه، مردن از پس زلزله‌ای بزرگ، سقوط از پرتگاهی عمیق، مردن از پس بیماری یا سپوکه (خودکشی) پس از مرگ امیر بیندیش و تامل کن. و انسان هر روز و هر روز بی هیچ بیش‌و‌کم باید که خود را مرده بشمارد.
+<br>
+در کلام گذشتگان آمده‌است که «چون از لبه بام خود تنها قدمی فراسو نهی به وادی مرگ خواهی رسید؛ و چون از دروازه بیرون شوی، دشمن به انتظار توست.» نکته این سخن، نه اندرزی در باب مراقبت و دوراندیشی، که خویشتن را از پیش مرده انگاشتن است.
+</p>
+</div>
+
+<p class="english ref">
+Hagakure (1716)
+<br>
+Yamamoto Tsunetomo
+<br>
+English translation by Alexander Bennett
+<br>
+From the third book
+<br>
+برگردان فارسی از سید رضا حسینی
+<br>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+</p>
+
+---
+
+### خلال دندان
+<p class="english tr">
+Yamamoto Jin'uemon: "A samurai should use a toothpick even though he has not eaten: a dog's skin inside, a tiger's hide outside."
+</p>
+
+<p class="english ref">
+Hagakure (1716)
+<br>
+Yamamoto Tsunetomo
+<br>
+English translation by Alexander Bennett
+<br>
+From the first book
+<br>
+برگردان فارسی از سید رضا حسینی
+<br>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+</p>
+
+```پی‌نوشت:``` یک سامورایی حتی اگر از درون همچون یک سگ در حال رنج کشیدن باشد نباید ظاهرش این را نشان دهد. یا به عبارتی دیگر ظاهر بیرونی یک سامورایی می‌بایست آمادگی و سختی‌اش را نشان دهد هرچند همزمان می‌بایست در قلبش شکننده باشد.
+
+---
+
+### میخک
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+His lordship (Mitsushige) took a scroll from a case. The fragrance of dried cloves wafted forth as he opened the lid.
+</p>
+<p class="persian tr">
+میتسوشیگه (رییس خاندان نابشیما)، کتابی (طوماری) از قفسه برداشت. با باز کردنش عطر میخک در همه جا پیچید.
+</p>
+</div>
+
+<p class="english ref">
+Hagakure (1716)
+<br>
+Yamamoto Tsunetomo
+<br>
+English translation by Alexander Bennett
+<br>
+From the first book
+<br>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+</p>
+
+```پی‌نوشت:``` مردانی که نوجوان چهارده‌ساله را مجبور می‌کنند تا در یک روز سر ده مجرم دست‌بسته را قطع کند تا روحیه جنگاوری‌اش تقویت شود، با بوییدن عطر میخکِ میان یک کتاب، احساساتی می‌شوند.
+
+---
+
+### ای ماه
+«ای ماه! گردی رخسارت دهانه توپ را به یاد می‌آورد؛ و گلوله‌ای را که پس از پرتاب، آهسته آهسته در آسمان می‌خرامد‌! بگو که زمان انفجارت کی فرا خواهد رسید، ای گلوله آسمانی! تا ابری از اخگر بباری و همه تخت و تاج‌ها و ارتش‌های دشمن را تباه کنی، تا بر این دیوار بلند فراموشی که هموطنانم به روی من کشیده‌اند شکافی بگشایی و مرا به سوی افتخار رهنمون شوی؟ آه، شهر من ، روآن! آه، ای ماه! ای سرنوشت! ای مجلس مردمی! ای وزغ‌ها! ای دختران! ای زندگی!»
+
+<p class="ref">
+بارون درخت‌نشین<br>
+ایتالو کالوینو<br>
+برگردانِ مهدی سحابی
+</p>
+
+
+```پی‌نوشت:``` جملات بالا، شعرگونه‌ای از ستوان اگریپا پاپیون، افسر شاعرمسلک فرانسوی کتاب است؛ همانگونه که از متن جملات بر می‌آید، او فرمانده یکی از هنگ‌های ارتش جمهوری فرانسه بود که برای نبرد با پادشاهی اتریش در جنگل‌های دره اومبروزا بودند.
 
 ---
 

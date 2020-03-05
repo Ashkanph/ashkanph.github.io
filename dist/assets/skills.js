@@ -1,6 +1,6 @@
 let skills = {
     "HTML(5)": {
-        "stars": 4.5
+        "stars": 4
     },
     "CSS(3)": {
         "stars": 4,
@@ -15,9 +15,10 @@ let skills = {
     "Javascript": {
         "stars": 3.5,
         "subs": [
-            "Ajax",
             "jQuery",
-            "AngularJS (1.5.6)", 
+            "AngularJS (1.5.6)",
+            "Vue.js",
+            "Nuxt.js", 
             "React",
             "Redux",
             "Node.js",
@@ -27,7 +28,7 @@ let skills = {
         ]
     },
     "PHP": {
-        "stars": 2.5,
+        "stars": 2,
         "subs": [
             "MVC programming", 
             "Slim framework",
@@ -38,7 +39,7 @@ let skills = {
         "stars": 1.5
     },
     "Template Engines":{
-        "stars": 4,
+        "stars": 3.5,
         "subs":[
             "Pug",
             "Twig"

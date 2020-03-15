@@ -9,7 +9,7 @@
 The Way of the warrior (bushido) is to be found in dying. If one is faced with two options of life or death, simply settle for death. It is not an especially difficult choice; just go forth and meet it confidently. To declare that dying without aiming for the right purpose is nothing more than a “dog’s death” is the timid and shallow way of Kamigata warriors. Whenever faced with the choice of life and death, there is no need to try and achieve one’s aims.
 </p>
 <p class="persian tr">
-طریقت سامورایی استوار بر مرگ است. آن‌گاه که باید بین مرگ و زندگی یکی را انتخاب کنی بی‌درنگ مرگ را انتخاب برگزین. دشوار نیست؛ مصمم باش و به پیش برو. این‌که بگوییم مردن بدون رسیدن به هدفِ خود مرگی بی‌ارزش است راهی است سبکسرانه برای پیچیده‌کردن موضوع. آن هنگام که تحت فشار انتخاب زندگی یا مرگ قرار گرفته‌ای لزومی هم ندارد به هدف خود برسی.
+طریقت سامورایی استوار بر مرگ است. آن‌گاه که باید بین مرگ و زندگی یکی را انتخاب کنی بی‌درنگ مرگ را برگزین. دشوار نیست؛ مصمم باش و به پیش برو. این‌که بگوییم مردن بدون رسیدن به هدفِ خود مرگی بی‌ارزش است راهی است سبکسرانه برای پیچیده‌کردن موضوع. آن هنگام که تحت فشار انتخاب زندگی یا مرگ قرار گرفته‌ای لزومی هم ندارد به هدف خود برسی.
 </p>
 </div>
 
@@ -74,12 +74,10 @@ English translation by Alexander Bennett
 <br>
 From the first book
 <br>
-برگردان فارسی از سید رضا حسینی
-<br>
 <a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
 </p>
 
-```پی‌نوشت:``` یک سامورایی حتی اگر از درون همچون یک سگ در حال رنج کشیدن باشد نباید ظاهرش این را نشان دهد. یا به عبارتی دیگر ظاهر بیرونی یک سامورایی می‌بایست آمادگی و سختی‌اش را نشان دهد هرچند همزمان می‌بایست در قلبش شکننده باشد.
+```P.S.:``` That way even though a warrior suffers like a dog on the insisde, his pain will never show on the outside. In other words his outward appearance should show attentiveness and taste, but at the same time he must be frugal and "dogged" in his heart.
 
 ---
 

@@ -2,7 +2,7 @@
 
 .side-menu, .first-page-side-menu{
     background-color: $side-menu-bg;
-    position: absolute;
+    position: fixed;
     top: $header-height;
     bottom: 0;
     z-index: 2;

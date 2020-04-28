@@ -118,7 +118,7 @@ gulp.task('eslint', () => {
     .pipe(eslint.format());                     // Displays ESLint messages to the console
 });
 
-gulp.task('scripts', ['eslint'], () => {
+gulp.task('scripts',  gulp.series('eslint', () => {
     let tasks = folders.map(function(folder){
         return gulp.src(source + folder + '/*.js')
             .pipe(concat(folder + '.min.js'))
@@ -147,9 +147,9 @@ gulp.task('scripts', ['eslint'], () => {
     });
 
     return merge(tasks);
-});
+}));
 
-gulp.task('_scripts', ['eslint'], () => {
+gulp.task('_scripts',  gulp.series('eslint', () => {
     let tasks = folders.map(function(folder){
         return gulp.src(source + folder + '/*.js')
             .pipe(concat(folder + '.min.js'))
@@ -170,13 +170,13 @@ gulp.task('_scripts', ['eslint'], () => {
     });
 
     return merge(tasks);
-});
+}));
 
-gulp.task('default', ['sass', 'pug', 'scripts'], () => {
-    gulp.watch([source + '**/**/*.scss', source + '**/*.scss'], ['sass']);
-    gulp.watch([source + '**/**/*.pug', source + '**/*.pug'], ['pug']);
-    gulp.watch([source + '**/**/*.js', source + '**/*.js'], ['scripts']);
-});
+gulp.task('default', gulp.series('sass', 'pug', 'scripts', () => {
+    gulp.watch([source + '**/**/*.scss', source + '**/*.scss'], gulp.series('sass'));
+    gulp.watch([source + '**/**/*.pug', source + '**/*.pug'], gulp.series('pug'));
+    gulp.watch([source + '**/**/*.js', source + '**/*.js'], gulp.series('scripts'));
+}));
 
 // Build production
-gulp.task('build', ['_sass', '_pug', '_scripts']);
+gulp.task('build', gulp.series('_sass', '_pug', '_scripts'));

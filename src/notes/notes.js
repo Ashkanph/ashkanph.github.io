@@ -4,13 +4,13 @@
  */
 (() => {
     let listOfTitles = document.getElementById("list-of-titles");
-    listOfTitles.addEventListener("click", function (e) {
-        let listBody = document.getElementsByClassName("list-body");
-        
-        if(listBody.length == 0)
-            return;
-        else listBody = listBody[0];
+    let listBody = document.getElementsByClassName("list-body");
+    if(listBody.length == 0)
+        return;
+    else listBody = listBody[0];
+    listBody.style.display = 'block';
 
+    listOfTitles.addEventListener("click", function (e) {
         listOfTitles.focus();
 
         let visible = listBody.style.display,

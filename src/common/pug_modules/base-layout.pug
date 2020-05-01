@@ -25,8 +25,8 @@ html
   body
     .main-wrapper
       include ./header.pug  
-      include ./side-menu.pug
       .main-content
+        include ./side-menu.pug
         block content
       .space(style="height: 50px;")
     script(src="../js/common.min.js?v=2.3")

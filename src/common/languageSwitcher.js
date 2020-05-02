@@ -1,6 +1,15 @@
 
 languageInitiate();
 
+(function listenToSideMenuLanguageSwitcher() {
+	const l = document.getElementById('language-select');
+	if(l) {
+		l.addEventListener("change", function (e) {
+			localizeAllContents(e.target.value)
+		});	
+	}
+})();
+
 function toggleLanguageSwitcher(closeLanguageIcon) {
 	let languageIcon 	  = document.getElementsByClassName('icon-language'),
 		languageSwitcher  = document.getElementById('language-switcher'),

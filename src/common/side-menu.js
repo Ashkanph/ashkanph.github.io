@@ -19,15 +19,13 @@ function toggleMenu(){
     document.addEventListener('click',function(event){
         var sideMenu = document.getElementsByClassName("side-menu");
 
-        if(sideMenu.length > 0) {
-            if( 
-                !event.target.classList.contains('icon-bars') &&
-                event.target.id != 'open-menu' &&
-                !event.target.classList.contains('first-page-open-menu') &&
-                sideMenu[0].classList.contains('width-220px') &&
-                !sideMenu[0].contains(event.target)){
-                    toggleMenu();
-            }       
+        if( sideMenu.length > 0 &&
+            sideMenu[0].classList.contains('width-220px') &&
+            !event.target.classList.contains('icon-bars') &&
+            event.target.id != 'open-menu' &&
+            !event.target.classList.contains('first-page-open-menu') &&
+            !sideMenu[0].contains(event.target)){
+                toggleMenu();
         }
     })
 })();

@@ -9,6 +9,9 @@ body.rtl {
         .home {
             left: 15px;
         }
+        .moon, .sun {
+            left: 65px;
+        }
         .first-page-languge-switcher{
             left: 50px;
         }
@@ -49,6 +52,9 @@ body.ltr {
         }
         .home {
             right: 15px;
+        }
+        .moon, .sun {
+            right: 65px;
         }
         .first-page-languge-switcher{
             right: 50px;

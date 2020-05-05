@@ -152,7 +152,7 @@ code, ul li pre code{
     white-space: pre;
     word-wrap: normal;
     padding: 1px 6px 1px 4px;
-    color: #24292e;
+    color:  #a9b3bc;//#24292e;
     background-color: rgba(27,31,35,0.12);
     border-radius: 3px;
     font-size: 1rem;
@@ -208,12 +208,11 @@ a{
         background: url(http://www.ashkanph.ir/images/black_uppointing_small_triangle.svg) no-repeat;
         background-size: 30%;
         background-position: 51% 48%;
-        background-color: #fff;
+        background-color: $return-to-top-bg;
         &:hover{
             background: url(http://www.ashkanph.ir/images/black_uppointing_small_triangle_hover.svg) no-repeat;
             background-size: 40%;
             background-position: 52% 46%;
-            background-color: #fff;
             border: 1px solid #989898;
         }
     }
@@ -235,7 +234,7 @@ a{
 .ref {
     text-align: center !important;
     letter-spacing: 2px;
-    color: dimgray;
+    color:  $ref-color;
     clear: both;
 }
 
@@ -244,22 +243,22 @@ a{
 }
 
 .french.tr{
-    color: purple;
+    color: $french-tr;
     float:  left;
 }
 
 .other.tr{
-    color: darkblue;
+    color: $other-tr;
     float:  left;
 }
 
 .english.tr{
-    color: darkgreen;
+    color: $english-tr;
     float:  left;
 }
 
 .persian.tr{
-    color: darkred;
+    color: $persian-tr;
 }
 
 .two-column{ 
@@ -268,91 +267,108 @@ a{
 
 #manual {
     line-height: 1.7rem;
-}
+    
+    p {
+        font-size: 1rem;
 
-#manual p {
-    font-size: 1rem;
-}
+        a {
+          color: $list-color;
+        }
+    }
 
-#manual .text-center{
-    text-align: center;
+    .text-center{
+        text-align: center;
+    }
 }
 
 #notes-desc{
   padding: 2rem 1.5rem;
 }
 
-#list-of-titles ul {
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-}
 
 /* ------ list of titles -------- */
 @media screen and (min-width: 400px) {
-    #list-of-titles ul {
-        columns: 2;
-        -webkit-columns: 2;
-        -moz-columns: 2;
-    }
+  #list-of-titles ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+  }
 }
 
 @media screen and (min-width: 530px) {
-    #list-of-titles ul {
-        columns: 3;
-        -webkit-columns: 3;
-        -moz-columns: 3;
-    }
+  #list-of-titles ul {
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+  }
 }
 
 @media screen and (min-width: 700px) {
-    #list-of-titles ul {
-        columns: 4;
-        -webkit-columns: 4;
-        -moz-columns: 4;
-    }
-}
-
-@media screen and (min-width: 870px) {
-    #list-of-titles ul {
-        columns: 6;
-        -webkit-columns: 6;
-        -moz-columns: 6;
-    }
-}
-#list-of-titles {
-  background-color: $list-of-titles-bg;
-  border-radius: 5px;
-}
-#list-of-titles .list-title {
-  padding: 10px 15px;
-  background-color: #615a5a;
-  color: #f5f5f5;
-  border-radius: 5px;
-  text-align: center;
-  &:hover{
-    cursor: pointer;
+  #list-of-titles ul {
+    columns: 4;
+    -webkit-columns: 4;
+    -moz-columns: 4;
   }
 }
-#list-of-titles .list-title .plus-icon {
-  position: relative;
-  width: 18px;
-  height: 18px;
-  border: 1px solid #e0e0e0;
-  margin: 0 10px;
-  float: right;
-  margin-top: 3px;
-}
 
-#list-of-titles .list-body {
-  display: none;
-  color: #212121;
-  padding: 10px;
-  li{
-    list-style: none;
-    a{
-        font-size: 0.9rem;
-        display: block;
+
+#list-of-titles{
+  border-radius: 5px;
+  background-color: $list-of-titles-bg;
+  margin-top: 10px;
+  
+  ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    
+    @media screen and (min-width: 870px) {
+      columns: 6;
+      -webkit-columns: 6;
+      -moz-columns: 6;
     }
-  } 
+
+    li {
+      a {
+        color: $list-color;
+      }
+    }
+  }
+
+  .list-title {
+    padding: 10px 15px;
+    background-color: #615a5a;
+    color: #f5f5f5;
+    border-radius: 5px;
+    text-align: center;
+    
+    &:hover{
+      cursor: pointer;
+    }
+
+    .plus-icon {
+      position: relative;
+      width: 18px;
+      height: 18px;
+      border: 1px solid #e0e0e0;
+      margin: 0 10px;
+      float: right;
+      margin-top: 3px;
+    }
+  }
+  
+  .list-body {
+    display: none;
+    color: #212121;
+    padding: 10px;
+    
+    li{
+      list-style: none;
+      
+      a{
+          font-size: 0.9rem;
+          display: block;
+      }
+    } 
+  }
 }

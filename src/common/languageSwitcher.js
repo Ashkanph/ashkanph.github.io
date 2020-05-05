@@ -5,7 +5,10 @@ languageInitiate();
 	const l = document.getElementById('language-select');
 	if(l) {
 		l.addEventListener("change", function (e) {
-			localizeAllContents(e.target.value)
+			console.log(e.target.value)
+			var lang = e.target.value == 'Farsi' ? 'fa' :
+			           e.target.value == 'English' ? 'en' : 'eo';
+			localizeAllContents(lang);
 		});	
 	}
 })();
@@ -130,6 +133,14 @@ function localizeAllContents(language) {
 	}
 
 	addPageTitle();
+
+	// Select the appropriate side-menu language option
+	const languageSelect = document.getElementById('language-select');
+	if(languageSelect) {
+		var langOptions = ['en', 'fa', 'eo'];
+		languageSelect.selectedIndex = langOptions.indexOf(lang);
+	}
+	
 }
 
 // window.onload = function () {

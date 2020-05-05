@@ -29,12 +29,11 @@
                 background: url(http://www.ashkanph.ir/images/black_uppointing_small_triangle.svg) no-repeat;
                 background-size: 30%;
                 background-position: 51% 48%;
-                background-color: #fff;
+                background-color: $return-to-top-bg;
                 &:hover{
                         background: url(http://www.ashkanph.ir/images/black_uppointing_small_triangle_hover.svg) no-repeat;
                         background-size: 40%;
                         background-position: 52% 46%;
-                        background-color: #fff;
                         border: 1px solid #989898;
                 }
             }
@@ -49,6 +48,10 @@
             padding:15px; 
             text-align:justify;
             line-height:1.6rem;
+
+            a {
+                color: $list-color;
+            }
         }
     }
 }

@@ -1,0 +1,26 @@
+
+body.lightmode {
+    --background-color: #f4f4f1;
+    --font-color: #363030;
+    --list-of-titles-bg: #e4dede;
+    --list-color: #1c11ee;//#e4dede;
+    --english-tr: #006400;
+    --persian-tr: #8b0000;
+    --french-tr: #800080;
+    --other-tr: #00008b;
+    --ref-color: #696969;
+    --return-to-top-bg: #fff;
+}
+
+body.darkmode {
+    --background-color: #363030;
+    --font-color: #f4f4f1;
+    --list-of-titles-bg: #292424;
+    --list-color: #bbb7fa;//#e4dede;
+    --english-tr: #c6ecc6;
+    --persian-tr: #ffc299;
+    --french-tr: #ffccff;
+    --other-tr: #ccccff;
+    --ref-color: #ccccb3;
+    --return-to-top-bg: #363030;
+}

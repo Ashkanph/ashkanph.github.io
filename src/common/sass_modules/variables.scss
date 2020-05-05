@@ -1,9 +1,9 @@
 
 // ------- index ----------
 // $background-color:  #f4f4f1;
-$background-color: #f4f4f1;
+$background-color: var(--background-color, #f4f4f1);
 $main-wrapper-color: #f6f6f4;
-$font-color: #363030;
+$font-color: var(--font-color, #363030);
 $language-color: #212121;
 $language-switcher-bg: #928787;
 $icon-color: #757575;
@@ -36,8 +36,14 @@ $open-menu-background: #d9d9d9;
 $close-menu-background-color:#423c3c;
 
 //-------------- notes ---------
-$list-of-titles-bg: #e4dede;
-
+$list-of-titles-bg: var(--list-of-titles-bg, #e4dede);
+$list-color: var(--list-color, #1c11ee);//#e4dede;
+$english-tr: var(--english-tr, #006400);
+$persian-tr: var(--persian-tr, #8b0000);
+$french-tr: var(--french-tr, #800080);
+$other-tr:  var(--other-tr, #00008b);
+$ref-color: var(--ref-color, #696969);
+$return-to-top-bg: var(--return-to-top-bg, #fff);
 //-------------- footer ---------
 $footer-height: 22px;
 $footer-bg: #423c3c;

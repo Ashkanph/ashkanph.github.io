@@ -89,21 +89,21 @@ gulp.task('pug',  () => {
     return merge(tasks);
 });
 
-gulp.task('_pug',  () => {
-    let tasks = folders.map(function(folder){
-        return gulp.src(source + folder + '/*.pug')
-            .pipe(pug({
-                pretty: true
-            }))
-            .on('error', notify.onError({
-                title: 'PUG',
-                message: '<%= error.message %>'
-            }))
-            .pipe(gulp.dest(dist + 'html/'));
-    });
+// gulp.task('_pug',  () => {
+//     let tasks = folders.map(function(folder){
+//         return gulp.src(source + folder + '/*.pug')
+//             .pipe(pug({
+//                 pretty: true
+//             }))
+//             .on('error', notify.onError({
+//                 title: 'PUG',
+//                 message: '<%= error.message %>'
+//             }))
+//             .pipe(gulp.dest(dist + 'html/'));
+//     });
 
-    return merge(tasks);
-});
+//     return merge(tasks);
+// });
 
 //JS-Code Linting
 gulp.task('eslint', () => {
@@ -138,7 +138,8 @@ gulp.task('scripts',  gulp.series('eslint', () => {
 					reserved: [
 						'toggleMenu',
                         'downloadAsPic',
-                        'localizeAllContents'
+                        'localizeAllContents',
+                        'changeTheme'
 					]
 				}
             }))
@@ -162,7 +163,8 @@ gulp.task('_scripts',  gulp.series('eslint', () => {
 					reserved: [
 						'toggleMenu',
 						'downloadAsPic',
-                        'localizeAllContents'
+                        'localizeAllContents',
+                        'changeTheme'
 					]
 				}
 			}))
@@ -179,4 +181,4 @@ gulp.task('default', gulp.series('sass', 'pug', 'scripts', () => {
 }));
 
 // Build production
-gulp.task('build', gulp.series('_sass', '_pug', '_scripts'));
+gulp.task('build', gulp.series('_sass', 'pug', '_scripts'));

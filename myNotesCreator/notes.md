@@ -1,6 +1,70 @@
 
 <br>
 
+
+### Toten tatenruhm
+
+<div style="max-width: 750px;">
+<p class="other tr">
+Deyr fé,<br>
+deyja frændr,<br>
+deyr sjalfr it sama,<br>
+ek veit einn,<br>
+at aldrei deyr:<br>
+dómr um dauðan hvern.
+</p>
+
+<p class="french tr">
+DU STIRBST – BESITZ STIRBT<br>
+DIE SIPPEN STERBEN.<br>
+EINZIG LEBT – WIR WISSEN ES –<br>
+DER TOTEN TATENRUHM.
+</p>
+
+<p class="english tr">
+Cattle die, kindred die,<br>
+Every man is mortal:<br>
+But I know one thing that never dies,<br> 
+The glory of the great dead
+</p>
+</div>
+
+<p class="english ref">
+The 77th stanza of Hávamál<br>
+English translation by W. H. Auden and P. B. Taylor
+</p>
+
+<p class="english">
+```P.S.:``` Hávamál is a single poem in the Codex Regius, a collection of Old Norse poems from the Viking age. The German translation is from the <a href="https://de.wikipedia.org/wiki/Leibdragonerdenkmal" target="_blank">statue of Leibdragonerdenkmal</a> in Baden.
+</p>
+
+---
+
+### Friendless man
+
+<div class="two-column" style="max-width: 490px;">
+<p class="other tr">
+Hrörnar þöll,<br>
+sú er stendr þorpi á,<br>
+hlýr-at henni börkr né barr;<br>
+svá er maðr,<br>
+sá er manngi ann.<br>
+Hvat skal hann lengi lifa?
+</p>
+
+<p class="english tr">
+The young fir that falls and rots<br>
+Having neither needles nor bark,<br>
+So is the fate of the friendless man:<br>
+Why should he live long?
+</p>
+</div>
+
+<p class="english ref">
+The 50th stanza of Hávamál<br>
+English translation by W. H. Auden and P. B. Taylor
+</p>
+
 ---
 
 ### طریقت سامورایی
@@ -77,7 +141,10 @@ From the first book
 <a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
 </p>
 
+
+<div class="english">
 ```P.S.:``` That way even though a warrior suffers like a dog on the insisde, his pain will never show on the outside. In other words his outward appearance should show attentiveness and taste, but at the same time he must be frugal and "dogged" in his heart.
+</div>
 
 ---
 

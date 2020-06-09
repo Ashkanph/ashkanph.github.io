@@ -1,7 +1,7 @@
 
 (function setInitialTheme() {
     var theme = window.localStorage.getItem('theme');
-    if(!theme) {
+    if(!theme || theme == '' || (theme != 'lightmode' && theme != 'darkmode') ) {
         theme = 'lightmode';
     }
     changeTheme(theme);
@@ -16,10 +16,8 @@ function changeTheme(theme) {
     var toShowThemeIcon =  theme == 'darkmode' ? 'sun' : 'moon',
         toHideThemeIcon =  theme == 'darkmode' ? 'moon' : 'sun';
     
-    var themeIcon = document.getElementsByClassName(toHideThemeIcon);
-    
-    if(themeIcon.length > 0) {
-        themeIcon[0].style.display = 'none';
+    if(document.getElementsByClassName(toShowThemeIcon)[0]){
         document.getElementsByClassName(toShowThemeIcon)[0].style.display = 'block';
+        document.getElementsByClassName(toHideThemeIcon)[0].style.display = 'none';
     }
 }

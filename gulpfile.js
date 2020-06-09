@@ -179,11 +179,9 @@ gulp.task('generate-service-worker', () => {
     return workbox.generateSW({
       globDirectory: dist,
       globPatterns: [
-        // '{/html/**/*, /js/**/*, /css/**/*, /assets/**/*}.{html,js,json,css}'
-        // '\*\*/\*.{html,js,json,css}'
-        '\*\*/\*\*/\*.{html,js,json,css,woff,ttf,svg,eot,jpg}'
+        '\*\*/\*\*/\*.{html,js,json,css,woff,ttf,svg,eot,jpg,png}'
       ],
-      swDest: dist + 'sw.js', //\`${dist}/sw.js\`,
+      swDest: dist + 'html/sw.js',
       clientsClaim: true,
       skipWaiting: true
     }).then(({warnings}) => {

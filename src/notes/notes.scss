@@ -152,7 +152,7 @@ code, ul li pre code{
     white-space: pre;
     word-wrap: normal;
     padding: 1px 6px 1px 4px;
-    color:  #a9b3bc;//#24292e;
+    color:  var(--ref-color,#696969);// #a9b3bc;//#24292e;
     background-color: rgba(27,31,35,0.12);
     border-radius: 3px;
     font-size: 1rem;

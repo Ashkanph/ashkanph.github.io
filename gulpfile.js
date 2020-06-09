@@ -30,7 +30,8 @@ const gulp         = require('gulp'),
       autoprefixer = require('gulp-autoprefixer'),
       plumber      = require('gulp-plumber'),               // Prevents the breaking of pipes caused by errors gulp-plugins
       notify       = require('gulp-notify'),                // Displays notifications
-      eslint       = require('gulp-eslint');                // Service Worker Precache
+      eslint       = require('gulp-eslint'),                // Service Worker Precache
+      workbox      = require('workbox-build');              // Workbox-build
 
 var fs = require('fs'),
     path = require('path'),
@@ -174,6 +175,28 @@ gulp.task('_scripts',  gulp.series('eslint', () => {
     return merge(tasks);
 }));
 
+gulp.task('generate-service-worker', () => {
+    return workbox.generateSW({
+      globDirectory: dist,
+      globPatterns: [
+        // '{/html/**/*, /js/**/*, /css/**/*, /assets/**/*}.{html,js,json,css}'
+        // '\*\*/\*.{html,js,json,css}'
+        '\*\*/\*\*/\*.{html,js,json,css,woff,ttf,svg,eot,jpg}'
+      ],
+      swDest: dist + 'sw.js', //\`${dist}/sw.js\`,
+      clientsClaim: true,
+      skipWaiting: true
+    }).then(({warnings}) => {
+      // In case there are any warnings from workbox-build, log them.
+      for (const warning of warnings) {
+        console.warn(warning);
+      }
+      console.info('Service worker generation completed.');
+    }).catch((error) => {
+      console.warn('Service worker generation failed:', error);
+    });
+  });
+
 gulp.task('default', gulp.series('sass', 'pug', 'scripts', () => {
     gulp.watch([source + '**/**/*.scss', source + '**/*.scss'], gulp.series('sass'));
     gulp.watch([source + '**/**/*.pug', source + '**/*.pug'], gulp.series('pug'));
@@ -181,4 +204,4 @@ gulp.task('default', gulp.series('sass', 'pug', 'scripts', () => {
 }));
 
 // Build production
-gulp.task('build', gulp.series('_sass', 'pug', '_scripts'));
+gulp.task('build', gulp.series('_sass', 'pug', '_scripts', 'generate-service-worker'));

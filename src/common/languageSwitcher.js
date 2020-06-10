@@ -68,6 +68,9 @@ function localizeAllContents(language) {
 		lang = "en";
 				
 	localStorage.setItem('language', lang);
+
+	document.getElementsByTagName('html')[0].lang = lang; // Set html lang
+
 	toggleLanguageSwitcher(true);
 
 	changeIndexLanguageBtns(lang);

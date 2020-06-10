@@ -84,27 +84,11 @@ gulp.task('pug',  () => {
                 title: 'PUG',
                 message: '<%= error.message %>' 
             }))
-            .pipe(gulp.dest(dist + 'html/'));
+            .pipe(gulp.dest(dist));
     });
 
     return merge(tasks);
 });
-
-// gulp.task('_pug',  () => {
-//     let tasks = folders.map(function(folder){
-//         return gulp.src(source + folder + '/*.pug')
-//             .pipe(pug({
-//                 pretty: true
-//             }))
-//             .on('error', notify.onError({
-//                 title: 'PUG',
-//                 message: '<%= error.message %>'
-//             }))
-//             .pipe(gulp.dest(dist + 'html/'));
-//     });
-
-//     return merge(tasks);
-// });
 
 //JS-Code Linting
 gulp.task('eslint', () => {
@@ -181,7 +165,7 @@ gulp.task('generate-service-worker', () => {
       globPatterns: [
         '\*\*/\*\*/\*.{html,js,json,css,woff,ttf,svg,eot,jpg,png}'
       ],
-      swDest: dist + 'html/sw.js',
+      swDest: dist + 'sw.js',
       clientsClaim: true,
       skipWaiting: true
     }).then(({warnings}) => {

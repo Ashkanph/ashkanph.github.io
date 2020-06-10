@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <title>My Personal Website</title>
-    <link rel="stylesheet" href="../css/common.min.css">
-    <link rel="stylesheet" href="../css/index.min.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" href="css/common.min.css">
+    <link rel="stylesheet" href="css/index.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
     <meta name="description" content="Personal webpage of Ashkan PH.">
     <meta name="keywords" content="Ashkan PH., Personal webpage">
     <meta name="robots" content="all">
@@ -22,6 +22,8 @@
     <meta property="og:description" content="Ashkan PH. personal webpage">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="author" href="http://ashkanph.github.io">
+    <meta name="theme-color" content="#423c3c">
+    <link rel="manifest" href="manifest.json">
     <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/22937754/31788092-851d5c66-b51a-11e7-8e16-f5c3335dd537.jpg" sizes="32x32">
   </head>
   <body>
@@ -44,11 +46,7 @@
     </nav>
     <div class="homePageComponents">
       <div class="center-container">
-        <picture>
-          <source media="screen and (max-height: 550px)" srcset="https://user-images.githubusercontent.com/22937754/31787999-381baef4-b51a-11e7-9ddc-e11976dbae7c.jpg">
-          <source media="screen and (max-height: 880px)" srcset="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg">
-          <source media="screen and (min-height: 881px)" srcset="https://user-images.githubusercontent.com/22937754/31788055-6baa5f54-b51a-11e7-9bf3-4a9652d05055.jpg"><img src="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg">
-        </picture>
+        <picture></picture>
         <div class="name" data-i18n_text="fullName"></div>
         <div class="jobTitle index-margin-bottom-25" data-i18n_text="jobTitle"></div>
         <div class="page hide-in-mobile-tablet"><a href="./skills.html" data-i18n_text="skills"></a><a href="./notes.html" data-i18n_text="notes" data-hide="en-eo"></a><a href="./book-recommendation.html" data-i18n_text="book-recommendation" data-hide="en-eo"></a></div>
@@ -67,6 +65,6 @@
       <div class="lang active-language" id="fa" data-i18n_text="persian"></div>
       <div class="lang" id="eo"> Esperanto</div>
     </div>
-    <script src="../js/common.min.js"></script>
+    <script src="js/common.min.js"></script>
   </body>
 </html>

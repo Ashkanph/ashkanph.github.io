@@ -1,17 +1,14 @@
 
-
-var express = require('express'),
-    app = express(),
-    http    = require('http'),
-    server  = http.createServer(app);
+const express = require('express')
+const app = express()
 
 var dir = __dirname;
+app.use(express.static(dir+ '/dist'));
 
-app.use(express.static(dir));
+app.get('*', function (req, res) {
+  res.sendFile(dir + '/dist/index.html')
+})
 
-var hostname    = '127.0.0.2',
-    port        = '8000';
-
-server.listen(port, hostname, function() {
-    console.log('Listen to '+hostname+':'+port);
-});
+app.listen(3003, function () {
+  console.log('Example app listening on port 3003')
+})

@@ -2,6 +2,35 @@
 <br/>
 
 
+### ابراهیم
+
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Yet Abraham believed and did not doubt, he believed the preposterous. If Abraham had doubted—then he would have done something else, something glorious; for how could Abraham do anything but what is great and glorious! He would have marched up to Mount Moriah, he would have cleft the fire-wood, lit the pyre, drawn the knife—he would have cried out to God, “Despise not this sacrifice, it is not the best thing I possess, that I know well, for what is an old man in comparison with the child of promise; but it is the best I am able to give Thee. Let Isaac never come to know this, that he may console himself with his youth.” He would have plunged the knife into his own breast. He would have been admired in the world, and his name would not have been forgotten; but it is one thing to be admired, and another to be the guiding star which saves the anguished.
+</p>
+<p class="persian tr">
+با این همه ابراهیم ایمان داشت و شک نکرد، او به محال ایمان داشت. اگر ابراهیم شک کرده بود آن‌گاه کاری دیگر، کاری شکوهمند انجام می‌داد؛ زیرا ابراهیم چگونه می‌تواند کاری که سترگ و شکوهمند نباشد انجام دهد! او به کوه موریه می‌رفت، هیزم‌ها را می‌شکست، آتش را می‌افروخت، کارد را می‌کشید و خطاب به خداوند بانگ می‌زد:‌ «این قربانی را خوار مدار، این بهترین چیزی نیست که در اختیار دارم، این را نیک می‌دانم، زیرا یک پیرمرد در قیاس با فرزند موعود چیست؟ اما این بهترین چیزی است که می‌توانم به تو ارزانی دارم. بگذار اسحاق هرگز از آن چیزی نداند، تا در سال‌های جوانیش آسوده باشد.» و آن‌گاه کارد را در سینه خویش می‌نشاند. او در جهان ستایش می‌شد و نامش فراموش نمی‌گردید؛ اما ستایش شدن چیزی است و ستاره راهنمای نجات مضطربان شدن چیزِ دیگر.
+</p>
+</div>
+
+<p class="english ref">
+Fear and trembling (1843)
+<br/>
+SØREN KIERKEGAARD
+<br/>
+English translation by Walter Lowrie
+<br/>
+From the “Problemata", “Preliminary Expectoration”
+<br/>
+برگردان فارسی از عبدالکریم رشیدیان (نشر نی، چاپ پنجم، ۱۳۸۵)
+<br/>
+از بخش مسائل، پیشگفتار
+<br/>
+<a target="_blank" href="https://ashkanph.github.io/blog/Fear_and_trembling/">بیشتر بخوانید</a>
+</p>
+
+---
+
 ### Toten tatenruhm
 
 <div style="max-width: 750px;">

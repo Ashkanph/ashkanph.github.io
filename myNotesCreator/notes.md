@@ -20,11 +20,11 @@ SØREN KIERKEGAARD
 <br/>
 English translation by Walter Lowrie
 <br/>
-From the “Problemata", “Preliminary Expectoration”
+From the chapter of “A panegyric upon Abraham”
 <br/>
 برگردان فارسی از عبدالکریم رشیدیان (نشر نی، چاپ پنجم، ۱۳۸۵)
 <br/>
-از بخش مسائل، پیشگفتار
+از بخش مدیحه بر ابراهیم
 <br/>
 <a target="_blank" href="https://ashkanph.github.io/blog/Fear_and_trembling/">بیشتر بخوانید</a>
 </p>

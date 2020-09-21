@@ -4,7 +4,10 @@
   "description": "My personal website.Start project with 'Gulp Pure Start'",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test":   "echo \"Error: no test specified\" && exit 1",
+    "start":  "node server.js",
+    "dev":    "gulp default",
+    "build":  "gulp build"
   },
   "repository": {
     "type": "git",

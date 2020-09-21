@@ -183,6 +183,10 @@ function languageInitiate() {
 // read query string of the address 
 // (It will be used to send the language we want the page be send with it)
 function readQueryString() {
+	if(window.location.href.indexOf("book-recommendation") > -1) {
+		return "fa";
+	}
+
 	let qs = window.location.search;
 	if(qs !== ""){
 		return qs.split('?')[1];

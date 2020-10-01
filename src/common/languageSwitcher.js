@@ -180,18 +180,22 @@ function languageInitiate() {
 	localizeAllContents(readQueryString());
 };
 
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
 // read query string of the address 
 // (It will be used to send the language we want the page be send with it)
 function readQueryString() {
-	if(window.location.href.indexOf("book-recommendation") > -1) {
-		return "fa";
-	}
-
-	let qs = window.location.search;
-	if(qs !== ""){
-		return qs.split('?')[1];
-	}
-	return "";
+	let l = getParameterByName("lang");
+	return l ? l : "";
+		return  
 }
 
 /**

@@ -1,6 +1,37 @@
 
 <br/>
 
+---
+
+### جنبش‌های بی‌پایان
+<div class="two-column" style="max-width: 600px;">
+<p class="english tr">
+We are creatures born of heat and pressure and grinding, ceaseless movement. To be still is to be... not alive.
+</p>
+<p class="persian tr">
+ما زادگان گرما و فشار و جنبش‌های بی‌پایان فرسایشیم. آرام بودن... فرقی با مردن ندارد.
+</p>
+</div>
+
+<p class="english ref">
+The fifth season
+<br/>
+N. K. Jemisin
+<br/>
+From the interlude between chapter 19 and 20
+<br/>
+فصل پنجم
+<br/>
+برگردان فارسی از مطهره اسلامی
+<br/>
+از میان‌پرده بین فصل ۱۹ و ۲۰
+</p>
+
+<p class="persian">
+```پی‌نوشت:``` این متن، یک استعاره نیست. انسانی که این سخن را گفته در اصل در این کتاب فانتزیِ زیبا، متعلق به رسته‌ای از انسان‌هاست که آنها را فرزندان زمین (اوروگِن) می‌نامند و توانایی کنترل قدرت‌های زمین را دارند؛ ولی خب، در دنیای واقعی هم ما همین‌طوریم. ما زادگان هزاران نسل فرگشت و انتخاب طبیعی و فشارهای طبیعتیم که چنین چیزی از ما ساخته.
+</p>
+
+---
 
 ### مذاکره
 

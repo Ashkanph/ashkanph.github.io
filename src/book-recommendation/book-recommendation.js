@@ -55,8 +55,8 @@ function fillBooks() {
                 ' <bdi>(' + book['oname'] + ')</bdi></strong>\
                                 </em>\
                                 <em>نویسنده: \
-                                    <strong>' + book['creator'] +
-                '</strong>&nbsp;&nbsp;\
+                                    <strong><bdi>' + book['creator'] +
+                '</bdi></strong>&nbsp;&nbsp;\
                                     <a href="#notes-desc"\
                                         class="return-to-top" title="برگشت به بالای صفحه">\
                                     </a>\

@@ -33,41 +33,6 @@ From the interlude between chapter 19 and 20
 
 ---
 
-### مذاکره
-
-<div class="two-column" style="max-width: 700px;">
-<p class="english tr">
-You may refer to me as Ambassador, unworthy though I am of the title,” the Consu said. “I am a criminal, having disgraced myself in battle on Pahnshu, and therefore am made to speak to you in your tongue. For this shame I crave death and a term of just punishment before my rebirth. It is my hope that as a result of these proceedings I will be viewed as somewhat less unworthy, and will thus be released to death. It is why I soil myself by speaking to you.”<br>
-“It’s nice to meet you, too,” I said.<br>
-We stood in the center of a football field-size dome that the Consu had constructed not an hour before. Of course, we humans could not be allowed to touch Consu ground, or be anywhere a Consu might again tread; upon our arrival, automated machines created the dome in a region of Consu space long quarantined to serve as a receiving area for unwelcome visitors such as ourselves. After our negotiations were completed, the dome would be imploded and launched toward the nearest black hole, so that none of its atoms would ever contaminate this particular universe again. I thought that last part was overkill.
-</p>
-<p class="persian tr">
-کونسو گفت: «می‌توانید من را سفیر بدانید؛ هرچند شایسته این عنوان نیستم. من مجرمم و در نبرد سیاره پاهنشو خود را بی‌آبرو کرده‌ام. به همین دلیل باید به زبانِ شما با شما حرف بزنم. به سببِ این شرم، مرگ خود را می‌خواهم و تنبیهی عادلانه پیش از تناسخم. امید دارم در نتیجه اقداماتم کمتر از پیش نالایق شمرده شوم و مرگ رهایی‌بخشِ من باشد. به همین دلیل با شما سخن می‌گویم تا تحقیر شوم.»<br>
-گفتم: «از دیدن‌تون خوش‌وقتم.»<br>
-در مرکز گنبدی ایستاده بودیم به اندازه زمین فوتبال که کونسوها یک ساعت پیش ساخته بودند. طبعا ما انسان‌ها اجازه نداریم زمین کونسو را لمس کنیم یا جایی باشیم که کونسویی دیگر ممکن است بعدها به آن دست بزند؛ با رسیدن ما دستگاه‌هایی خودکار این گنبد را در منطقه‌ای از فضای کونسو ساختند که از مدت‌ها پیش به عنوان ناحیهٔ پذیرفتن مهمانان ناخوانده‌ای مثل ما قرنطینه شده بود. بعد از اتمامِ مذاکراتمان، گنبد منفجر می‌شد و آنرا به نزدیکترین سیاهچاله می‌فرستادند تا هیچ‌کدام از اتم‌هایش این بخشِ خاص از جهان را دیگر آلوده نکند. به نظرم این قسمتِ آخر زیاده‌روی بود.<br>
-</p>
-</div>
-
-<p class="english ref">
-Old Man's War (2005)
-<br/>
-John Scalzi
-<br/>
-From the chapter 16
-<br/>
-جنگ پیرمرد
-<br/>
-برگردان فارسی از حسین شهرابی (انتشارات تندیس)
-<br/>
-<a target="_blank" href="https://ashkanph.github.io/blog/old_mans_war/">بیشتر بخوانید</a>
-</p>
-
-<p class="persian">
-```پی‌نوشت:``` آینده است و انسان‌ها به توانایی سفر در منظومه‌ها دست یافته‌اند. پاراگراف بالا بخشی از یک مذاکره انسان‌ها با نژادی با نام کونسو است که در این کتاب آمده.
-</p>
-
----
-
 ### ابراهیم
 
 <div class="two-column" style="max-width: 700px;">
@@ -539,8 +504,11 @@ God does not see me, God does not hear me, God does not know me. You see this em
 ### هوتوتوگیسو
 
 <div class="two-column" style="max-width: 700px;">
-<p class="english tr">
+<p class="other tr">
 «夢にくる  母をかへすか  郭公.»</p>
+<p class="english tr">
+Yume ni kuru<br/>Haha wo kaesu ka<br/>Hototogisu
+</p>
 <p class="persian tr">
 «مادرم به خوابم آمده بود، تو برش گرداندی، هوتوتوگیسو.»
 </p>
@@ -560,6 +528,9 @@ God does not see me, God does not hear me, God does not know me. You see this em
 <div class="two-column" style="max-width: 800px;">
 <p class="other tr">
 «行く年や親に白髪をかくしけり.»
+</p>
+<p class="french tr">
+Yuku-toshi ya<br/>Oya ni shiraga wo<br/>Kakushi keri
 </p>
 <p class="english tr">
 «Alas! another year has gone; I've hid my grey hair from my parents.»

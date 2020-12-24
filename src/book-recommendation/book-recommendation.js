@@ -67,8 +67,8 @@ function fillBooks() {
                                 </em>\
                             </span>';
             if (book.imageAddress)
-                content += "<img src='http://www.ashkanph.ir/images/books/" +
-                book['imageAddress'] + "'>";
+                content += "<img src='https://www.ashkanph.ir/images/books/" +
+                book['imageAddress'] + `' alt="${book['oname']}">`;
 
             content += '<p>' + book['description'] + '</p>\
                         </section>';
@@ -90,7 +90,7 @@ function makeList() {
     content += '<div id="notes-desc">';
     content += " به مرور کتاب‌های بیشتری را در این صفحه معرفی می‌کنم (ترتیب معرفی‌ها مشخص‌کننده چیزی نیست).";
     content += '</div>\
-            <div id="list-of-titles">\
+            <div class="list-of-books" id="list-of-titles">\
                 <div class="list-title">\
                     فهرست کتاب‌ها<span class="plus-icon"></span>\
                 </div>\

@@ -2168,15 +2168,10 @@ caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
   resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001048.tgz#4f431c688cb6bc0435994dcbb8e565d004869d43"
   integrity sha512-HqYsBIZlVARU5GDXPziXSFwFVpGx9KqCznr62iaey7bT2sqpx7/jI4B3PvbKguKi8kGeEannJ7WEPB5H71rjFQ==
 
-caniuse-lite@^1.0.30000844:
-  version "1.0.30001048"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001048.tgz#4bb4f1bc2eb304e5e1154da80b93dee3f1cf447e"
-  integrity sha512-g1iSHKVxornw0K8LG9LLdf+Fxnv7T1Z+mMsf0/YYLclQX4Cd522Ap0Lrw6NFqHgezit78dtyWxzlV2Xfc7vgRg==
-
-caniuse-lite@^1.0.30001043:
-  version "1.0.30001079"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001079.tgz#ed3e5225cd9a6850984fdd88bf24ce45d69b9c22"
-  integrity sha512-2KaYheg0iOY+CMmDuAB3DHehrXhhb4OZU4KBVGDr/YKyYAcpudaiUQ9PJ9rxrPlKEoJ3ATasQ5AN48MqpwS43Q==
+caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30001043:
+  version "1.0.30001170"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001170.tgz"
+  integrity sha512-Dd4d/+0tsK0UNLrZs3CvNukqalnVTRrxb5mcQm8rHL49t7V5ZaTygwXkrq+FB+dVDf++4ri8eJnFEJAB8332PA==
 
 caseless@~0.12.0:
   version "0.12.0"

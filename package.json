@@ -4,10 +4,10 @@
   "description": "My personal website.Start project with 'Gulp Pure Start'",
   "main": "gulpfile.js",
   "scripts": {
-    "test":   "echo \"Error: no test specified\" && exit 1",
-    "start":  "node server.js",
-    "dev":    "gulp default",
-    "build":  "gulp build"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "gulp default",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
@@ -54,5 +54,6 @@
   "bugs": {
     "url": "https://github.com/Ashkanph/ashkanph.github.io/issues"
   },
-  "homepage": "https://github.com/Ashkanph/ashkanph.github.io#readme"
+  "homepage": "https://github.com/Ashkanph/ashkanph.github.io#readme",
+  "dependencies": {}
 }

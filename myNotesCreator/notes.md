@@ -1,8 +1,25 @@
 
-<br/>
 
 ---
 
+### ‌Brains
+<p class="english tr">
+"Brains are survival engines, not truth detectors. if self-deception promotes fitness, the brain lies. Stops noticing irrelevant things. Truth never matters. Only fitness. By now you don't experience the world as it exists at all. You experience a simulation built from assumptions. Shortcuts. Lies, Whole species is agnosiac by default. Rorschach does nothing to you that you don't already do to yourselves." 
+</p>
+
+<p class="english ref">
+Blindsight (2006)
+<br/>
+Peter Watts
+<br/>
+From the second chapter: Rorschach
+</p>
+
+<div class="persian">
+```پی‌نوشت:``` سفینه‌ای با پنج نفر خدمه از حوزه‌های مختلف دانش، برای اولین‌بار در تاریخ بشر با سفینه‌ای متعلق به بیگانگان روبه‌رو شده‌است. پس از چند بار ورود به سفینه بیگانگان، که آنرا رورشاخ می‌نامند، متوجه می‌شوند که رورشاخ در حال بازی با افکار و احساسات آنهاست و کاری با آنها کرده که در محدوده‌اش فرق واقعیت با توهم را متوجه نشوند. خدمه ترسیده‌اند و پیشنهاد عقب نشینی و دوری از رورشاخ را می‌دهند. جمله بالا بخشی از سخنانی است که فرمانده سفینه برای ترغیب آنها به ادامه ماموریت بر زبان می‌آورد.
+</div>
+
+---
 ### جنبش‌های بی‌پایان
 <div class="two-column" style="max-width: 600px;">
 <p class="english tr">

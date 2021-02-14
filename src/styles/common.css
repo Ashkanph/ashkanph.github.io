@@ -1,0 +1,162 @@
+.position-fixed {
+    position: fixed;
+}
+
+.text-background {
+    color: var(--onbackground);
+}
+
+.text-surface {
+    color: var(--onsurface);
+}
+
+.text-surface-darker {
+    color: var(--onsurface-darker);
+}
+
+.text-primary {
+    color: var(--primary);
+}
+
+.text-secondary {
+    color: var(--secondary);
+}
+
+.text-table-header-color {
+    color: var(--table-header-color);
+}
+
+.text-red {
+    color: var(--red);
+}
+
+.text-green {
+    color: var(--green);
+}
+
+.text-golden {
+    color: var(--golden);
+}
+
+.list-style-none {
+    list-style: none;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+/* ------------- */
+
+.display-flex-center {
+    display: flex;
+    align-items: center;
+}
+
+/* ------------- */
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cursor-default {
+    cursor: default;
+}
+
+.overflow-x-hidden {
+    overflow-x: hidden;
+}
+
+.background-color{
+    background-color: var(--background);
+}
+
+.non-selectable {
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+/** ----------------
+ * Hide Arrows From Input Number
+ * ref: https://www.w3schools.com/howto/howto_css_hide_arrow_number.asp
+ *
+ */
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+/* ----------------- */
+
+.opacity-4 {
+    opacity: 0.4;
+}
+
+.disabled-item-opacity {
+    opacity: 0.6; /* For the browsers that don't supprt css3 variable */
+    opacity: var(--disabled-item-opacity);
+}
+
+.circled-triangle {
+    display: inline-block;
+    border: 1px solid #b3b3b3;
+    border-radius: 100%;
+    margin: 0 10px;
+    width: 25px;
+    height: 25px;
+    padding-top: 3px;
+    line-height: 21px;
+    text-align: center;
+
+}
+
+.circled-triangle svg {
+    fill: #b3b3b3;
+}
+
+.circled-triangle:hover {
+    border: 1px solid #989898;
+    fill: #989898;
+}
+
+.circled-triangle:hover svg {
+    fill: #989898;
+}
+
+h3 {
+    display: inline-block;
+}
+
+.ltr{
+    direction: ltr !important;
+}
+
+.rtl{
+    direction: rtl !important;
+}
+     
+code {
+    font-family: "sahel" !important;
+}
+
+a{
+    text-decoration: none;
+}
+
+.text-center{
+    text-align: center;
+}
+
+sup, .reference-number {
+    line-height: 0;
+    color: var(--persian-tr);
+}

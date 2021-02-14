@@ -1,0 +1,2124 @@
+
+
+---
+
+### ‌Brains
+<p class="english tr">
+"Brains are survival engines, not truth detectors. if self-deception promotes fitness, the brain lies. Stops noticing irrelevant things. Truth never matters. Only fitness. By now you don't experience the world as it exists at all. You experience a simulation built from assumptions. Shortcuts. Lies, Whole species is agnosiac by default. Rorschach does nothing to you that you don't already do to yourselves." 
+</p>
+
+<p class="english ref">
+Blindsight (2006)
+<br/>
+Peter Watts
+<br/>
+From the second chapter: Rorschach
+</p>
+
+```پی‌نوشت:``` سفینه‌ای با پنج نفر خدمه از حوزه‌های مختلف دانش، برای اولین‌بار در تاریخ بشر با سفینه‌ای متعلق به بیگانگان روبه‌رو شده‌است. پس از چند بار ورود به سفینه بیگانگان، که آنرا روشاخ می‌نامند، متوجه می‌شوند که روشاخ در حال بازی با افکار و احساسات آنهاست و کاری با آنها کرده که در محدوده‌اش فرق واقعیت با توهم را متوجه نشوند. خدمه ترسیده‌اند و پیشنهاد عقب نشینی و دوری از آن‌را می‌دهند. جمله بالا بخشی از سخنانی است که فرمانده سفینه برای ترغیب آنها به ادامه ماموریت بر زبان می‌آورد.
+
+---
+### جنبش‌های بی‌پایان
+<div class="two-column" style="max-width: 600px;">
+<p class="english tr">
+We are creatures born of heat and pressure and grinding, ceaseless movement. To be still is to be... not alive.
+</p>
+<p class="persian tr">
+ما زادگان گرما و فشار و جنبش‌های بی‌پایان فرسایشیم. آرام بودن... فرقی با مردن ندارد.
+</p>
+</div>
+
+<p class="english ref">
+The fifth season
+<br/>
+N. K. Jemisin
+<br/>
+From the interlude between chapter 19 and 20
+<br/>
+فصل پنجم
+<br/>
+برگردان فارسی از مطهره اسلامی
+<br/>
+از میان‌پرده بین فصل ۱۹ و ۲۰
+</p>
+
+```پی‌نوشت:``` این متن، یک استعاره نیست. انسانی که این سخن را گفته در اصل در این کتاب فانتزیِ زیبا، متعلق به رسته‌ای از انسان‌هاست که آنها را فرزندان زمین (اوروگِن) می‌نامند و توانایی کنترل قدرت‌های زمین را دارند؛ ولی خب، در دنیای واقعی هم ما همین‌طوریم. ما زادگان هزاران نسل فرگشت و انتخاب طبیعی و فشارهای طبیعتیم که چنین چیزی از ما ساخته.
+
+---
+
+### ابراهیم
+
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Yet Abraham believed and did not doubt, he believed the preposterous. If Abraham had doubted—then he would have done something else, something glorious; for how could Abraham do anything but what is great and glorious! He would have marched up to Mount Moriah, he would have cleft the fire-wood, lit the pyre, drawn the knife—he would have cried out to God, “Despise not this sacrifice, it is not the best thing I possess, that I know well, for what is an old man in comparison with the child of promise; but it is the best I am able to give Thee. Let Isaac never come to know this, that he may console himself with his youth.” He would have plunged the knife into his own breast. He would have been admired in the world, and his name would not have been forgotten; but it is one thing to be admired, and another to be the guiding star which saves the anguished.
+</p>
+<p class="persian tr">
+با این همه ابراهیم ایمان داشت و شک نکرد، او به محال ایمان داشت. اگر ابراهیم شک کرده بود آن‌گاه کاری دیگر، کاری شکوهمند انجام می‌داد؛ زیرا ابراهیم چگونه می‌تواند کاری که سترگ و شکوهمند نباشد انجام دهد! او به کوه موریه می‌رفت، هیزم‌ها را می‌شکست، آتش را می‌افروخت، کارد را می‌کشید و خطاب به خداوند بانگ می‌زد:‌ «این قربانی را خوار مدار، این بهترین چیزی نیست که در اختیار دارم، این را نیک می‌دانم، زیرا یک پیرمرد در قیاس با فرزند موعود چیست؟ اما این بهترین چیزی است که می‌توانم به تو ارزانی دارم. بگذار اسحاق هرگز از آن چیزی نداند، تا در سال‌های جوانیش آسوده باشد.» و آن‌گاه کارد را در سینه خویش می‌نشاند. او در جهان ستایش می‌شد و نامش فراموش نمی‌گردید؛ اما ستایش شدن چیزی است و ستاره راهنمای نجات مضطربان شدن چیزِ دیگر.
+</p>
+</div>
+
+<p class="english ref">
+Fear and trembling (1843)
+<br/>
+SØREN KIERKEGAARD
+<br/>
+English translation by Walter Lowrie
+<br/>
+From the chapter of “A panegyric upon Abraham”
+<br/>
+برگردان فارسی از عبدالکریم رشیدیان (نشر نی، چاپ پنجم، ۱۳۸۵)
+<br/>
+از بخش مدیحه بر ابراهیم
+<br/>
+<a target="_blank" href="https://ashkanph.github.io/blog/Fear_and_trembling/">بیشتر بخوانید</a>
+</p>
+
+---
+
+### Toten tatenruhm
+
+<div style="max-width: 750px;">
+<p class="other tr">
+Deyr fé,<br/>
+deyja frændr,<br/>
+deyr sjalfr it sama,<br/>
+ek veit einn,<br/>
+at aldrei deyr:<br/>
+dómr um dauðan hvern.
+</p>
+
+<p class="french tr">
+DU STIRBST – BESITZ STIRBT<br/>
+DIE SIPPEN STERBEN.<br/>
+EINZIG LEBT – WIR WISSEN ES –<br/>
+DER TOTEN TATENRUHM.
+</p>
+
+<p class="english tr">
+Cattle die, kindred die,<br/>
+Every man is mortal:<br/>
+But I know one thing that never dies,<br/> 
+The glory of the great dead
+</p>
+</div>
+
+<p class="english ref">
+The 77th stanza of Hávamál<br/>
+English translation by W. H. Auden and P. B. Taylor
+</p>
+
+<p class="english">
+<code>P.S.</code> Hávamál is a single poem in the Codex Regius, a collection of Old Norse poems from the Viking age. The German translation is from the <a href="https://de.wikipedia.org/wiki/Leibdragonerdenkmal" target="_blank">statue of Leibdragonerdenkmal</a> in Baden.
+</p>
+
+---
+
+### Friendless man
+
+<div class="two-column" style="max-width: 510px;">
+<p class="other tr">
+Hrörnar þöll,<br/>
+sú er stendr þorpi á,<br/>
+hlýr-at henni börkr né barr;<br/>
+svá er maðr,<br/>
+sá er manngi ann.<br/>
+Hvat skal hann lengi lifa?
+</p>
+
+<p class="english tr">
+The young fir that falls and rots<br/>
+Having neither needles nor bark,<br/>
+So is the fate of the friendless man:<br/>
+Why should he live long?
+</p>
+</div>
+
+<p class="english ref">
+The 50th stanza of Hávamál<br/>
+English translation by W. H. Auden and P. B. Taylor
+</p>
+
+---
+
+### طریقت سامورایی
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+The Way of the warrior (bushido) is to be found in dying. If one is faced with two options of life or death, simply settle for death. It is not an especially difficult choice; just go forth and meet it confidently. To declare that dying without aiming for the right purpose is nothing more than a “dog’s death” is the timid and shallow way of Kamigata warriors. Whenever faced with the choice of life and death, there is no need to try and achieve one’s aims.
+</p>
+<p class="persian tr">
+طریقت سامورایی استوار بر مرگ است. آن‌گاه که باید بین مرگ و زندگی یکی را انتخاب کنی بی‌درنگ مرگ را برگزین. دشوار نیست؛ مصمم باش و به پیش برو. این‌که بگوییم مردن بدون رسیدن به هدفِ خود مرگی بی‌ارزش است راهی است سبکسرانه برای پیچیده‌کردن موضوع. آن هنگام که تحت فشار انتخاب زندگی یا مرگ قرار گرفته‌ای لزومی هم ندارد به هدف خود برسی.
+</p>
+</div>
+
+<p class="english ref">
+Hagakure (1716)
+<br/>
+Yamamoto Tsunetomo
+<br/>
+English translation by Alexander Bennett
+<br/>
+From the first book
+<br/>
+برگردان فارسی از سید رضا حسینی
+<br/>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+</p>
+
+
+---
+
+### از پیش مردن
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Begin each day pondering death as its climax. Each morning, with a calm mind, conjure images in your head of your last moments. See yourself being pierced by bow and arrow, gun, sword, or spear, or being swept away by a giant wave, vaulting into a fiery inferno, taking a lightning strike, being shaken to death in a great earthquake, falling hundreds of feet from a high cliff top, succumbing to a terminal illness, or just dropping dead unexpectedly. Every morning, be sure to meditate yourself into a trance of death.
+<br/>
+An elder decreed: “If one steps out of his house, he will be in the midst of corpses; if he steps out of his gate, he will meet the enemy.” The point here is not vigilance; but rather to kill one’s self from the very outset.
+</p>
+<p class="persian tr">
+هر روز باید به مرگ گریزناپذیر اندیشید. هر روز و آن هنگام که جسم و روح تو در آرامش است، به دریده شدن با نیزه‌ها و زوبین‌ها، گلوله‌ها و شمشیرها، ناپدید شدن در امواج سهمگین، افکنده‌شدن در میان آتشی بزرگ، مرگ با برق صاعقه، مردن از پس زلزله‌ای بزرگ، سقوط از پرتگاهی عمیق، مردن از پس بیماری یا سپوکه (خودکشی) پس از مرگ امیر بیندیش و تامل کن. و انسان هر روز و هر روز بی هیچ بیش‌و‌کم باید که خود را مرده بشمارد.
+<br/>
+در کلام گذشتگان آمده‌است که «چون از لبه بام خود تنها قدمی فراسو نهی به وادی مرگ خواهی رسید؛ و چون از دروازه بیرون شوی، دشمن به انتظار توست.» نکته این سخن، نه اندرزی در باب مراقبت و دوراندیشی، که خویشتن را از پیش مرده انگاشتن است.
+</p>
+</div>
+
+<p class="english ref">
+Hagakure (1716)
+<br/>
+Yamamoto Tsunetomo
+<br/>
+English translation by Alexander Bennett
+<br/>
+From the third book
+<br/>
+برگردان فارسی از سید رضا حسینی
+<br/>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+</p>
+
+---
+
+### خلال دندان
+<p class="english tr">
+Yamamoto Jin'uemon: "A samurai should use a toothpick even though he has not eaten: a dog's skin inside, a tiger's hide outside."
+</p>
+
+<p class="english ref">
+Hagakure (1716)
+<br/>
+Yamamoto Tsunetomo
+<br/>
+English translation by Alexander Bennett
+<br/>
+From the first book
+<br/>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+</p>
+
+
+<div class="english">
+<code>P.S.</code> That way even though a warrior suffers like a dog on the insisde, his pain will never show on the outside. In other words his outward appearance should show attentiveness and taste, but at the same time he must be frugal and "dogged" in his heart.
+</div>
+
+---
+
+### میخک
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+His lordship (Mitsushige) took a scroll from a case. The fragrance of dried cloves wafted forth as he opened the lid.
+</p>
+<p class="persian tr">
+میتسوشیگه (رییس خاندان نابشیما)، کتابی (طوماری) از قفسه برداشت. با باز کردنش عطر میخک در همه جا پیچید.
+</p>
+</div>
+
+<p class="english ref">
+Hagakure (1716)
+<br/>
+Yamamoto Tsunetomo
+<br/>
+English translation by Alexander Bennett
+<br/>
+From the first book
+<br/>
+<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+</p>
+
+```پی‌نوشت:``` مردانی که نوجوان چهارده‌ساله را مجبور می‌کنند تا در یک روز سر ده مجرم دست‌بسته را قطع کند تا روحیه جنگاوری‌اش تقویت شود، با بوییدن عطر میخکِ میان یک کتاب، احساساتی می‌شوند.
+
+---
+
+### ای ماه
+«ای ماه! گردی رخسارت دهانه توپ را به یاد می‌آورد؛ و گلوله‌ای را که پس از پرتاب، آهسته آهسته در آسمان می‌خرامد‌! بگو که زمان انفجارت کی فرا خواهد رسید، ای گلوله آسمانی! تا ابری از اخگر بباری و همه تخت و تاج‌ها و ارتش‌های دشمن را تباه کنی، تا بر این دیوار بلند فراموشی که هموطنانم به روی من کشیده‌اند شکافی بگشایی و مرا به سوی افتخار رهنمون شوی؟ آه، شهر من ، روآن! آه، ای ماه! ای سرنوشت! ای مجلس مردمی! ای وزغ‌ها! ای دختران! ای زندگی!»
+
+<p class="ref">
+بارون درخت‌نشین<br/>
+ایتالو کالوینو<br/>
+برگردانِ مهدی سحابی
+</p>
+
+
+```پی‌نوشت:``` جملات بالا، شعرگونه‌ای از ستوان اگریپا پاپیون، افسر شاعرمسلک فرانسوی کتاب است؛ همانگونه که از متن جملات بر می‌آید، او فرمانده یکی از هنگ‌های ارتش جمهوری فرانسه بود که برای نبرد با پادشاهی اتریش در جنگل‌های دره اومبروزا بودند.
+
+---
+
+### جهان منطقی
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.
+</p>
+<p class="persian tr">
+در عمق ضمیر ناخودآگاه بشر نیازی همیشگی و فراگیر به جهانی منطقی وجود دارد؛ جهانی که با عقل و منطق جور دربیاید. ولی جهان خارج همیشه یک گام فراتر از عقل و منطق است.
+</p>
+</div>
+
+<p class="english ref">
+Dune (1965)
+<br/>
+Frank Herbert
+<br/>
+برگردان فارسی از مهیار فروتن‌فر
+</p>
+
+---
+
+### آزادمردان
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+The Fremen were supreme in that quality the ancients called “spannungsbogen”—which is the self-imposed delay between desire for a thing and the act of reaching out to grasp that thing.
+</p>
+<p class="persian tr">
+حره‌مردان در خصوصیتی که پیشینیان به آن «کفِّ نفس» می‌گفتند سرآمد خاص و عام بودند و آن درنگی است که انسان بین خواستن چیزی و دست دراز کردن به سوی آن بر خود تحمیل می‌کند.
+</p>
+</div>
+
+<p class="english ref">
+Dune (1965)
+<br/>
+Frank Herbert
+<br/>
+برگردان فارسی از مهیار فروتن‌فر
+</p>
+
+```پی‌نوشت:``` حره‌مردانی که در اینجا از آنان نام برده شده، مردمان بومی سیاره‌ای به نام آراکیس (تلماسه) هستند که به نظر می‌رسد از پسینیان ایرانیان و اعراب باشند. آنها آزادمردانی هستند که زیر بند نیروهای امپراتوری و جلادان حاکم قرار نگرفته‌اند و در بیابان‌های سخت آراکیس به سختی اما با جسارت زندگی می‌کنند. اراده آهنین آنها در سرسبز کردن سیاره‌شان ستودنی است.
+
+---
+
+### رنج
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+Over the exit of the Arrakeen landing field, crudely carved as though with a poor instrument, there was an inscription that Muad'Dib was to repeat many times. He saw it that first night on Arrakis, having been brought to the ducal command post to participate in his father's first full staff conference. The words of the inscription were a plea to those leaving Arrakis, but they fell with dark import on the eyes of a boy who had just escaped a close brush with death. They said: "O you who know what we suffer here, do not forget us in your prayers."
+</p>
+<p class="persian tr">
+مؤدِّب بارها در زندگی‌اش از نوشته‌ای یاد کرد که بدخط و ناشیانه، تو گویی با ابزاری کُند، بالای سردرِ سکوی فرود آراکین حک شده بود. او آن‌را در اولین شبِ زندگی‌اش در آراکیس دید؛ در همان هنگام که او را به ستاد فرماندهی می‌بردند تا در اولین جلسه رسمی پدرش با مقامات زیردست شرکت کند. آن نوشته تمنایی بود از کسانی که آراکیس را ترک می‌کردند، ولی به چشمان پسرکی که دقایقی پیش از چنگال مرگ گریخته بود جلوه‌ای به مراتب سیاه‌تر و تاثیرگذارتر داشت. متن آن چنین بود: «ای کسانی که از مصائب ما در این سیاره باخبرید! در دعاهای خود ما را از یاد نبرید.» 
+</p>
+</div>
+
+<p class="english ref">
+Dune (1965)
+<br/>
+Frank Herbert
+<br/>
+برگردان فارسی از مهیار فروتن‌فر
+</p>
+
+```پی‌نوشت:``` شخصی که در اینجا با نام مؤدِّب از او نام برده شده، فرزند دوکی بود که پدرش برای فرمانروایی به سیاره آراکیس آمده بود؛ سیاره‌ای بدون آب که زندگی برای ساکنانش بسیار سخت بود. در شب اول ورودش، در اولین جلسه پدرش در فرودگاه شاتل‌ها حاضر شد و نوشته بالا بر سردرِ یکی از سکو‌های فرود بود.
+
+---
+
+### Infallibility
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+As we come to make the most important decisions in the history of life, I personally would trust more in those who admit ignorance than in those who claim infallibility. If you want your religion, ideology or world view to lead the world, my first question to you is: ‘What was the biggest mistake your religion, ideology or world view committed? What did it get wrong?’ If you cannot come up with something serious, I for one would not trust you.
+</p>
+<p class="persian tr">
+تا آنجا که به مهمترین تصمیمات در تاریخ زندگی مربوط می‌شود، من شخصا به آنهایی که به نادانی خود اعتراف می‌کنند بیشتر اعتماد می‌کنم، نه آنهایی که داعیه خطاناپذیری دارند. من از کسی که می‌خواهد دینش، ایدئولوژی‌اش یا جهان‌بینی‌اش جهان را هدایت کند، سوالی دارم: «بزرگترین اشتباهی که دین، ایدئولوژی یا جهان‌بینی‌اش مرتکب شده چیست؟» اگر نتواند به موردی جدی اشاره کند، من یکی به او اعتماد نخواهم کرد.
+</p>
+</div>
+
+<p class="english ref">
+21 Lessons for the 21st Century (2018)
+<br/>
+Yuval Noah Harari
+<br/>
+From the 14th chapter: Secularism
+<br/>
+برگردان فارسی از نیک گرگین
+</p>
+
+---
+
+### Mashhad
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+In March 1839, in the Iranian city of Mashhad, a Jewish woman who suffered from some skin disease was told by a local quack that if she killed a dog and washed her hands in its blood, she would be cured. Mashhad is a holy Shiite city, and it so happened that the woman undertook the grisly therapy on the sacred day of Ashura. She was observed by some Shiites, who believed – or claimed to believe – that the woman killed the dog in mockery of the Karbala martyrdom. Word of this unthinkable sacrilege quickly spread through the streets of Mashhad. Egged on by the local imam, an angry mob broke into the Jewish quarter, torched the synagogue, and murdered thirty-six Jews on the spot. All the surviving Jews of Mashhad were then given a stark choice: convert to Islam immediately, or be killed. The sordid episode hardly harmed Mashhad’s reputation as ‘Iran’s spiritual capital’.
+</p>
+<p class="persian tr">
+در مارس ۱۸۳۹ در شهر مشهد در ایران، يک طبیب دروغين به یک زن یهودی که از یک بیماری پوستی رنج می‌برد توصیه کرد که اگر سگی را بکشد و دستانش را در خون آن سگ بشوید درمان خواهد شد. مشهد یک شهر شیعی مقدس است و چنین شد که زن‌ آن راه درمان وحشتناک را در روز مقدس عاشورا به کار برد. تعدادی شیعه این کار زن را نظاره کردند و چنین باور کردند که زن، سگ را برای تمسخر شهادت در کربلا کشته است. خبر غیرقابل تصور این توهین به مقدسات به سرعت در خیابان‌های مشهد پیچید. یک جمعیت عصبانی که توسط امام محلی تحریک شده بود به منطقه یهودی‌نشین هجوم برد، کنیسه محل را به آتش کشید و سی‌و‌شش یهودی را در محل به قتل رساند. سپس تمامی باقی‌ماندگان یهودی مشهد در مقابل یک گزینه جدی قرار گرفتند: یا بلافاصله به اسلام بگروند و یا کشته شوند. این حادثه شوم بر اعتبار مشهد به عنوان «پایتخت روحانی ایران» تاثیر چندانی نگذاشت.
+</p>
+</div>
+
+<p class="english ref">
+21 Lessons for the 21st Century (2018)
+<br/>
+Yuval Noah Harari
+<br/>
+From the 20th chapter: Meaning
+<br/>
+برگردان فارسی از نیک گرگین
+</p>
+
+---
+
+### Monotheism
+<div class="two-column" style="max-width: 580px;">
+<p class="english tr">
+From an ethical perspective, monotheism was arguably one of the worst ideas in human history.
+</p>
+<p class="persian tr">
+یکتاپرستی از چشم‌انداز  اخلاقی، منطقا یکی از بدترین اندیشه‌ها در تاریخ انسان بوده‌است.
+</p>
+</div>
+
+<p class="english ref">
+21 Lessons for the 21st Century (2018)
+<br/>
+Yuval Noah Harari
+<br/>
+From the 12th chapter: Humility
+<br/>
+برگردان فارسی از نیک گرگین
+</p>
+
+---
+
+### Big wheel
+<p class="english tr">
+<b>Melichrone:</b> "I was supernal, immortal, omnipotent and omniscient. All things were resident in me - even dissident opinions about myself. Not a blade of grass grew that was not some infinitesimal portion of my being. The very mountains and rivers were shaped by me. I was the life in the sperm cells, and I was the death in the plague bacillus. I was the All and the Many, That Which Always Was And That Which Always Will Be."
+<br/>
+<b>Carmody:</b> "That's really something."
+<br/>
+<b>Melichrone:</b> "Yes. I was the Big Wheel in the Heavenly Bicycle Factory, as one of my poets expressed it."
+</p>
+
+<p class="english ref">
+Dimension of Miracles (1968)
+<br/>
+Robert Sheckley
+<br/>
+From chapter 7, page 34 
+</p>
+
+```پی‌نوشت:``` ملیکرون، قادر مطلق یک سیاره دورافتاده است که کارمودی در بخشی از سفرش در کهکشان به او برمی‌خورد. ملیکرون برایش تعریف می‌کند که چگونه زندگی‌ها به وجود آورده و چگونه خود به آن‌ها پایان داده است. شخصیت‌های این کتاب همگی از جالب‌ترین شخصیت‌هایی هستند که تاکنون در دنیای ادبیات با آن روبه‌رو شده‌ام. نکته جالب توجه اینکه داگلاس آدامز، کتاب معروف <a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy" target="_blank">The Hitchhiker's Guide to the Galaxy</a> را با الهام از این کتاب نوشته‌است.
+
+---
+
+### For everyone
+<p class="english tr">
+«HAPPINESS, FREE, FOR EVERYONE, AND LET NO ONE BE FORGOTTEN!»
+</p>
+
+<p class="english ref">
+Roadside picnic (1977)
+<br/>
+Arkady and Boris Strugatsky
+<br/>
+From the last part
+</p>
+
+```پی‌نوشت:``` ردریک شوهارت، قهرمان اصلی این کتاب، به گوی آرزوها دست یافته؛ شیئی از بیگانگان در میانه یک منطقه دست‌نیافتنی؛ که با هربار دیدارش می‌توانی یک آرزو یا درخواست از آن داشته باشی تا برآورده شود. و این‌ها واژگانی است که ردریک، خسته و زخمی از مسیر پرخطری که گذرانده بر زبان می‌آورد.
+
+---
+
+### To compromise
+<p class="english tr">
+No. Not even in the face of Armageddon. Never compromise.
+</p>
+
+<p class="english ref">
+Watchmen (1987)
+<br/>
+Alan Moore (1933–-)
+<br/>
+From chapter 12
+</p>
+
+```پی‌نوشت:``` رورشاک، شخصیتی در کمیک نگهبانان، پیش از کشته شدن این حرف را می‌زند؛ با باد نچرخید و کشتندش. به همین سادگی.  
+
+---
+
+### unloved
+
+<p class="english tr">
+The ancient Skoptsy sect of White Russia, believing that sex was the root of all evil, practiced an atrocious self-castration to extirpate the root. The modern Skoptsys, believing that sensation was the root of all evil, practiced an even more barbaric custom. Having entered the Skoptsy Colony and paid a fortune for the privilege, the initiates submitted joyously to an operation that severed the sensory nervous system, and lived out their days without sight, sound, speech, smell, taste, or touch.
+
+When they first entered the monastery, the initiates were shown elegant ivory cells in which it was intimated they would spend the remainder of their lives in rapt contemplation, lovingly tended. In actuality, the senseless creatures were packed in catacombs where they sat on rough stone slabs and were fed and exercised once a day. For twenty-three out of twenty-four hours they sat alone in the dark, untended, unguarded, unloved.
+</p>
+
+<p class="english ref">
+ستارگان، سرانجام منند (The stars my destination) (1957)
+<br/>
+آلفرد بستر (Alfred Bester) (1913–1987)
+<br/>
+From chapter 13
+</p>
+
+```پی‌نوشت:``` این چند پاراگراف از فصل سیزدهم این کتاب علمی‌تخیلی است. قهرمان داستان داخل این دخمه‌ها رفته تا شخصی را که به این فرقه گرویده پیدا کند و از او پرسش‌هایی کند.  
+
+---
+
+### همه
+
+<div class="two-column" style="max-width: 700px;">
+<p class="english tr">
+I suffer with all bodies, I am struck on all cheeks, I die the death of everyone. Every woman you have taken by force, you have violated in my flesh.
+</p>
+<p class="persian tr">
+من در تن همه مردم رنج می‌کشم، من روی همه گونه‌ها سیلی می‌خورم، من با مرگ همه می‌میرم؛ همه زنانی را که تصرف کرده‌ای در تن من تصرف کرده‌ای.
+</p>
+<br/>
+
+<p class="english ref">
+شیطان و خدا (Le diable et le bon dieu) (1951)
+<br/>
+ژان پل سارتر (Jean-Paul Sartre) (1905–1980)
+<br/>
+برگردان از ابوالحسن نجفی
+</p>
+</div>
+
+```پی‌نوشت:``` از پرده دوم، صحنه چهارم، از زبان هیلدا به گوتز. هیلدا، زن فداکاری است که به مردمان رنج‌کشیده کمک می‌کند. 
+
+---
+
+### تنهاییِ انسان
+
+<div class="two-column">
+<p class="english tr">
+God does not see me, God does not hear me, God does not know me. You see this emptiness over our heads? That is God. You see this gap in the door? It is God. You see that hole in the ground? That is God again. Silence is God. Absence is God. God is the loneliness of man. There was no one but myself; I alone decided on Evil; and I alone invented Good. It was I who cheated, I who worked miracles, I who accused myself today, I alone who can absolve myself; I, man.
+</p>
+<p class="persian tr">
+خدا مرا نمی‌بیند، خدا صدای مرا نمی‌شنود، خدا مرا نمی‌شناسد. این خلا را که بالای سر ماست می‌بینی؟ این خداست. این شکاف در را می‌بینی؟ این خداست. این حفره توی زمین را می‌بینی؟ این هم خداست. سکوت، خداست. نیستی، خداست. خدا، تنهاییِ انسان است. فقط من وجود داشتم؛ من به تنهایی تصمیم به بدی گرفتم؛ من به تنهایی خوبی را اختراع کردم. من بودم که تقلب کردم، من بودم که معجزه کردم، منم که امروز خودم را متهم می‌کنم، تنها منم که می‌توانم خودم را تبرئه کنم؛ من، انسان.
+</p>
+<br/>
+
+<p class="english ref">
+شیطان و خدا (Le diable et le bon dieu) (1951)
+<br/>
+ژان پل سارتر (Jean-Paul Sartre) (1905–1980)
+<br/>
+برگردان از ابوالحسن نجفی
+</p>
+</div>
+
+```پی‌نوشت:``` از پرده سوم، صحنه دهم. گوتز، سردار آلمانی، بدترین بدکاران، پس از یک سال نیکویی و پاکی، سرانجام به یکباره به روشنایی می‌رسد و دروازه‌های حقیقت بر رویش گشوده می‌شود.
+
+---
+
+### هوتوتوگیسو
+
+<div class="two-column" style="max-width: 700px;">
+<p class="other tr">
+«夢にくる  母をかへすか  郭公.»</p>
+<p class="english tr">
+Yume ni kuru<br/>Haha wo kaesu ka<br/>Hototogisu
+</p>
+<p class="persian tr">
+«مادرم به خوابم آمده بود، تو برش گرداندی، هوتوتوگیسو.»
+</p>
+
+<p class="english ref">
+宝井其角 (Enomoto Kikaku) (1661–1707)<br/>
+برگردان از عسکری پاشایی
+</p>
+</div>
+
+```پی‌نوشت:``` کیکاکو هنگامی که ۲۷ سال سن داشت مادرش را از دست داد. در سپیده‌دمی مادرش را در رویا می‌بیند ولی آواز یک کوکو (هوتوتوگیسو) او را از خواب بیدار می‌کند و او ناراحت از بیدار شدن، در این هایکو کوکو را ملامت می‌کند.
+
+---
+
+### موی سپید
+
+<div class="two-column" style="max-width: 800px;">
+<p class="other tr">
+«行く年や親に白髪をかくしけり.»
+</p>
+<p class="french tr">
+Yuku-toshi ya<br/>Oya ni shiraga wo<br/>Kakushi keri
+</p>
+<p class="english tr">
+«Alas! another year has gone; I've hid my grey hair from my parents.»
+</p>
+
+<p class="english ref">
+越人 (Ochi Etsujin) (1656–1739)<br/>
+</p>
+</div>
+
+```پی‌نوشت:``` شاعر در هنگام شانه‌زدن موهایش، موهای سپید را پنهان می‌کند تا پدر و مادرش آن‌ها را نبینند و پیری او غمگینشان نکند.
+
+---
+
+### اسفار باکونون
+<div class="two-column" style="max-width: 450px;">
+<p class="english tr">
+«The first sentence in The Books of Bokonon is this: All of the true things that I am about to tell you are shameless lies.»</p>
+<p class="persian tr">
+«اولین جمله اسفار باکونون چنین است: «همه چیزهای راستی که می‌خواهم به شما بگویم، دروغ‌هایی بی‌شرمانه‌اند.»
+</p>
+
+<p class="english ref">
+Cat's cradle (گهواره گربه)<br/>
+Kurt Vonnegut, Jr. (کورت وان‌گات جونیور)
+</p>
+</div>
+
+```پی‌نوشت:``` باکونونیسم (Bakononism)، نام دینی خیالی است که کورت ونه‌گات اولین‌بار در کتاب گهواره گربه از آن نام برد و برخی از قواعد و ویژگی‌های آن را در این کتاب برشمرد. پیامبر این دین، باکونون (Bakonon) نام دارد و نحوه شکل‌گیری آن و نیز مناسک و نوشتارهای این دین خیالی بسیار جالب‌اند. برای آشنایی بیشتر با این دین می‌توانید <a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%DA%A9%D9%88%D9%86%D9%88%D9%86%DB%8C%D8%B3%D9%85" target="_blank">این نوشتار</a> را در ویکی‌پدیای فارسی ببینید.
+
+---
+
+### تاریخ، اشک
+<div class="two-column" style="max-width: 450px;">
+<p class="english tr">
+«History! read it and weep.»
+</p>
+<p class="persian tr">
+«تاریخ! بخوان و اشک بریز.»
+</p>
+
+<p class="english ref">
+Cat's cradle (گهواره گربه)<br/>
+Kurt Vonnegut, Jr. (کورت وان‌گات جونیور)
+</p>
+</div>
+
+
+---
+
+### ظاهر
+«ظاهرِ شریعت، کفرِ پنهان است و حقیقتِ کفر، معرفتِ آشکار.»
+
+<p class="ref">
+مجموعه آثار حلاج<br/>
+تحقیق، ترجمه و تحشیه از قاسم میر‌آخوری<br/>
+از بخش تجربیات عرفانی
+</p>
+
+---
+
+### بسترم
+<p class="text-center">
+بسترم<br/>
+صدف خالیِ یک تنهایی‌ست.<br/>
+و تو چون مروارید<br/>
+گردن‌آویزِ کسانِ دگری...
+</p>
+
+<p class="ref">
+هوشنگ ابتهاج<br/>
+۱۳۳۱
+</p>
+
+---
+### شاعر بدنام
+<p class="text-center">
+حلقه بر در زدم صدا برخاست<br/>
+- کیست؟، گفتم که شاعرِ بدنام.<br/>
+گفت: امشب که نوبت تو نبود<br/>
+شبِ دیگر بیا و بستان کام.<br/>
+<br/>
+سایهٔ شاعری به در افتاد<br/>
+شبِ دیگر که بادِ مست بهار<br/>
+سوت در ناودانِ کج می‌زد<br/>
+قصه می‌گفت با درخت انار.
+</p>
+
+<p class="ref">
+نصرت رحمانی<br/>
+۱۳۲۹
+</p>
+
+---
+### آسمانِ سیاه
+<p class="text-center">
+آسمانِ سیاه<br/>
+پرده‌ای به روی ماه<br/>
+این‌همه کلاغ از کجا رسیده‌اند؟<br/>
+بر سپیده<br/>
+آه!
+</p>
+
+<p class="ref">
+منصور اوجی
+</p>
+
+---
+### حسرتِ صحبت
+<p class="text-center">
+نکبتِ تنهایی،<br/>
+از جگر می‌خورَدَم<br/>
+حسرتِ یکدم صحبت (که مرا<br/>
+با نکورائی اگر دست دهد)<br/>
+در هر آنجای که جا دارم می‌افسردم.
+</p>
+
+<p class="ref">
+از شعر مانلی<br/>
+نیما یوشیج
+</p>
+
+---
+### شکوه‌پاره پاسخ
+<p class="text-center">
+قاطع و برنده، تو آن شکوه‌پاره پاسخی،<br/>
+به هنگامی‌که اینان همه نیستند<br/>
+جز سوالی خالی به بلاهت.
+</p>
+
+<p class="ref">
+از شعر چشم‌اندازی دیگر<br/>
+از مجموعهٔ ققنوس در باران<br/>
+احمد شاملو
+</p>
+
+---
+### دست تطاول
+<p class="text-center">
+میوه بر شاخه شدم سنگ‌پاره در کفِ کودک.<br/>
+طلسمِ معجزتی<br/>
+مگر پناه دهد از گزندِ خویشتن‌ام<br/>
+چنین که<br/>
+دستِ تطاول به خود گشاده منم!
+</p>
+
+<p class="ref">
+از شعر عقوبت<br/>
+از مجموعه شکفتن در مه<br/>
+احمد شاملو
+</p>
+
+---
+
+### کفارهٔ تهران
+
+«گرامی‌خوبی که ننگِ وجود تهران را بر صفحهٔ این ملک، هزاره‌ای و قرنی چند یک‌بار، پیدا شدن چنین نازنین فرزندی در دامنش مگر بشوید و کفاره دهد.»
+
+<p class="ref">
+از این اوستا<br/>
+مهدی اخوان ثالث
+</p>
+
+```پی‌نوشت:``` اخوان ثالث این جمله را پیش از شعرِ «روی جادهٔ نمناک»  و در وصف صادق هدایت آورده‌است.
+
+---
+
+### درد مشترک
+<p class="text-center">
+قصه نیستم که بگویی<br/>
+نغمه نیستم که بخوانی<br/>
+صدا نیستم که بشنوی<br/>
+یا چیزی چنان که ببینی<br/>
+یا چیزی چنان که بدانی...<br/>
+<br/>
+من درد مشترک‌ام<br/>
+مرا فریاد کن.
+</p>
+
+<p class="ref">
+از شعر عشقِ عمومی<br/>
+احمد شاملو
+</p>
+
+---
+
+### پول
+«ترس و دلهره و نگرانی و زحمت و بی‌خوابی‌های شبانه همراه از میان رفتن پول ناپدید خواهد شد! حتی فقر، که به نظر می‌رسد برای درمان آن بیش از هر چیز به پول نیاز است، با از میان رفتن پول محو می‌شود.»
+
+<p class="english ref">
+آرمانشهر<br/>
+Thomas More (1478–1535) (تامس مور)<br/>
+برگردانِ داریوش آشوری و نادر افشاری<br/>
+از کتاب دوم
+</p>
+
+---
+
+### تا ابد
+<div class="two-column">
+<p class="english tr" style="direction:rtl;">
+قال الشيخ عبدربه التائه:<br/>
+اعترضني في السوق امرأة آية في الجمال، و سألتني:<br/>
+- هل أعظك أيها الواعظ؟<br/>
+فقلت بثقة:<br/>
+- أهلا بما تقولين.<br/>
+فقالت:<br/>
+- لا تعرض عني، فتندم مدي العمر علي ضياع النعمة الكبري.
+</p>
+<p class="persian tr">
+شیخ عبدربه التائه روایت می‌کند که:<br/>
+ در بازار، زنی بسیار زیبا سر راهم قرار گرفت و از من پرسید:<br/>
+- ای شیخ واعظ، شما را موعظه‌ای کنم؟<br/>
+با اطمینان گفتم:<br/>
+- بفرمایید سراپا گوشم.<br/>
+گفت:<br/>
+- از من روی مگردان، که تا ابد پشیمان خواهی شد.
+</p>
+
+<p class="ref">
+أصداء السيرة الذاتية (زمزمه‌های واپسین)<br/>
+نجیب محفوظ<br/>
+برگردانِ ناجی مولایی
+</p>
+</div>
+
+
+
+---
+
+### شیرجه‌های نرفته
+«من هرگز شب از روی پل نمی‌گذرم. این نتیجه عهدی است که با خود بسته‌ام. آخر فکرش را بکنید که کسی خودش را در آب بیندازد. و آن‌وقت از دو حال خارج نیست: یا شما خود را برای نجاتش به آب می‌افکنید و در فصل سرما به عواقب بسیار سخت دچار می‌شوید! یا او را به حال خود وامی‌گذارید و شیرجه‌های نرفته گاهی کوفتگی‌های عجیبی به جا می‌گذارد.»
+
+<p class="ref">
+سقوط<br/>
+آلبر کامو<br/>
+برگردانِ شورانگیز فرح
+</p>
+
+---
+
+### هر انسان
+«ما نمی‌توانیم بی‌گناهی هیچکس را تایید کنیم، در صورتی‌که می‌توانیم بطور قطع مجرمیت همه‌کس را مسلم بدانیم. هر انسان گواهی است بر جنایت همه انسان‌های دیگر. این است ایمان من، و امیدواری من.»
+
+<p class="ref">
+سقوط<br/>
+آلبر کامو<br/>
+برگردانِ شورانگیز فرح
+</p>
+
+---
+
+### کجاست
+<div class="two-column">
+<p class="other tr">
+« 荃者所以在魚，得魚而忘荃；蹄者所以在兔，得兔而忘蹄；言者所以在意，得意而忘言。吾安得忘言之人而與之言哉！»
+</p>
+<p class="persian tr">
+«تور، برای گرفتن ماهی است: ماهی را که گرفتید می‌توانید تور را فراموش کنید. دام، برای گرفتن خرگوش است: خرگوش را که گرفتید می‌توانید دام را فراموش کنید. کلمات، برای دریافتِ معانی هستند: معنی را که گرفتید می‌توانید کلمات را فراموش کنید. کجاست کسی که کلمات را فراموش کرده باشد تا بتوانم با او سخن گویم؟»
+</p>
+<p class="english tr">
+«The fish trap exists because of the fish. Once you've gotten the fish you can forget the trap. The rabbit snare exists because of the rabbit. Once you've gotten the rabbit, you can forget the snare. Words exist because of meaning. Once you've gotten the meaning, you can forget the words. Where can I find a man who has forgotten words so I can talk with him?»
+</p>
+
+<p class="ref">
+ژوانگ جو (Zhuang Zhou) (369BC - 286BC)<br/>
+</p>
+</div>
+
+```پی‌نوشت:``` این جمله در کتابش (Zhuang Zi - 莊子 - به معنیِ استاد ژوانگ) آمده‌است.
+
+---
+
+### قبایِ ژنده
+<p class="text-center">
+وای بر من! به کجای این شب تیره بیاویزم قبای ژندهٔ خود را.<br/>
+تا کشم از سینهٔ پُردرد خود بیرون<br/>
+تیرهای زهر را دلخون؟<br/>
+وای بر من!
+</p>
+
+<p class="ref">
+از شعر «وای بر من»<br/>
+از مجموعهٔ «شعر من»<br/>
+نیما یوشیج
+</p>
+
+---
+
+### گوشهٔ بیشه‌ای
+<p class="text-center">
+اگر هم شاعر خوبی نباشم<br/>
+چه باک<br/>
+خرگوشی یا گرازی خواهم بود<br/>
+که تنها در گوشهٔ بیشه‌ای<br/>
+می‌میرد<br/>
+</p>
+
+<p class="ref">
+بیژن جلالی (۱۳۰۶ - ۱۳۷۸)<br/>
+از مجموعه شعر دیدارها
+</p>
+
+---
+
+### آن همه خاک
+<p class="text-center">
+بر خاک، چه نرم می‌خرامی، ای مرد<br/>
+آن‌گونه، که بر کفش تو ننشیند گرد<br/>
+فردا، که جهان کنیم بدرود، به درد<br/>
+آه، آن همه خاک را چه می‌خواهی کرد؟
+</p>
+
+<p class="ref">
+فریدون مشیری (۱۳۰۵ - ۱۳۷۹)
+</p>
+
+---
+
+### سوم‌برادرانِ سوشیانت
+«و سپس چنین گوید، شکسته‌دل مردی خسته و هراسان، یکی از مردم توس خراسان، ناشادی ملول از هست و نیست، سوم‌برادران سوشیانت، مهدی اخوان ثالث، بیمناک و نیم‌نومیدی به میم‌امید مشهور، چاووشی‌خوان قوافل حسرت، و خشم و نفرین و نفرت، راوی قصه‌های ازیادرفته و آرزوهای بربادرفته.»
+
+<p class="ref">
+از این اوستا<br/>
+مهدی اخوان ثالث<br/>
+از موخرهٔ کتاب
+</p>
+
+---
+
+### قطارِ رفته
+<p class="text-center">
+قطار می‌رود<br/>
+تو می‌روی<br/>
+تمام ایستگاه می‌رود<br/>
+و من چقدر ساده‌ام<br/>
+که سال‌های سال<br/>
+در انتظار تو<br/>
+کنار این قطارِ رفته ایستاده‌ام<br/>
+و همچنان به نرده‌های ایستگاهِ رفته تکیه داده‌ام!
+</p>
+
+<p class="ref">
+شعر سفر ایستگاه<br/>
+از مجموعه شعر دستورزبان عشق<br/>
+قیصر امین‌پور (۱۳۳۸ - ۱۳۸۶)
+</p>
+
+---
+
+### O, lente
+<div class="two-column" style="max-width: 400px;">
+<p class="english tr">
+lente currite,<br/>
+noktis equi.</p>
+<p class="persian tr">
+آهسته بروید،<br/>
+ای اسب&zwnj;های شب.
+</p>
+
+<p class="english ref">
+Ars Amatoria (The Art of Love)<br/>
+Liber I, Elegy XIII, Line 40<br/>
+By Ovid (43 BC - 18 AD)
+</p>
+</div>
+
+```پی‌نوشت:``` شاعر به معشوق دست یافته و اینک از شب می‌خواهد تا آرام‌تر بگذرد (گوته در فاوست یک `O lente` نیز به ابتدای آن افزوده است).
+
+---
+
+### یک اسب
+<div class="two-column" style="max-width: 950px;">
+<p class="english tr">
+King Richard: A horse! A horse! My kingdom for a horse!
+</p>
+<p class="persian tr">
+شاه ریچارد: یک اسب! یک اسب! پادشاهی‌ام را می‌دهم از برای یک اسب!
+</p>
+
+<p class="english ref">
+The Tragedy of King Richard the Third (سوگنمایش شاه ریچارد سوم)<br/>
+William Shakespeare (1564 - 1616)<br/>
+برگردانِ میر شمس‌الدین ادیب سلطانی<br/>
+از پردهٔ پنجم، صحنهٔ چهارم
+</p>
+</div>
+
+```پی‌نوشت:``` ریچارد سوم در نبرد بازورث فیلد (Bosworth Field) اسب خود را از دست می‌دهد و برای نجات خود این فریاد را سر می‌دهد؛ اما فریادرسی نیست و در همان‌جا کشته می‌شود.
+
+---
+
+### حاضرجوابی
+<div class="two-column" style="max-width: 950px;">
+<p class="english tr">
+Anne: Black night o'ershade thy day, and death thy life.<br/>
+Richard: Curse not thyself, fair creature; thou art both.
+</p>
+<p class="persian tr">
+لیدی ان: شبِ سیاه روزت را تاریک کناد، و مرگ زندگی‌ات را.<br/>
+ریچارد: خودت را نفرین مکن، ای آفریدهٔ زیبا؛ تو خود هر دوی آنهایی.
+</p>
+
+<p class="english ref">
+The Tragedy of King Richard the Third (سوگنمایش شاه ریچارد سوم)<br/>
+William Shakespeare (1564 - 1616)<br/>
+برگردانِ میر شمس‌الدین ادیب سلطانی<br/>
+از پردهٔ اول، صحنهٔ دوم
+</p>
+</div>
+
+---
+
+### خورشید فرزانگی
+<p class="text-center">
+فرزانگی‌ام به کردار خورشید است؛<br/>
+می‌خواستم نورشان باشم<br/>
+کورشان کردم،<br/>
+خورشید فرزانگی‌ام<br/>
+دیدهٔ این شب‌کوران را زد...
+</p>
+
+<p class="ref">
+از شعرهای ابوالهول<br/>
+اکنون میان دو هیچ<br/>
+فریدریش نیچه (۱۸۴۴ - ۱۹۰۰)<br/>
+برگردان علی عبداللهی
+</p>
+
+---
+
+### تفنن و جهاد
+«یادآوری این نکات برای این است که آنها که اهلند، تفنن روشنفکرانه را از جهاد پیامبرانه تمیز دهند.»
+
+<p class="ref">
+بدعتها و بدایع نیما یوشیج<br/>
+مهدی اخوان ثالث
+</p>
+
+```پی‌نوشت:``` اخوان ثالث این جملات را پس از شرح برخی از تحقیرها، دهن‌کجی‌ها و مصائبی گفته که دشمنان نیما نثارش می‌کردند.
+
+---
+
+### virginity
+<p class="english tr">
+The human male -it would seem- is never satisfied unless he is busy conquering virginity. Be it women, or planets, it's all the same to men.
+</p>
+
+<p class="english ref">
+2001 Nights (#5)<br/>
+Yukinobu Hoshino 
+</p>
+
+---
+
+### اینان دردند
+
+<p class="text-center">
+اینان دردند و بودِ خود را<br/>
+نیازمندِ جراحاتِ به چرک‌اندرنشسته‌اند.<br/>
+و چنین است<br/>
+که چون با زخم و فساد و سیاهی به جنگ برخیزی<br/>
+کمر به جنگ‌ات استوارتر می‌بندند.
+</p>
+
+<p class="ref">
+از شعرِ دهم سرودِ پنجم<br/>
+از مجموعهٔ آیدا در آینه<br/>
+احمد شاملو
+</p>
+
+---
+
+### نازانم
+«درود بر تو، ای میهنِ مِهین، ای ایران، ای سرزمین اهورایی پاک که پرتو فرهنگت جهان را برافروخته‌است! نازانم که در تو زاده‌ام و در تو می‌زیم؛ باشد که در آن روزِ ناگزیر نیز که بی‌گمان فراز خواهد آمد، در خاک پاکِ تو بتوانم آرمید! ایدون باد!»
+
+<p class="ref">
+دیدار با اژدها<br/>
+میرجلال‌الدین کزازی
+</p>
+
+---
+
+### پیام
+ریتا گیبرت: آیا برای نسل جوان پیامی دارید؟<br/>
+بورخس: نه، این صلاحیت را در خود نمی‌بینم که به سایرین پند و اندرز بدهم. در زندگی شخصی هم وامانده‌ام و به زحمت گلیمم را از آب بیرون کشیده‌ام. از بسیاری جهات، سرگشته بوده‌ام و بارها به بیراهه رفته‌ام.
+
+<p class="ref">
+گفت‌و‌گو با بورخس<br/>
+ریچارد بورجین<br/>
+برگردان کاوه میرعباسی<br/>
+از صفحهٔ ۱۵۶، مصاحبه با ریتا گیبرت ۱۹۶۸ 
+</p>
+
+```پی‌نوشت:``` خورخه لوییس بورخس، شاعر، مترجم و نویسنده شناخته‌شده آرژانتینی در هنگام این مصاحبه ۶۹ سال داشته‌است.
+
+---
+
+### دژمن
+«تاریخ را کتاب به کتاب، ورق به ورق، سطر به سطر بجورید، و بخوانید و ببینید آنقدر که ایرانی از خودش و یا هموطنش ضربه خورده و کشیده‌است آیا از حمله دشمن خارجی این همه آسیب دیده؟ ضمن اینکه سبب اصلی همه حمله‌های خارجی هم خودش بوده یعنی دشمن را خودش تشویق به حمله کرده. تاریخ را دقیق‌تر بخوانید، منظورم را خودتان متوجه خواهید شد.»
+
+<p class="ref">
+جامعه‌شناسی خودمانی<br/>
+حسن نراقی
+</p>
+
+---
+
+### کهنه‌کارمند کاغذباز
+«ای کهنه‌کارمند کاغذباز، ای رفیقی که در کنار منی، هیچ‌کس هرگز تو را به گریز راهبر نبوده‌است و گناه از تو نیست. تو همچون موریانگان، راحت خود را با کور کردن روزنه‌های رو به نور زندانت پرداخته‌ای. تو خود را در ایمنی شهر بندگی، در کارهای همیشه یکسان و آداب خفه‌کنندهٔ زندگی شهرستانیت فروپیچیده و پیله‌ای بر گرد خود تنیده‌ای، تو این حصار حقیر را در برابر باد‌ها و جزر و مد و ستارگان بالا برده‌ای. تو هیچ نمی‌خواهی آسودگی خود را با مسائل خطیر پریشان سازی. تو به قدر کفایت به خود رنج داده‌ای که سرنوشت انسانیت را از یاد ببری. تو دیگر ساکن سیاره‌ای سرگردان نیستی. تو هیچ پرسش بی‌جوابی از خود نمی‌کنی. تو یکی از جاخوش‌کردگان حقیر شهر تولوزی. هنگامی که هنوز فرصتی باقی بود کسی شانه‌هایت را نگرفته و تکانت نداده‌است. اکنون گلی که تو را سرشته خشکیده و سخت شده‌است و از این پس هیچ چیز در وجود تو نخواهد توانست آهنگساز خفته یا شاعر یا کیهان‌شناسی را که چه بسا زمانی در تو بود بیدار کند.»
+
+<p class="english ref">
+Terre des hommes (زمین انسان‌ها)<br/>
+Antoine de Saint-Exupéry<br/>
+برگردان سروش حبیبی<br/>
+</p>
+
+---
+
+### مرز و کران
+«در هیچ جای، در هیچ سوی، نه در راست نه در چپ، نه در فراز نه در فرود، جهانِ هستی را مرز و کرانی نیست.»
+
+<p class="english ref">
+De rerum natura (درباره طبیعت)<br/>
+Titus Lucretius Carus (99BC - 55BC)<br/>
+برگردان میرجلال‌الدین کزازی<br/>
+</p>
+
+```پی‌نوشت:``` این را مردی گفته که ۲۱۰۰ سال پیش زاده شده‌است.
+
+---
+
+### چرخ دون
+
+<p class="text-center">
+سال‌ها رفتم ز راهی، چرخ دون برگشت و من / باز بایستی بپیمایم ره پیموده را<br/>
+ای غنوده خوش در آغوش مهی تا تیغ مهر / یاد کن چشم به حسرت تا سحر نغنوده را
+</p>
+
+<p class="ref">
+از شعر «جواب به ایرج»<br/>
+ارغنون<br/>
+مهدی اخوان ثالث<br/>
+</p>
+
+---
+
+### گرفتم دامنت
+<p class="text-center">
+جفا از سر گرفتی یاد می‌دار / نکردی آنچه گفتی یاد می‌دار<br/>
+مرا بیدار در شب‌های تاریک / رها کردی و خفتی یاد می‌دار<br/>
+بگوش خصم می‌گفتی سخن‌ها / مرا دیدی نهفتی یاد می‌دار<br/>
+نگفتی خار باشم پیش دشمن؟ / چو گل با او شکفتی یاد می‌دار<br/>
+گرفتم دامنت، از من کشیدی / چنین کردی و رفتی یاد می‌دار
+</p>
+
+<p class="ref">
+دیوان کامل شمس تبریزی<br/>
+از نسخه تصحیح‌شده بدیع‌الزمان فروزانفر<br/>
+از غزل شمارهٔ ۱۰۴۰<br/>
+</p>
+
+---
+
+### سلامتی
+«اصولا هر کتابی که نام لم را بر خود دارد، باید هشدار سازمان بهداشت دولتی را نیز داشته باشد: خواندن این داستان برای سلامتی مفید است.»
+
+<p class="english ref">
+شکست در کویینتا (Fiasco)<br/>
+tanisław Lem (1921 - 2006)<br/>
+برگردان پیمان اسماعیلیان<br/>
+</p>
+
+```پی‌نوشت:``` جمله بالا قسمتی از نقد روزنامه تایمز بر این کتاب است که در موخره کتاب ذکر شده.
+
+---
+
+### رستاخیز
+«آیا منی که چیزهایی را می‌بینم که دیگران نمی‌بینند، دیوانه‌ام، یا دیوانه کسانی هستند که چیزهایی را که من می‌بینم به دست آنان انجام می‌شود؟»
+
+```پی‌نوشت:``` رستاخیز، آخرین رمان بلند لئو تولستوی است و برخی این اثر را شالوده افکار و اعتقادات او می‌دانند. در این کتاب یک اشراف‌زادهٔ جاافتاده و معتبر، بر حسب اتفاق، زنی را در جایگاه متهمان یک دادگاه می‌بیند که خودش در روزگاری که دختری پاک و زیباروی بود با وسوسه‌اش بی‌خانمان و بی‌آبرو کرده بود. او که ناگهان به خود آمده هرچه در توان دارد انجام می‌دهد تا او را تبرئه کنند و چون موفق نمی‌شود در سفر تبعید به دنبال او می‌رود.
+
+<p class="ref">
+رستاخیز<br/>
+لئو تولستوی<br/>
+برگردانِ اسکندر ذبیحیان
+</p>
+
+---
+
+### هزار هنگ سپاه
+«راستی آنچنان مرد را یاری می‌دهد گفتی که هزار هنگ سپاه به یاری‌اش شتافته‌اند.»
+
+<p class="ref">
+دینکردِ پاک<br/>
+کتاب سوم<br/>
+کردهٔ ۱۶۵<br/>
+(دینکرد از کتاب‌های بنیادین آیین زرتشتی است.)
+</p>
+
+```پی‌نوشت:``` نمی‌خواهم این گفتهٔ ارزشمند دینکرد را رد کنم، اما این چندین سالِ زندگانی به این کمترین چنین آموخته که راستی، مال انسان را می‌کاهد، زندگی‌اش را به تاراج می‌دهد و او را در وطن خویش غریب می‌کند. در زندگیِ راست‌مردان کم پیش می‌آید که همدل یا هم‌زبانی پیدا شود، چه رسد به هزار هنگ سپاهِ یاری‌دهنده!
+
+---
+
+### روز هفتم
+از سه‌شنبه تا چهارشنبه، هفده نفر را تیرباران کردند.<br/>
+از پنج‌شنبه تا جمعه، هشت نفر را تیرباران کردند.<br/>
+از جمعه تا شنبه، نُه نفر را تیرباران کردند.<br/>
+از شنبه تا یکشنبه، سیزده نفر را تیرباران کردند.<br/>
+«و خداوند فرمود تو شش روز تلاش خواهی کرد و روز هفتم را که روز سبت است، خواهی آسود.»<br/>
+از یکشنبه تا دوشنبه، سه نفر را تیرباران کردند.
+
+<p class="ref">
+وصیتنامهٔ اسپانیایی (گفتگو با مرگ)<br/>
+نوشتهٔ آرتور کوستلر<br/>
+برگردانِ سیروس سهامی
+</p>
+
+```پی‌نوشت:``` آرتور کوستلر، خبرنگاری بود که در گیر و دارِ جنگ داخلی اسپانیا در طرف جمهوری‌خواهان به تهیه خبر مشغول بود. او در جریان گرفتن یکی از شهرها بدست نیروهای ژنرال فرانکو (ملی‌ها) دستگیر شد و این کتاب، شرح بیچارگی‌های او در ماه‌های زندانی بودنش است.
+او در روزهای اول دستگیری‌اش شاهد اعدام بسیاری از اسرا و غیرنظامیان بدست نیروهای فاشیست بود. در جملهٔ بالا او تعداد اعدامیان روزهای هفته را می‌گوید و سپس آیه‌ای از انجیل می‌آورد که می‌گوید حتی خدا نیز پس از آفرینش جهان در شش روز، روز هفتم را به استراحت مشغول شد و این دستور را به بندگان نیز داد؛ اما نیروهای فرانکو حتی در روز هفتم هم دست از اعدام اسیران برنداشتند (سه نفر را تیرباران کردند).
+
+---
+
+### تیره‌روزی
+«نشان دادن کسی که هر دو پایش را از دست داده به مردی یک‌پا تسلی‌بخش نیست، یک مضحکه است. میزانی از تیره‌روزی وجود دارد که در آن احساس رقابت از میان برمی‌خیزد.»
+
+<p class="ref">
+وصیتنامهٔ اسپانیایی (گفتگو با مرگ)<br/>
+نوشتهٔ آرتور کوستلر<br/>
+برگردانِ سیروس سهامی
+</p>
+
+---
+
+### جنگ
+«تجربه نشان داده که هر جنگ آمیزه‌ای است از ده درصد عمل و نود درصد درد و رنج آمیخته به انفعال.»
+
+<p class="ref">
+وصیتنامهٔ اسپانیایی (گفتگو با مرگ)<br/>
+نوشتهٔ آرتور کوستلر<br/>
+برگردانِ سیروس سهامی
+</p>
+
+---
+
+### دو کرکس
+«آتنا و آپولون، خدایی که کمان سیمینه دارد، در پیکر دو کرکس، بر بلوطی بلند، درخت زئوسِ سِپَروَر، جای گرفتند، نیک سرمست و شادمان از دیدن نمایی که آن جنگاوران در برابر دیدگانشان پدید می‌آورند.»
+
+<p class="ref">
+ایلیاد<br/>
+سرودهٔ هومر<br/>
+برگردانِ میرجلال‌الدین کزازی
+</p>
+
+```پی‌نوشت:``` دو خدا که کرکس‌وار بر بلوطی بلند نشسته‌اند و از دیدن جنازه‌های بی‌شمار نبردِ تروا خوشحالند.
+
+---
+
+### واپسینِ همگنان
+«دل بر من فرو سوز، بر این شوربختِ پریشیده‌روز که هنوز هوش و خِرَدش برجاست؛ بر این بی‌نوای بَد اختر که زئوس، او را پس از دچار آوردن به رنج‌ها و اندوهانی بی‌شمار، به زودی در آستانهٔ سالخوردگی، با سرنوشتی غم‌انگیز، از میان خواهد برد. او پسرانش را در خون غلتان خواهد دید؛ دخترانش را به کنیزی برده؛ ساختمان‌هایش را ویران‌شده؛ نوادگانش را در کشتاری سخت و سیاه، بر خاک در افتاده و عروسانش را گرفتار آشیلِ زیانکار که دستانشان را گرفته است و دَر می‌کشدشان. نیز من سرانجام که واپسین همگنان خواهم بود! سگان گوشت‌خوار، مرا بر آستانهٔ سرایم، آنگاه که مردی از دشمن با برنزِ بُرّانم از نزدیک زخمی بَر زده‌است یا کوبه‌ای از دور فرو نواخته‌است و خداوندگار زندگانیم شده‌است که در اندام‌هایم روان است، فرو خواهند درید؛ این سگان که آنان را از خوان خویش در کاخم توشه داده‌ام و پرورده‌ام؛ تا نگاهبان درهای سرایم باشند.»
+
+<p class="ref">
+ایلیاد<br/>
+سرودهٔ هومر<br/>
+برگردانِ میرجلال‌الدین کزازی
+</p>
+
+```پی‌نوشت:``` التماس‌های پریام، شاهِ تروا برای بازگشتن پسرش، هکتور، به درون باروهای شهر تروا و جنگ نکردن با آشیل. (هکتور این سخنان را نشنیده گرفت و به درون باروها برنگشت و بدست آشیل کشته شد.)
+
+---
+
+### پیدا نخواهدشد
+
+<p class="text-center">
+در شگفت از این غبارِ بی‌سوار / خشمگین، ما ناشریفان مانده‌ایم.<br/>
+آب‌ها از آسیا افتاده؛ لیک / باز ما با موج و توفان مانده‌ایم.<br/>
+<br/>
+هرکه آمد بار خود را بست و رفت. / ما همان بدبخت و خوار و بی‌نصیب.<br/>
+ز آن چه حاصل، جز دروغ و جز دروغ؟ / زین چه حاصل، جز فریب و جز فریب؟<br/>
+<br/>
+باز می‌گویند: فردای دگر / صبر کن تا دیگری پیدا شود.<br/>
+نادری پیدا نخواهد شد، امید! / کاشکی اسکندری پیدا شود.
+</p>
+
+<p class="ref">
+از شعر «نادر یا اسکندر؟»<br/>
+آخر شاهنامه<br/>
+مهدی اخوان ثالث<br/>
+</p>
+
+---
+
+### شاعر جماعت
+
+«انصاف می‌دهم که در این روزگار از شاعرجماعت مضحک‌تر، بی‌مصرف‌تر، بی‌خاصیت‌تر و بی‌محل‌تر هم خود شعرا هستند. البته منظورم شعرای خوب و طراز اولند و الّا شعرای بد و متوسط، مخصوصا اگر نوجوان یا مونث یا باسواد فرنگی باشند، مصرف‌های دیگری دارند یا مترجم‌اند یا بازیگر یا "شاهد" یا دلقک یا دلال و دلاله یا عیال یا مزهٔ عرق یا محفل‌آرا و خوش‌مشرب، خلاصه یک مصرف جنسی و جسمی غیر از مصرف شعری دارند.»
+
+<p class="ref">
+آخر شاهنامه<br/>
+مهدی اخوان ثالث<br/>
+از مقدمهٔ چاپ اول<br/>
+</p>
+
+---
+
+### پادشاهان پارسی
+«پادشاهان پارسی در برابر کارمندان دولت، که رفتارشان آن‌گونه نبود که از آنها انتظار می‌رفت، بسیار بی‌رحم بودند. به نقل از هرودوت، یک قاضی پارسی در زمان کمبوجیه متهم به رشوه‌خواری در مورد رای صادره از دادگاه شده‌بود. پادشاه دستور داد تا پوست او را بکنند و از آن روکشی برای مسندش در دادسرا درست کنند. سپس پسرِ قاضی اعدام‌شده را جایگزینِ پدر ساختند و به او اخطار کردند که هنگام صدور رای دادگاه فراموش نکند که صندلی‌اش دارای چه روکشی است.»
+
+<p class="ref">
+امپراتوری جهانی ایران<br/>
+گروه نویسندگان با سرویراستاریِ فیلیپ برنت جورج<br/>
+برگردانِ وحید عسگرانی<br/>
+از صفحهٔ ۱۲۷ چاپ دوم ۱۳۹۰ انتشارات امیرکبیر
+</p>
+
+---
+
+### اطرافیان
+«از ۹ پادشاه هخامنشیِ بعد از داریوش اول، ۶ پادشاه بدست اطرافیان (اعضای خانواده و زیردستان) به قتل رسیدند.»
+
+<p class="ref">
+امپراتوری جهانی ایران<br/>
+گروه نویسندگان با سرویراستاریِ فیلیپ برنت جورج<br/>
+برگردانِ وحید عسگرانی<br/>
+از صفحهٔ ۱۴۸ چاپ دوم ۱۳۹۰ انتشارات امیرکبیر
+</p>
+
+---
+
+### نازک و زیبا
+
+«سمنِ لاله عُذاری به روش باد بهاری به نگه آهوی چینی و به قد سرو خرامان و به رخ چون مه تابان و دهن غنچهٔ خندان و لبش لعل بدخشان و زنخدان چو نمکدان و سرِ زلف پریشان و دو پستان چو دو لیموی که اصلش بود از نقرهٔ محلول و شکم حقهٔ سیماب و سرِ ناف چو گرداب و کمر چون کمر مور و سُرین کوه بلور و همه عضوش به صفا، نازک و زیبا که ازو وام کند مهر و قمر نور ضیا را.»
+
+
+```پی‌نوشت:``` وصف قهرگهرتاج خانم، خواهر مهرنگار و دختر انوشیروان در کتاب «رموز حمزه» تحریر دورهٔ صفویه. مهدی اخوان ثالث این شعر را در کتاب «بدعت‌ها و بدایع نیما یوشیج» (چاپ سوم ۱۳۷۶ انتشارات زمستان) به عنوان یکی از بدعت‌های قدما ذکر کرده‌است.
+
+---
+
+### اولین دیدار
+
+«هنوز اندر اتاقم خواب می‌بینم که می‌لولد دلاویز و روان‌آمیز عطر وحشیت ای زنبقِ وحشی که یک روز آمدی آرام و پراحساس و لب‌خندان چو خورشیدی که می‌آید. نمی‌دانم تو فهمیدی که سرتاپای من آن روز شادی بود و شوق و خنده و ترس و شگفتی بود یا احساس دیگر، نه نمی‌دانم. هنوز اندر اتاقم خواب می‌بینم که می‌پیچد به سان گردبادی نابسامان نغمه‌های دلنواز و روح‌افزایت که یک روز آمدی آرام و پراحساس و لب‌خندان، اتاق زمهریرآسای سردم را ز گرمای وجود خویش کردی گرم و آتشدان. هنوز اندر اتاقم خواب می‌بینم که می‌رقصد سبک، آرام، زیبا، نرم، لغزان دخترِ لبخندهای تو. که یک روز آمدی آرام و پراحساس و لب‌خندان چو باد عطرافشان سحرگاهان یک روز بهاری، وه چه زیبا بود آن لبخندها، آن قصه‌ها، آن شعرها، آن اولین دیدار، آری اولین دیدار ...»
+
+<p class="ref">
+شعر «اولین دیدار»<br/>
+محمود سجادی<br/>
+مجلهٔ هفتگی خوشه، شمارهٔ ۶۴، ۲۷ اسفند ۱۳۴۰
+</p>
+
+```پی‌نوشت:``` مهدی اخوان ثالث این شعر را در کتاب «بدعت‌ها و بدایع نیما یوشیج» (چاپ سوم ۱۳۷۶ انتشارات زمستان) به عنوان مثالی از یک بحرطویل‌گونه ذکر کرده‌است.
+
+---
+
+### گریه نکن مامان
+
+<div class="two-column" style="max-width: 600px;">
+<p class="english tr">
+«gråt inte mamma.<br/>
+Vi ses i Nangijala.»
+</p>
+<p class="persian tr">
+«گریه نکن مامان.<br/>
+در نانگیالا می‌بینمت. (به امید دیدار در نانگیالا)»
+</p>
+<p class="english ref">
+Bröderna Lejonhjärta (برادران شیردل)<br/>
+Astrid Lindgren
+</p>
+</div>
+
+‍‍‍```پی‌نوشت:```  پسر کوچکی مبتلا به بیماری لاعلاجی است و به زودی می‌میرد. پس از فهمیدن این مسئله دچار ترس می‌شود؛ برادر بزرگترش به او امید می‌دهد و می‌گوید پس از مرگ به سرزمینی زیبا و افسانه‌ای به نام نانگیالا وارد می‌شود که زندگی در آن پر از ماجراهای خوش است. برادر بزرگتر بر اثر حادثه‌ای می‌میرد و چندی بعد از آن حال برادر کوچکتر وخیم می‌شود و در شب پیش از مرگش جملهٔ بالا را بر کاغذی می‌نویسد تا مادرش بعد از مرگش ناراحت نشود. این کتاب، داستان این دو برادر است در پس از مرگ و در سرزمین افسانه‌ای نانگیالا. (در ایران با نام «درهٔ گل سرخ» به فارسی برگردانده شده‌است.)
+
+---
+
+### مغلوب
+<div class="two-column" style="max-width: 800px;">
+<p class="english tr">
+Wounded and weak, sword broken at the hilt,<br/>
+with armor shattered, and without a shield<br/>
+I stand unmoved; do with me what thou wilt;<br/>
+<br/>
+I can resist no more, but will not yield,<br/>
+this is no tournament where cowards tilt;<br/>
+the vanquished here is the victor of the field.
+</p>
+<p class="persian tr">
+زخم‌خورده و ناتوان و شمشیرشکسته،<br/>
+زره‌دریده و بی‌سپر،<br/>
+بی‌حرکت بر جای ایستاده‌ام، هرچه می‌خواهی با من بکن؛<br/>
+<br/>
+مرا دیگر یارای ایستادگی نیست، ولی تسلیم نخواهم شد،<br/>
+این رزمی نیست که در آن کم‌دلان تیغ برکشند؛<br/>
+در اینجا مغلوب، فاتح میدان است.
+</p>
+<p class="english ref">
+Henry Longfellow (1807-1882)<br/>
+From the poem of "Victor and vanquished"<br/>
+برگردان محمدعلی اسلامی ندوشن
+</p>
+</div>
+
+---
+### چنین کسانی
+
+<div class="two-column" style="max-width: 600px;">
+<p class="english tr">
+Oh, though oft depressed and lonely,<br/>
+All my fears are laid aside<br/>
+If I remember only<br/>
+Such these have lived and died!
+</p>
+<p class="persian tr">
+و من گرچه غالبا دلشکسته و تنهایم،<br/>
+تمامی بیم‌هایم از میان می‌رود<br/>
+اگر تنها همین را به یاد بیاورم،<br/>
+که چنین کسانی زندگی کردند و مردند!
+</p>
+<p class="english ref">
+Henry Longfellow (1807-1882)<br/>
+From the poem of "footsteps of angels"<br/>
+برگردان محمدعلی اسلامی ندوشن
+</p>
+</div>
+
+---
+
+### روزگاری
+«تا روزی و روزگاری که همهٔ مرزهای جهان از میان برخیزد و آدمیان، بالغ و رشید شوند و به قول قائلی: قفل افسانه شود و دیوار و در خاطرهٔ دور.»
+
+<p class="ref">
+از این اوستا<br/>
+مهدی اخوان ثالث<br/>
+از موخره صفحهٔ ۱۶۱، چاپ دهم ۱۳۷۵ انتشارات مروارید
+</p>
+
+---
+
+### هفتاد پشت ما
+<p class="text-center">
+دل داده‌ام بر باد، بر هرچه بادا باد / مجنون‌تر از لیلی، شیرین‌تر از فرهاد<br/>
+ای عشق از آتش، اصل و نسب داری / از تیرهٔ دودی، از دودمان باد<br/>
+...<br/>
+هفتاد پشت ما از نسل غم بودند / ارث پدر ما را، اندوه مادرزاد<br/>
+از خاک ما، در باد، بوی تو می‌آید / تنها تو می‌مانی، ما می‌رویم از یاد»
+</p>
+
+<p class="ref">
+از شعر «تنها تو می‌مانی»<br/>
+قیصر امین‌پور<br/>
+</p>
+
+---
+
+### ژاژخایی
+«وِداها، ژاژخاییِ از سرِ بیکاریِ دغل‌پیشگان است، که با سه خطای دروغگویی، تناقض درونی، و تکرار بی‌ثمر مشخص شده‌است.»
+
+<p class="ref">
+هندوئیسم<br/>
+نوشتهٔ کیشتی مهن‌سن<br/>
+برگردانِ ع. پاشایی<br/>
+از صفحهٔ ۸۷ چاپ اول ۱۳۸۲ نشر نگاه معاصر
+</p>
+
+```پی‌نوشت:``` وِدا، کتاب مقدس هندویان است که دربرگیرندهٔ سه بخش سمیتاها، براهمنه‌ها و اوپانیشادها است. گفتار بالا، یکی از عقاید پیروان مکتب مادی‌گرایانهٔ باستانیِ لوکایَتَه (Lokayata) است که هزاره‌هاست مکاتب مذهبی وِدایی و ماوراءطبیعی را نادرست می‌دانند.
+
+---
+
+### عیارِ گل نیلوفر
+«زمانی ویشنَوَه‌یی (پیروی آیین ویشنوپرستی) قسمت‌های بلندی از کتاب مقدس را برای یک بائول می‌خواند تا نشان دهد که اعمال دینی باید بر طبق این تعلیمات منظم شود. آن بائول در جا جواب مخصوص خودش را با این شعر داد: بدان ماند که زرگری به گلزاری بیاید و بخواهد با محک، عیارِ گل نیلوفر را بسنجد.»
+
+<p class="ref">
+هندوئیسم<br/>
+نوشتهٔ کیشتی مهن‌سن<br/>
+برگردانِ ع. پاشایی<br/>
+از صفحهٔ ۱۴۴ چاپ اول ۱۳۸۲ نشر نگاه معاصر
+</p>
+
+```پی‌نوشت:``` ویشنوپرستی از شاخه‌های اصلی وِداییان است که بر پرستش ویشنو و ده مظهر تجسم او بنیان نهاده شده‌است. ویشنوپرستان بر وِداها و آموزه‌های مذهبی تاکید بسیار دارند. اما بائول‌ها (Baul)، خُنیاگران دوره‌گرد عارف‌مسلکی هستند که در بنگال می‌زیند و چندان در بند ظاهر شریعتِ پیچ‌درپیچ هندویان نیستند.
+
+---
+
+### زندگی دادن
+
+«ساکنان اشراف‌زادهٔ ماه، عریان از خانه بیرون می‌آیند و انگار که کافی نباشد، به کمر آویزه‌ای برنجی به شکل آلت مردانه می‌آویزند.
+به میزبان خود گفتم: "این رسم به نظر عجیب می‌آید، چرا که در جهان ما، حمل شمشیر نشانهٔ اشرافیت است."
+اما او بی‌آنکه تحت تاثیر قرار گیرد گفت: "اوه آدم کوچولوی من، وه که بزرگان دنیای شما چقدر دیوانه‌اند که وسیله‌ای را که شاخص جلاد است و فقط برای نابودی ما ساخته شده و خلاصه دشمن همه زندگان است با افتخار به نمایش می‌گذارند! و در عوض عضوی را پنهان می‌کنند که بدون آن ما از بی‌جانان خواهیم بود: پرومتهٔ هر حیوان و جبران‌کنندهٔ خستگی‌ناپذیر ضعف‌های طبیعت! سرزمینِ نگون‌بختی است آنجا که نشانه‌های تولیدمثل را زشت و پلید می‌انگارند و نشانه‌های نابودی را افتخارآمیز! با این حال شما این عضو را شرمگاه می‌نامید، گویی چیزی پرشکوه‌تر از زندگی دادن و نیز چیزی پست‌تر از گرفتن آن وجود دارد."»
+
+<p class="english ref">
+Comical History of the States and Empires of the Moon (داستان مضحک احوالات و امپراتوری‌های ماه)<br/>
+Savinien de Cyrano de Bergerac (1619 - 1655)
+</p>
+
+```پی‌نوشت:``` برگردان فارسی بالا از صفحهٔ ۹۴ کتاب «چرا باید کلاسیک‌ها را خواند» نوشتهٔ ایتالو کالوینو با ترجمهٔ آزیتا همپارتیان، نشر قطره چاپ چهارم ۱۳۸۹ آورده شده‌است.
+
+---
+
+### پرواز کن
+
+<div class="two-column" style="max-width: 800px;">
+<p class="english tr">
+«No quiero que le tapen la cara con pañuelos<br/>
+para que se acostumbre con la muerte que lleva.<br/>
+Vete, Ignacio: No sientas el caliente bramido.<br/>
+Duerme, vuela, reposa: ¡También se muere el mar!»
+</p>
+<p class="persian tr">
+«نمی‌خواهم چهره‌اش را به دستمالی فروپوشند<br/>
+تا به مرگی که در اوست خو کند.<br/>
+برو، ایگناسیو! به هیا بانگِ شورانگیز حسرت مخور!<br/>
+بخسب! پرواز کن! بیارام! دریا نیز می‌میرد.»
+</p>
+<br/>
+
+<p class="english ref">
+از شعر مرثیه‌ای برای ایگناسیو سانچز مخیاس<br/>
+Llanto por Ignacio Sánchez Mejías (1935)<br/>
+Federico García Lorca (1898 - 1936)<br/>
+برگردان از احمد شاملو
+</p>
+</div>
+
+```پی‌نوشت:‍‍``` مخیاس یکی از دوستان لورکا بوده که در جریان یک گاوبازی کشته شد و لورکا این مرثیه را برای او سرود.
+
+---
+
+### ناپیدا
+
+<p class="text-center">
+من چنان گمنامم و تنهاستم / گوییا یک‌باره ناپیداستم
+</p>
+
+<p class="ref">
+از شعر «قصهٔ رنگ پریده»<br/>
+نیما یوشیج<br/>
+</p>
+
+---
+
+### نیستی
+
+<div class="two-column" style="max-width: 400px;">
+<p class="english tr">
+故有之以為利，<br/>
+無之以為用。</p>
+<p class="persian tr">
+مشغول هستی‌ایم،<br/>
+در حالی‌که این نیستی است که به کار ما می‌آید.
+</p>
+<p class="english ref">
+Tao te ching<br/>
+Chapter 11<br/>
+Laozi (possibly 6th Century B.C.)<br/>
+</p>
+</div>
+
+---
+
+### باتلاق درماندگی
+
+ «انسانِ من کجاست؟ نه خدای مرا باقی گذاشتند تا دل به او آرام بدارم، و نه انسان را به قرار وانهادند تا به آن امید ببندم. اکنون من چه کنم در این باتلاق درماندگی، در معرض چشمان وقیح و دهان‌های حریص و زبان‌های دروغ و چهره‌های ریا و دستان سرقت و پاهای بی‌زمین.»
+
+<p class="ref">
+نون نوشتن<br/>
+محمود دولت‌آبادی<br/>
+از صفحهٔ ۱۸۳، چاپ سوم ۱۳۸۹ نشر چشمه
+</p>
+
+---
+
+### شکسته‌دلان
+
+<div class="two-column">
+    <p class="other tr">
+    «קָרוֹב יְהוָה, לְנִשְׁבְּרֵי-לֵב; וְאֶת-דַּכְּאֵי-רוּחַ יוֹשִׁיעַ.»<br/>
+    T'hilim 34:18 (34:19)</p>
+    <p class="persian tr">
+    «خداوند نزدیک شکسته‌دلان است و روح کوفتگان را نجات خواهد داد.»
+    </p>
+    <br/>
+    <p class="english tr">
+    «The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.»<br/>
+    King James Bible, Psalm 34:18
+    </p>
+    <br/>
+    <p class="french tr">
+    «Iuxta est Dominus contritis corde et confractos spiritu salvabit.»<br/>
+    Biblia Sacra Vulgata, Liber Psalmorum 34:18 (33:19)
+    </p>
+    <br/>
+    <p class="ref">
+    کتاب مزامیر، باب ۳۴ آیهٔ ۱۸<br/>
+    برگردان فارسی از ترجمهٔ قدیم، نسخه استاندارد<br/>
+    چاپ سوم ۲۰۰۲ انتشارات ایلام در لندن
+    </p>
+</div>
+
+---
+
+### آتش
+«یادم می‌آید یک روز در شهر اسیز، نگهبان شب فریاد زد: آتش! زنگ‌های کلیسا به صدا درآمدند، مردم نیمه‌عریان به کوچه‌ها شتافتند... اما پدر فرانسوآ، جایی آتش نگرفته بود، بلکه روان تو در حال سوختن بود.»
+
+‍‍‍‍‍```پی‌نوشت:‍‍‍``` می‌گویند فرانسوآی اسیزی (Francis of Assisi) پسر عاشق‌پیشهٔ تاجری بود، در جوانی به سرش زد و همه چیز را رها کرد و به زندگی تنگ‌دستانه در میان خرابه‌های یک کلیسا و آوارگی روی آورد. کم‌کم درماندگانی در اطرافش جمع شدند و او به رم رفت و اجازه درست کردن فرقهٔ فرانسیسکن‌ها را که هدفشان زندگی ساده و کمک به نیازمندان است از پاپ گرفت. با این حال او در سال‌های پایانی عمرش با اعضای جدید فرقه‌اش دچار مشکل شد و در تنهایی و بیچارگی در آلونکی دور از دیگران به سر برد. پس از مرگش همان فرانسیسکنی‌ها که به سخنانش گوش نمی‌دادند در صومعه‌ای به خاکش سپردند و قدیسش خواندند. کازانتزاکیس در این کتاب به بازآفرینی داستان زندگی او پرداخته‌است. این کتاب از زبان اولین پیروِ او بیان می‌شود که تنها کسی بود که تا آخرین روز عمر فرانسوآ رهایش نکرد. او در جملهٔ بالا از شبی یاد می‌کند که فرانسوآ، شیفتهٔ ماه کامل در آسمان شب می‌شود و زنگ‌های کلیسا را به صدا در می‌آورد و مردم با فکر اینکه آتش‌سوزی رخ داده سراسیمه به کوچه‌ها می‌آیند؛ و فرانسوآ آنان را ندا می‌دهد که «به بالا نگاه کنید، این ماه را ببینید!»
+
+<p class="ref">
+سرگشتهٔ راه حق<br/>
+نیکوس کازانتزاکیس<br/>
+برگردان منیر جزنی
+</p>
+
+---
+
+### تنهاترین
+
+«از فرانسوآ دیگر یک بدن نمانده بود بلکه یک توده استخوان بود که زیر کهنه‌پاره‌ها پنهان شده‌بود. لبهایش سرد و کبود بودند. دستش را بوسیدم و به او گفتم: «پدر فرانسوآ بگذار چوب جمع کنم و آتش روشن کنم.» پاسخ داد:
+«دور دنیا را بگرد و اگر در همهٔ کلبه‌ها و در همهٔ آلونک‌ها آتش پیدا
+کردی، بازگرد و اجاق مرا هم روشن کن. اما اگر روی زمین تنها یک انسان از سرما بلرزد من هم می‌خواهم با او از سرما بلرزم.»
+
+<p class="ref">
+سرگشتهٔ راه حق<br/>
+نیکوس کازانتزاکیس<br/>
+برگردان منیر جزنی
+</p>
+
+---
+
+### شکنجه‌گر
+
+«احمدو غراب از مبارزان استقلال الجزایر برایم تعریف کرد که او را یک افسر فرانسوی در طول چندین ماه شکنجه می‌کرد و هر روز سر ساعت شش بعداز‌ظهر، شکنجه‌گر عرق پیشانی‌اش را خشک می‌کرد، دستگاه شوک الکتریکی را از برق می‌کشید و مابقی ابزار کار را جمع می‌کرد. آن وقت کنار شکنجه‌شده می‌نشست و از مشکلات خانوادگی‌اش و از اینکه ارتقاء‌اش نمی‌دانند و از گرانی زندگی صحبت می‌کرد. شکنجه‌گر از همسر غیرقابل تحملش حرف می‌زد و از فرزند نوزادش که نگذاشته بود تمام شب چشم بر هم بگذارد؛ و احمدو، خونین و مالین، لرزان از درد، سوزان در تب، هیچ نمی‌گفت.»
+
+<p class="ref">
+El libro de las abrazos (کتاب دلبستگی‌ها)<br/>
+Eduardo Galeano<br/>
+برگردان نازنین نوذری
+<br/>
+</p>
+
+---
+### عشق واقعی
+
+«عاشق بودن تنها یک هیجان شدید و ناگهانی نیست که فرد مجبور به پذیرش آن باشد، بلکه نیازمند اخذ تصمیم و قضاوت کردن است. اگر عشق صرفا یک هیجان احساسی بود، دیگر پیمان بستن برای در کنار هم ماندن تا آخر عمر معنای خود را از دست می‌داد، زیرا هر احساسی، هر اندازه هم قوی و اثرگذار باشد، به مرور زمان تقلیل یافته و سرانجام از بین خواهد رفت.»
+
+<p class="ref">
+The art of loving<br/>
+Erich Fromm<br/>
+برگردان سمیه سادات آل حسینی
+</p>
+
+---
+
+### دلِ گم‌شده
+
+«مردم هروقت ماکیان و سگ‌شان را گم کنند می‌دانند که باید پی آن بگردند. اما آن‌ها دلهاشان را از دست می‌دهند و به جست‌و‌جوی آن برنمی‌آیند. مراد از آموختن چیست؟ جست‌وجوی دلِ از دست شده.»
+
+<p class="ref">
+گفتاری از منسیوس (سدهٔ سوم پیش از میلاد)<br/>
+نقل‌شده در کتاب تاریخ فلسفهٔ چین<br/>
+نوشتهٔ چو جای، وینبرگ چای<br/>
+برگردان م. ع. پاشایی
+</p>
+
+---
+
+### کیلگور تروت
+
+<div class="two-column">
+<p class="english tr">
+The thing was: Kilgore Trout was the only character I ever created who had enough imagination to suspect that he might be the creation of another human being. He had spoken of this possibility several times to his parakeet. He had said, for instance, “Honest to God, Bill, the way things are going, all I can think of is that I’m a character in a book by somebody who wants to write about somebody who suffers all the time.”
+</p>
+<p class="persian tr">
+مسئله اینجاست که کیلگور تروت تنها کاراکتر آفریدهٔ من بود که آنقدر قوهٔ تخیل داشت که شک کند ممکن است خود، آفریدهٔ انسانی دیگر باشد. او چندین بار دربارهٔ این احتمال با طوطی‌اش حرف زده بود. مثلا یک بار گفته بود: بیل، قسم به خدا، این‌طور که اوضاع داره پیش میره تنها چیزی که به ذهنم می‌رسه اینه که من یک کاراکترم تو یه کتاب که نویسنده‌ش می‌خواد دربارهٔ شخصی بنویسه که تمام مدت زجر می‌کشه.
+</p>
+<p class="english ref">
+Breakfast of champions<br/>
+Kurt Vonnegaut Jr.<br/>
+</p>
+</div>
+
+‍‍‍‍```پی‌نوشت:‍‍‍``` کیلگور تروت یک شخصیت تخیلی است که در بیشتر کتاب‌های کورت ونه‌گات از اون نام برده شده. او یک نویسنده رمان‌های علمی‌تخیلی است که در زندگی‌اش دچار شکست‌های بسیاری شده و کتاب‌هایش خواننده چندانی ندارد (در کتاب صبحانه قهرمانان آمده که تنها یک نفر تاکنون کتابی از او خوانده‌است!).
+
+---
+
+### پارسایی
+
+«پارسایی آن نیست که هر دم، با سری پوشیده، در برابر سنگی دیده شوند: نزدیک شدن به نیایشگاه‌ها و مهراب‌ها نیز نیست؛ همچنان دستْ‌به‌فراخی گشاده، روبارویِ تندیسه‌ای مینُوِی بالاخمانیدن و نماز بردن نیز نه؛ باژ بر باژ و آفرین بر آفرین افزودن هم نیست؛ بلکه بیش همهٔ چیزهای جهان را،‌ با نگاهی روشن و پاک، از سرِ یکدلی نگریستن است.»
+
+<p class="ref">
+دربارهٔ طبیعت (De rerum natura)<br/>
+لوکرتیوس (Lucretius) (سدهٔ نخست پیش از میلاد)<br/>
+برگردان میرجلال‌الدین کزازی
+</p>
+
+---
+
+### ستیزندگان
+
+<div class="two-column">
+    <p class="other tr">
+    ud asmān ō drubuštīh ī zamīg tā ‘star pāyag’ ō kušišnīgān az kušišn gyāg ī ‘kušāgān-razm kardagīh, ud ‘kušāgān az andartm ī tan ta ‘star pāyag’.
+    <br/>
+    </p>
+    <p class="persian tr">
+    اینک! آسمان، تا ستاره‌پایه، برایِ پشتیبانی از زمین، به یوبهٔ رزمِ رزمندگان و ستیزندگان، آماده و پرداخته شده‌است. ستیزندگان (=متضادان) نیز از ژرفای تنِ تنابندگان گرفته تا ستاره‌پایه (در نبردی کیهانی درگیرند).<br/>
+    </p>
+    <br/>
+    <p class="french tr">
+    Le ciel est pour la défense de la terre, et la zone des étoiles est faite pour servir de champ de bataille aux lutteurs, et les lutteurs vont du plus intime du corps jusqu'à la zone des étoiles.<br/>
+    Le troisième livre du Dēnkart, Karda 119<br/>
+    traduction en français par Professeur Jean de Menasce
+    <br/>
+    </p>
+    <br/>
+    <p class="english tr">
+    The sky up to the limit of the stars is as a fortification round the earth, and the space between is a field for the rivalry of the Rivals in fight. And there the Rivals permeate from within the bodies (of men) to the limits of the stars.<br/>
+    Holy Dinkard, Book 3, Karda 119<br/>
+    English translation by Peshotan Dastur Behramjee Sanjana
+    <br/>
+    </p>
+    <br/>
+    <p class="ref">
+    از نسک سوم دینکرد، بخشی از کردهٔ ۱۱۹<br/>
+    برگردان فارسی از فریدون فضیلت
+    </p>
+</div>
+
+---
+
+### ارزش اشیاء
+
+«زمانی که خبر مرگ هنریته را به ما دادند، در منزل، میز را برای صرف غذا می‌چیدند. آنا دستمال سفرهٔ هنریته را که هنوز به نظر نمی‌رسید آنقدر کثیف شده‌باشد، داخل حلقهٔ‌ زردرنگ مخصوص آن بر روی کمد گذاشته بود، و همهٔ‌ ما نگاه‌هایمان متوجهٔ دستمال سفرهٔ هنریته شده‌بود که هنوز آثار قدری مربا و یک لک کوچک قهوه‌ای سوپ یا سس بر روی آن دیده می‌شد. برای اولین بار در زندگی‌ام به ارزش وحشتناک اشیایی پی بردم که یک نفر بعد از مرگ و یا در زمان حیاتش بر جای می‌گذارد.»
+
+
+<p class="ref">
+عقاید یک دلقک<br/>
+هاینریش بُل<br/>
+برگردان محمد اسماعیل‌زاده
+</p>
+
+---
+
+### نفلیباتا
+
+نِفِلیباتا (nefelibata)، به معنی لغوی «کسی که بر روی ابرها راه می‌رود» اصطلاحی است که از به هم پیوستن دو واژهٔ یونانیِ νεφέλη (یا nefel) به معنی ابر و βάτης (یا bata) که از فعل باینو (به معنی راه رفتن یا سرگردان بودن) گرفته‌شده درست شده‌است.
+
+نِفِلیباتا، رویاپردازی است که گویی در ابرها قدم می‌زند و چنان در دنیای افکار و تخیلات خود غرق شده که از زمین و واقعیتی که پیرامونش را فراگرفته به‌ دور مانده‌است.
+
+---
+
+### شکسته‌ستون
+
+<p class="text-center">
+گویند «سنگ لعل شود در مقام صبر» / از من گذشته فرصتِ این امتحان کنون
+<br/>
+من آن شکسته‌ستون قایقم که هیچ / دردی دوا نمی‌کندش بادبان کنون
+</p>
+
+<p class="ref">
+خورشید شب<br/>
+رحیم معینی کرمانشاهی (۱۳۰۴ - ۱۳۹۴)<br/>
+از شعر «یک‌شبه پیر»
+</p>
+
+---
+
+### لبخند و سکوت
+
+<div class="two-column">
+    <p class="english tr">
+    Onde io divenni in picciolo tempo poi di sì fraile e debole condizione, che a molti amici pesava de la mia vista... E quando mi domandavano «Per cui t'ha così distrutto questo Amore?», ed io sorridendo li guardava, e nulla dicea loro.
+    </p>
+    <p class="persian tr">
+    در مدتی کوتاه، چنان زار و نحیف گشتم که دوستان زیادی از دیدن ظاهرم ابراز نگرانی کردند... هرگاه سوالی می‌کردند: «آخر به خاطر کدام کس، عشق چنین مصیبتی بر تو وارد آورده‌است؟» با لبخندی بدانان می‌نگریستم و سکوت اختیار می‌کردم.
+    </p>
+    <p class="english ref">
+    La vita nova<br/>
+    Dante Alighieri<br/>
+    From chapter four<br/>
+    برگردانِ فریده مهدوی دامغانی
+    </p>
+</div>
+
+‍‍‍‍```پی‌نوشت:‍‍‍``` سده‌هاست که عشق دانته به بئاتریس الهام‌بخش و شورانگیز هنرمندان و ادیبان بسیاری بوده‌است. دانته از ۹ سالگی عاشق این دختر شد و هیچگاه تا پایان عمر کوتاه این دختر از عشق خود، با او یا کس دیگر سخنی نگفت. ۵ سال پس از مرگ بئاتریس، دانته کتاب زندگانی نو را نوشت و در آن از عشق خود به بئاتریس نوشت (بدون اینکه نام او را مشخصاً ذکر کند). دانته او را یگانه منجی خود می‌دانست، تا جایی‌که در جلد سوم کمدی الهی، این بئاتریس است که راهنمایی او را در بازدید از بهشت به عهده دارد. ([درباره بئاتریس](http://fa.m.wikipedia.org/wiki/بئاتریس_پورتیناری))
+
+---
+
+### بی‌بازگشت
+
+<div class="two-column">
+    <p class="english tr">
+    «Io tenni li piedi in quella parte de la vita di là da la quale non si puote ire più per intendimento di ritornare»
+    </p>
+    <p class="persian tr">
+    «به راستی به نقطه‌ای از عالمی قدم نهاده‌ام که پس از ورود به آن، هیچ امیدی برای بازگشت نیست.»
+    </p>
+    <p class="english ref">
+    La vita nova<br/>
+    Dante Alighieri<br/>
+    From chapter fourteen<br/>
+    برگردانِ فریده مهدوی دامغانی
+    </p>
+</div>
+
+‍‍‍‍```پی‌نوشت:‍‍‍``` دوستی، دانته را به میان جمعی از بانوان می‌برد که برای تبریک به منزل نوعروسی رفته‌اند. در آنجا چشم دانته به بئاتریس می‌افتد و از دیدن ناگهانی او چنان آشفته و پریشان می‌شود که توان ایستادن بر پای خود را ندارد و بی‌اختیار اشک از دیدگانش سرازیر می‌شود. دوستش او را از آن محفل بیرون می‌برد و پس از آنکه حالش بهتر شد علت را جویا می‌شود. جملهٔ بالا، پاسخی است که دانته به او داد.
+
+---
+
+### گردباد سیاه
+
+«چیزی در این میان وجود دارد که دانته نمی‌گوید، اما آدمی آن‌را به گونه‌ای غیرمستقیم احساس می‌کند و شاید حُسن این قسمت نیز در همین باشد. دانته سرنوشت دو دلداده را با رقتی بی‌پایان روایت می‌کند، و ما احساس می‌کنیم که بر سرنوشت آن دو رشک می‌برد. پائولو و فرانچسکا در دوزخ‌اند و دانته رستگاری خواهد یافت، اما آن دو به هم عشق ورزیده‌اند در حالیکه دانته هرگز به عشق زنی که دوست می‌داشت نائل نشد. بی‌عدالتی مسلمی در میان است، و دانته، اکنون که در فراق او به سر می‌برد، لابد بطور آزاردهنده‌ای آن‌را احساس می‌کند. برعکس او، این دو گنهکار به وصال یکدیگر رسیده‌اند. آن دو نمی‌توانند با یکدیگر سخن بگویند،  درون گردباد سیاه، بی‌امید می‌چرخند، اما با این همه با یکدیگرند. هنگامی که فرانچسکا سخن می‌گوید، از ضمیر «ما» استفاده می‌کند و از جانب هر دویشان سخن می‌گوید، و این شکل دیگری از با هم بودن است. آن دو تا ابد با یکدیگرند، عذاب دوزخ را مشترکاً تحمل می‌کنند - واین، از نظر دانته، می‌بایست نوعی بهشت بوده باشد.»
+
+<p class="ref">
+هفت شب با بورخس<br/>
+خورخه لوئیس بورخس<br/>
+برگردان بهرام فرهنگ<br/>
+از سخنرانی شب اول (دربارهٔ «کمدی الهی»)
+</p>
+
+---
+
+### برعکسِ ما
+«یکی از موضوعات تعمق راهبان در صومعه‌های چین و ژاپن شک‌کردن در وجود بوداست. این یکی از شک‌هایی است که انسان باید بر خویشتنِ خویش تحمیل کند تا به حقیقت نائل شود.
+سایر ادیان اعتقاد بی‌چون‌و‌چرای زیادی را می‌طلبند. اگر مسیحی باشیم باید اعتقاد داشته باشیم که یکی از سه شکل خداوند، از سر رحمت بر بندگان، از شأن خود نزول کرد و بصورت انسانی درآمد و در یهودیه مصلوب شد. اگر مسلمان باشیم باید اعتقاد داشته باشیم که خدای دیگری جز الله وجود ندارد و محمد پیامبر اوست. اما می‌توانیم بودایی خوبی باشیم و وجود بودا را انکار کنیم. یا به بیان دقیق‌تر، باید بدانیم که اعتقادمان به جنبهٔ تاریخی قضیه اهمیتی ندارد؛ آنچه مهم است اعتقاد به تعالیم است.»
+
+```پی‌نوشت:``` بورخس از جوانی بینایی ضعیفی داشت و پیش از میانسالی بینایی‌اش به اندازه‌ای کاهش یافت که برای تامین زندگی خود، به سخنرانی دربارهٔ ادبیات روی آورد. این کتاب، متن هفت شب از سخنرانی‌های اوست.
+
+<p class="ref">
+هفت شب با بورخس<br/>
+خورخه لوئیس بورخس<br/>
+برگردان بهرام فرهنگ<br/>
+از سخنرانی «آیین بودا»
+</p>
+
+---
+
+### کالپا
+«جهان از تعداد بی‌شماری از چرخه‌ها تشکیل شده‌است که به کالپاهایی تقسیم می‌شوند. کالپا ورای تجسم انسان است. دیوار آهنینی را در نظر مجسم کنید که بیش از بیست‌و‌پنج کیلومتر ارتفاع دارد و هر ششصد سال یک‌بار فرشته‌ای با دستمال لطیف بنارسی لبهٔ آن‌را مالش می‌دهد. هنگامی که آن دیوار مرتفعِ بیست‌و‌پنج کیلومتری در اثر مالش آن دستمال به کلی ساییده و هم‌سطح زمین می‌شود اولین روز از یک کالپا سپری می‌شود. خدایان به مدت یک کالپا عمر می‌کنند و سپس آنان نیز می‌میرند و دوباره متولد می‌شوند.»
+
+<p class="ref">
+هفت شب با بورخس<br/>
+خورخه لوئیس بورخس<br/>
+برگردان بهرام فرهنگ<br/>
+از سخنرانی «آیین بودا»
+</p>
+
+---
+
+### افق تیره
+
+<p class="text-center">
+آخر دل من ز غصه خون خواهد شد / وز روزنهٔ دیده برون خواهد شد
+<br/>
+با این افق تیره خدا داند و بس / کاین مملکتِ خراب، چون خواهد شد
+</p>
+
+<p class="ref">
+محمد فرخی یزدی (۱۲۶۷ - ۱۳۱۸)
+</p>
+
+---
+
+### برای وطن
+
+
+<div class="two-column" style="max-width: 700px;">
+    <p class="english tr">
+    I was the first fruits of the battle of Missionary Ridge.<br/>
+    When I felt the bullet enter my heart<br/>
+    I wished I had staid at home and gone to jail,<br/>
+    For stealing the hogs of Curl Trennary,<br/>
+    Instead of running away and joining the army,<br/>
+    Rather a thousand times the county jail<br/>
+    Than to lie under this marble figure with wings,<br/>
+    And this granite pedestal<br/>
+    Bearing the words 'Pro Patria.'<br/>
+    What do they mean, anyway?</p>
+    <p class="persian tr">
+    من اولین ثمرهٔ جنگِ میسونری‌ریج بودم.<br/>
+    وقتی که احساس کردم گلوله‌ای در قلبم فرو می‌رود،<br/>
+    آرزو کردم کاش به جای فرار و پیوستن به ارتش<br/>
+    در خانه مانده بودم و به زندان رفته بودم<br/>
+    به خاطر دزدین خوکِ پروارِ کرل ترنری،<br/>
+    زندانِ شهر هزارها بار<br/>
+    بهتر است تا آرمیدن زیر مرمری بالدار<br/>
+    و این ستون گرانیتی<br/>
+    <bdi>که این کلمات را بر دوش می‌کشند: "Pro Patria"</bdi><br/>
+    اما اینها چه معنی می‌دهند؟
+    </p>
+    <p class="english ref">
+    Pro patria<br/>
+    Edgar Lee Masters (1868 - 1950)<br/>
+    برگردان مهتاب کلانتری
+    </p>
+</div>
+
+‍‍‍‍```پی‌نوشت:‍‍‍``` نبرد میسونری‌ریج یکی از نبردهایی بود که در طول جنگ داخلی آمریکا میان نیروهای شمالی و جنوبی رخ داد (در ۱۸۶۳ میلادی) و Pro Patria عبارتی به زبان لاتین است به معنی «به خاطر وطن» که بر سنگ مزار سربازان کشته‌شده در جنگ می‌نویسند.
+
+---
+
+### خونِ احمد
+
+<p class="text-center">
+خبر اومد که دشتستون بهاره / زمین از خونِ احمد لاله‌زاره<br/>
+خبر وَر مادرِ پیرش رسونید / که احمد یک تن و دشمن هزاره
+</p>
+
+<p class="ref">
+رباعی محلی دشتستان<br/>
+نقل شده در کتاب سیر رباعی<br/>
+سیروس شمیسا
+</p>
+
+‍‍‍‍```پی‌نوشت:‍‍‍``` این دوبیتی برای احمدخان تنگستانی سروده شده‌است؛ او در زمان حملهٔ انگلیسی‌ها به بندر بوشهر (۱۲۷۳ هجری قمری)، از بزرگان تنگستان بود و با یاران اندک خود تا پای مرگ از خاکش دفاع کرد. (نمی‌دانم سرایندهٔ این دوبیتی کیست)
+
+---
+
+### فاضلاب
+
+<div class="two-column">
+    <p class="english tr">
+    «If I were making a country, I'd get the sewage pipes first, then the democracy, then I'd go about giving pamphlets and statues of Gandhi to other people, but what do I know? I'm just a murderer!»</p>
+    <p class="persian tr">
+    «اگر بنا بود که من کشوری بنا کنم، پیش از هر چیز فاضلاب را لوله‌کشی می‌کردم، سپس به سراغ برقراری دموکراسی می‌رفتم و تازه، بعد از آن بود که این‌سوی و آن‌سوی راه می‌افتادم و جزوه‌ها و مجسمه‌های گاندی به مردم کشورهای دیگر هدیه می‌دادم. اما، مرا چه به این کارها؟ من قاتلی بیش نیستم.»
+    </p>
+    <p class="ref">
+    The white tiger<br/>
+    Aravind Adiga<br/>
+    برگردان ابوالفضل رئوف
+    </p>
+</div>
+
+‍‍‍‍```پی‌نوشت:‍‍‍``` این کتاب برندهٔ جایزه من‌بوکر (‌Man Booker) سال ۲۰۰۸ میلادی شد.
+
+---
+
+### انفجار جمعیت
+
+پل ارلیش، زیست‌شناس مشهور، درباره نخستین دیدارش از هند می‌نویسد:
+
+«من مفهوم انفجار جمعیت را مدت‌هاست که از لحاظ فکر درک کرده‌ام. اما چند سال پیش در یک شب داغ خفه‌کننده در دهلی توانستم آن را عملا حس کنم. من و همسرم و دخترم با یک تاکسی عهد بوق به هتلمان بر می‌گشتیم. صندلی‌ها با جست‌وخیز کک‌ها بالا و پایین می‌رفتند. تنها دنده‌ای که کار می‌کرد دندهٔ سه بود. همان‌طور که خزنده‌وار از توی شهر عبور می‌کردیم، وارد یک محلهٔ شلوغ فقیرنشین شدیم. درجه حرارت بیشتر از صد درجهٔ فارنهایت بود؛ هوا غباری غلیظ از گردوخاک و دود بود. خیابان‌ها پر از آدم بود. آدم‌هایی که مشغول خوردن یا شستشو بودند؛ آدم‌هایی که خوابیده بودند. آدم‌هایی که به دیدار یکدیگر آمده بودند، جروبحث می‌کردند، و فریاد می‌زدند. آدم‌هایی که دست‌هایشان را از پنجرهٔ تاکسی به داخل می‌آوردند و گدایی می‌کردند.
+آدم‌هایی که مشغول دفع مدفوع و ادرار بودند. آدم‌هایی که به اتوبوس‌ها چسبیده و آویزان بودند. آدم‌هایی که حیوانات را می‌چراندند. آدم‌ها، آدم‌ها، آدم‌ها. همان‌طور که به کندی از میان جمعیت حرکت می‌کردیم و صدای گوشخراش بوق به هوا میرفت، گردوخاک، سر و صدا، گرما، و آتش‌هایی که برای پختن غذا روشن کرده‌بودند سیمایی جهنمی به صحنه می‌داد. آیا هرگز به هتل خواهیم رسید؟ هر سه نفر ما حقیقتا وحشت کرده‌بودیم. به نظر می‌آمد هر اتفاقی ممکن است - اما، طبعا، هیچ اتفاقی نیفتاد. آنها که هند را می‌شناسند به واکنش ما خواهند خندید. ما فقط توریست‌های نازپرورده‌ای بودیم که به مناظر و سر و صداهای هند عادت نداشتیم. شاید از آن شب به بعد بود که من معنی واقعی پرجمعیت بودن را فهمیدم. (Ehrlich, 1971, p.1)
+
+<p class="ref">
+Sociology<br/>
+Anthony Giddens<br/>
+برگردان منوچهر صبوری
+</p>
+
+---
+
+### سیل خون
+
+«چشمتان را باز کنید، اطرافتان را نگاه کنید، خون مثل سیل جاری است.»
+
+<p class="ref">
+یادداشت‌های زیرزمینی<br/>
+فئودور داستایفسکی<br/>
+برگردان رحمت الهی
+</p>
+
+---
+
+### کچی جوان
+
+<div class="two-column" style="max-width: 600px;">
+    <p class="english tr">
+        ئەی کچی جوان، تۆ نە شاعیری و نە نەقاش<br/>
+        من هەردووکیان، من هەردووکیان<br/>
+        کێ لە ئێوە ئەزانێ<br/>
+        ئەو چاوانەت هەموو شەوێ<br/>
+        ئەو شعرانەم بە دزیەوە ئەداتێ<br/>
+        کێش ئەزانێ ئەوە پەنجەکانی تۆیە<br/>
+        ئەو وێنانەم بۆ ئەکێشێ<br/>
+        من ئێستا لەوە ئەترسم کە ڕۆژێ بێ<br/>
+        چاوەکانت و پەنجەکان ئەو نهێنیە<br/>
+        دەربخەن و بە شەقام و گەڕەک و دنیا بڵێن<br/>
+        لەڕاستیدا ئا ئەم پیاوە نە شاعیرە و نە نەقاش.
+    </p>
+    <p class="persian tr">
+        ای دختر زیبا، تو نە شاعری و نە نقاش<br/>
+        من هردواَش هستم، هردواَش هستم<br/>
+        چه کس از اینان می‌داند<br/>
+        که این چشمان توست کە هر شب<br/>
+        این شعرها را مخفیانه بە من می‌رساند<br/>
+        چه کس می‌داند که این انگشتان توست کە<br/> 
+        این نقاشی‌ها را برایم می‌کشد<br/>
+        من از آن می‌ترسم کە روزی فرا رسد<br/>
+        که چشمان و انگشتانت این راز را<br/>
+        آشکار کنند و مردم کوچە‌و‌خیابان و دنیا را آگاه سازند<br/>
+        که در حقیقت این مرد نە شاعر است و نە نقاش.
+    </p>
+    <br/>
+    <p class="ref">
+        شێرکۆ بێکەس (۱۹۴۰ - ۲۰۱۳)
+    </p>
+</div>
+
+---
+
+### شمشیر بُرّان
+
+<div class="two-column">
+    <p class="english tr">
+    «L'exécution soulage et délivre. Elle est universelle, fortifiante et juste dans ses applications comme dans ses intentions. On meurt parce qu’on est coupable. On est coupable parce qu'on est sujet de Caligula. Or, tout le inonde est sujet de Caligula. Donc, tout le monde est coupable. D'où il ressort que tout le monde meurt. C'est une question de temps et de patience.»</p>
+    <p class="persian tr">
+    «اعدام تسلی می‌دهد و رهایی می‌بخشد. اعدام امری است عالم‌گیر، نیروبخش و در نیت و عمل عادلانه. آدمی می‌میرد چون مقصر است. مقصر است چون از اتباع کالیگولاست. و اما همه‌کس تابع کالیگولاست. پس همه‌کس مقصر است. از اینجا نتیجه می‌گیریم که همه‌کس می‌میرد. فقط احتیاج به گذشت زمان و صبر است.»
+    </p>
+    <p class="english ref">
+    Caligula<br/>
+    Albert Camus<br/>
+    برگردان ابوالحسن نجفی
+</p>
+</div>
+
+‍‍‍‍```پی‌نوشت:‍‍‍``` کالیگولا نام نمایش‌نامه‌ای از آلبر کامو است که در آن کالیگولا، امپراتور مستبد روم است و جملات بالا بخشی از رسالهٔ «شمشیر بُرّان» اوست که در ستایش اعدام نوشت.
+
+---
+
+### سرب
+
+تا پیش از سال ۱۹۲۳ تقریبا هیچ سربی در اتمسفر وجود نداشت اما از آن زمان به بعد (زمان کشف خاصیت تترا اتیل سرب در کاهش کوبش موتور اتومبیل) سطح سرب در اتمسفر به طور پیوسته و خطرناکی سیر صعودی پیدا کرده‌است. از آنجایی‌که سرب از بدن انسان دفع نمی‌شود (در خون و استخوان‌ها ذخیره می‌شود) و بدن هیچ نیازی به آن ندارد، انسان‌های امروزی بیش از ۶۲۵ برابر انسان‌های سدهٔ گذشته در خون خود سرب دارند.
+
+سرب یک سم عصبی است و اگر مقدار زیادی از آن وارد بدن شود می‌تواند آسیب‌های جبران‌ناپذیری به مغز و دستگاه مرکزی اعصاب وارد کند. در میان بسیاری از نشانه‌های افزایش سرب در بدن می‌توان به کوری، بی‌خوابی، بیماری کلیه، آسیب به شنوایی، انواع سرطان، انواع فلج و تشنج اشاره کرد. در حادترین شکل، موجب هذیان‌های ناگهانی و خوفناکی می‌شود که به یک اندازه برای مبتلایان و ناظران نگران‌کننده است و پس از آن به اغما و مرگ مبلایان می‌انجامد.
+
+<p class="ref">
+A Short History of Nearly Everything (تاریخچه تقریبا همه چیز)<br/>
+Bill Bryson<br/>
+برگردان محمدتقی فرامرزی<br/>
+</p>
+
+---
+
+### سینهٔ تکیده
+«می‌توان پذیرفت که نیروی اندیشهٔ خاص انسان ریشه در نتایج دردناک برخوردهای شدید عاطفی داشته‌باشد. ضربه‌های عاطفی موجب بیداری آدمیان می‌شود و آنها را ناگزیر می‌کند مراقب کردار خود باشند. مانند مورد ریموند لول (Raimond Lulle) اسپانیایی که پس از پیگیری بسیار، سرانجام توانست از بانویی که فریفته‌اش شده‌بود وعدهٔ دیداری پنهانی بگیرد. زن در وعده‌گاه آرام و خاموش پیراهن خود را گشود و سینهٔ تکیده‌شده از سرطان خود را نشان وی داد. ضربهٔ ناشی از آن منظره زندگی لول را تغییر داد و او با روی آوردن به کلیسا یکی از بزرگترین مبلغان مذهبی مسیحیت شد. در مواردی که تغییر چنین ناگهانی روی می‌دهد می‌توان گفت که یک کهن‌الگو از مدت‌ها پیش از آن در ناخودآگاه فعالیت می‌کرده و ماهرانه زمینه را برای بروز بحران آماده می‌کرده‌است.»
+
+
+<p class="ref">
+انسان و سمبول‌هایش<br/>
+کارل گوستاو یونگ<br/>
+برگردان دکتر محمود سلطانیه، از صفحهٔ ۱۰۹ چاپ ششم ۱۳۸۷ نشر جامی
+</p>
+
+---
+
+### هنر
+
+<div class="two-column">
+    <p class="english tr">
+If you really want to hurt your parents, and you don’t have the nerve to be a homosexual, the least you can do is go into the arts.
+    </p>
+    <p class="persian tr">
+    اگر می‌خواهید والدینتان را برنجانید و جراتش را ندارید که هم‌جنس‌باز شوید سراغ هنر بروید.
+    </p>
+    <p class="english ref">
+        Timequake<br/>
+        Kurt Vonnegaut Jr.<br/>
+        From chapter 10<br/>
+        برگردان از مهدی صداقت پیام<br/>
+    </p>
+</div>
+
+---
+
+### راه راستی
+
+<div class="two-column">
+    <p class="english tr">
+aêvô pañtå ýô ashahe vîspe anyaêshãm apañtãm angrahe mainyêush nasishtãm daênãm daêvayasnanãm parâjîtîm mashyânãm frâkereitîm!
+    </p>
+    <p class="persian tr">
+    راه در جهان یکیست و آن اَشویی است، همه دیگر راه‌ها بیراهه است، بیراهه‌ای که یکسره به دین زیان‌آور اهریمن و به زندگی و کردار دیوپرستی کشاند.
+    </p>
+    <p class="english ref">
+        Yasna 72.11<br/>
+    </p>
+</div>
+
+---
+
+### تائو
+
+<div class="two-column" style="max-width: 800px;">
+    <p class="english tr">
+    故道大，天大，地大，王亦大。<br/>
+    域中有四大，而王處一焉。<br/>
+    人法地，地法天，天法道，<br/>
+    道法自然 。
+    </p>
+    <p class="persian tr">
+    تائو پهناور است، جهان پهناور است، زمین پهناور است، انسان پهناور است،<br/>
+    این چهار قدرت بزرگ هستی است.<br/>
+    انسان از زمین پیروی می‌کند، زمین از جهان پیروی می‌کند، جهان از تائو پیروی می‌کند،<br/>
+    تائو از خود پیروی می‌کند.
+    </p>
+    <p class="english ref">
+        Tao te ching<br/>
+        Chapter 25<br/>
+        Laozi (possibly 6th Century B.C.)<br/>
+    </p>
+</div>
+
+---
+
+### شعلهٔ بازنده
+
+<div class="two-column" style="max-width: 500px;">
+    <p class="english tr">
+    La vita é fiamma vinta.<br/>
+    </p>
+    <p class="persian tr">
+    زندگی، شعله‌ای بازنده است.<br/>
+    </p>
+    <p class="english ref">
+        Fuga (فرار)<br/>
+        Vincenzo Cardarelli (1887 - 1959)<br/>
+        برگردان از فریده مهدوی دامغانی
+    </p>
+</div>
+
+---
+
+### عشق برادرانه!
+
+«همیشه می‌توان عدهٔ کثیری را با عشق به هم پیوند داد، به شرط آنکه کسانی باقی بمانند که بتوان آنها را مورد پرخاش قرار داد.»
+
+
+<p class="ref">
+تمدن و ملالت‌های آن<br/>
+زیگموند فروید<br/>
+برگردان محمد مبشری<br/>
+از صفحهٔ ۸۴، چاپ ۱۳۸۳ نشر ماهی
+</p>
+
+---
+
+### جنون جمعی
+«گاهی فرد، واقعیت را تنها دشمنی می‌داند که سرچشمهٔ همهٔ رنج‌هاست، ... و از این رو آدمی اگر بخواهد سعادتمند باشد باید همهٔ روابطش را با واقعیت قطع کند... می‌توان از این هم پیش‌تر رفت، می‌توان جهان را دوباره ساخت، ... و خصوصیات دیگری که با آرزوهای فرد تطابق داشته باشد جای آن‌را بگیرند... چنین فردی دیوانه‌ای می‌شود که در تحقق هذیانش غالبا یاوری پیدا نمی‌کند... گاهی تعداد زیادی از افراد چنین راهی را برمی‌گزینند و واقعیت را با وهم درمی‌آمیزند. دین‌های نوع بشر را نیز باید از شمار این هذیان‌های جمعی دانست. طبیعتا کسی که خود دچار آن است، آنرا تشخیص نمی‌دهد... دین به قیمت تثبیت نابالغی روحی به وسیلهٔ اعمال فشار و کشاندن انسان‌ها به جنون جمعی، بسیاری از آنان را از نُروزهای فردی مصون می‌کند. اما دیگر کار چندانی نمی‌کند.»
+
+<p class="ref">
+تمدن و ملالت‌های آن<br/>
+زیگموند فروید<br/>
+برگردان محمد مبشری<br/>
+از صفحات ۳۹ و ۴۴، چاپ ۱۳۸۳ نشر ماهی
+</p>
+
+---
+
+### تودهٔ مردم
+
+<div class="two-column">
+    <p class="english tr">
+    The mass of men lead lives of quiet desperation.</p>
+    <p class="persian tr">
+    زندگی تودهٔ مردم، درماندگی خاموش است.
+    </p>
+    <p class="english ref">
+        Walden<br/>
+        Henry David Thoreau
+    </p>
+</div>
+
+---
+
+### کاشکی
+
+<p class="text-center">
+کاشکی جز تو کسی داشتمی / یا به تو دسترسی داشتمی
+<br/>
+یا در این غم که مرا هر دم هست / همدم خویش کسی داشتمی
+<br/>
+کی غمم بودی اگر در غم تو / نفسی هم‌نفسی داشتمی
+<br/>
+گر لبت آن منستی ز جهان / کافرم گر هوسی داشتمی
+<br/>
+سر و زر ریختمی در پایت / گر از این دست، بسی داشتمی
+</p>
+
+<p class="ref">
+دیوان افضل الدین بدیل بن علی نجار خاقانی شروانی<br/>
+از غزل صفحه ۶۷۵<br/>
+به کوشش دکتر ضیاالدین سجادی، چاپ ششم ۱۳۷۸، انتشارات زوار
+</p>

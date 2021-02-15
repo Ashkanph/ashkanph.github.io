@@ -5,6 +5,7 @@ import books from "../static/books";
 import ListOfTitles from "../components/listOfTitles";
 import BookDescriptions from "../components/bookDescriptions";
 import Seo from '../components/seo/seo';
+import BaseLayout from '../components/layouts/baseLayout';
 
 const BookRecEl =
     styled.div`
@@ -35,13 +36,15 @@ const BookRecomendation = () => {
     };
 
     return (
-        <BookRecEl className="book-recommendation" title="Book recommendations">
-            <Seo pageMeta={pageMeta}
-                 isBlogPost={false} />
-            <div id="desc">به مرور کتاب‌های بیشتری را در این صفحه معرفی می‌کنم (ترتیب معرفی‌ها مشخص‌کننده چیزی نیست).</div>
-            <ListOfTitles title="فهرست کتاب‌ها" list={titles} isBooks={true} />
-            <BookDescriptions books={books} />
-        </BookRecEl>
+        <BaseLayout>
+            <BookRecEl className="book-recommendation" title="Book recommendations">
+                <Seo pageMeta={pageMeta}
+                    isBlogPost={false} />
+                <div id="desc">به مرور کتاب‌های بیشتری را در این صفحه معرفی می‌کنم (ترتیب معرفی‌ها مشخص‌کننده چیزی نیست).</div>
+                <ListOfTitles title="فهرست کتاب‌ها" list={titles} isBooks={true} />
+                <BookDescriptions books={books} />
+            </BookRecEl>
+        </BaseLayout>
     )
 }
 

@@ -1,5 +1,7 @@
 import * as React from "react";
 
+import BaseLayout from '../components/layouts/baseLayout';
+
 // styles
 const pageStyles = {
   color: "#232129",
@@ -22,13 +24,15 @@ const paragraphStyles = {
 // markup
 const NotFoundPage = () => {
     return (
-        <main style={pageStyles}>
-            <title>Not found</title>
-            <h1 style={headingStyles}>404: Page not found</h1>
-            <p style={paragraphStyles}>
-                Sorry, I can not find the page you want.
-            </p>
-        </main>
+        <BaseLayout>
+            <main style={pageStyles}>
+                <title>Not found</title>
+                <h1 style={headingStyles}>404: Page not found</h1>
+                <p style={paragraphStyles}>
+                    Sorry, I can not find the page you want.
+                </p>
+            </main>
+        </BaseLayout>
     )
 };
 

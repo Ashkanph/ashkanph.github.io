@@ -5,6 +5,7 @@ import styled from 'styled-components';
 
 import ListOfTitles from "../components/listOfTitles";
 import Seo from '../components/seo/seo';
+import BaseLayout from '../components/layouts/baseLayout';
 
 const NotesEl = 
     styled.div`
@@ -124,19 +125,21 @@ export default function Notes({
     }
 
     return (
-        <NotesEl>
-            <Seo pageMeta={pageMeta}
-                 isBlogPost={false} />
-            <div id="notes-desc">کتاب‌هایی خوانده‌ام و یادداشت‌هایی از آنها نگاه داشته‌ام. جملات زیر، برخی از آن یادداشت‌هاست. مطالب جدیدتر را هربار به بالای صفحه اضافه می‌کنم.</div>
-            <ListOfTitles title="فهرست یادداشت‌ها" list={titles} />
-            <div className="blog-post-container">
-                <div className="blog-post">
-                    <div
-                        className="blog-post-content"
-                        dangerouslySetInnerHTML={{ __html: html }}/>
+        <BaseLayout>
+            <NotesEl>
+                <Seo pageMeta={pageMeta}
+                    isBlogPost={false} />
+                <div id="notes-desc">کتاب‌هایی خوانده‌ام و یادداشت‌هایی از آنها نگاه داشته‌ام. جملات زیر، برخی از آن یادداشت‌هاست. مطالب جدیدتر را هربار به بالای صفحه اضافه می‌کنم.</div>
+                <ListOfTitles title="فهرست یادداشت‌ها" list={titles} />
+                <div className="blog-post-container">
+                    <div className="blog-post">
+                        <div
+                            className="blog-post-content"
+                            dangerouslySetInnerHTML={{ __html: html }}/>
+                    </div>
                 </div>
-            </div>
-        </NotesEl>
+            </NotesEl>
+        </BaseLayout>
     )
 }
 

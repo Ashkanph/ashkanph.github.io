@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { Link } from "gatsby";
 
 import Seo from '../components/seo/seo';
+import BaseLayout from '../components/layouts/baseLayout';
 
 const IndexEl =
     styled.main`
@@ -116,47 +117,48 @@ const IndexPage = () => {
     const pageMeta = {
         title: "Ashkan P. Personal Webpage",
         description: "Ashkan P. personal webpage",
-        slug: "/",
     };
 
     return (
-        <IndexEl>
-            <Seo pageMeta={pageMeta}
-                 isBlogPost={false} />
-            <picture className="main-image">
-                <source alt="my portrait" srcSet="https://user-images.githubusercontent.com/22937754/31787999-381baef4-b51a-11e7-9ddc-e11976dbae7c.jpg" media="screen and (max-width: 450px)" />
-                <source alt="my portrait" srcSet="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg" media="screen and (max-width: 1281px)" />
-                <source alt="my portrait" srcSet="https://user-images.githubusercontent.com/22937754/31788055-6baa5f54-b51a-11e7-9bf3-4a9652d05055.jpg" media="screen and (min-width: 1282px)" />
-                <img src="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg" alt="my portrait"/>
-            </picture>
-            <div className="name text-bold">Ashkan Ph.</div>
-            <div className="job-title">Web developer</div>
-            <div className="social-icons">
-                <a target="_blank" rel="noreferrer" href="https://www.github.com/Ashkanph" title="My Github profile">
-                    <i className="icon-gh" />
-                </a>
-                <a target="_blank" rel="noreferrer" href="https://ir.linkedin.com/in/ashkan-paleganeh" title="My Linkedin profile">
-                    <i className="icon-in" />
-                </a>
-                <a target="_blank" rel="noreferrer" href="https://stackoverflow.com/users/7338291/ashkan" title="My Stackoverflow profile">
-                    <i className="icon-so" />
-                </a>
-                <a target="_blank" rel="noreferrer" href="mailto:ashkanpaleganeh@gmail.com?Subject=HiFromYourWebsite" title="My Email">
-                    <i className="icon-email" />
-                </a>
-                <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/User:Ashkan_P." title="My Wikipedia profile">
-                    <i className="icon-wp" />
-                </a>
-                <a target="_blank" rel="noreferrer" href="https://www.goodreads.com/Ashkanph" title="My Goodreads profile">
-                    <i className="icon-gr" />
-                </a>
-            </div>
-            <div className="pages">
-                <Link to="/skills">Skills</Link>
-                <Link to="/notes">Notes</Link>
-                <Link to="/book-recommendation">Book Recommendations</Link>
-            </div>
-        </IndexEl>
+        <BaseLayout indexPage={true}>
+            <IndexEl>
+                <Seo pageMeta={pageMeta}
+                    isBlogPost={false} />
+                <picture className="main-image">
+                    <source alt="my portrait" srcSet="https://user-images.githubusercontent.com/22937754/31787999-381baef4-b51a-11e7-9ddc-e11976dbae7c.jpg" media="screen and (max-width: 450px)" />
+                    <source alt="my portrait" srcSet="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg" media="screen and (max-width: 1281px)" />
+                    <source alt="my portrait" srcSet="https://user-images.githubusercontent.com/22937754/31788055-6baa5f54-b51a-11e7-9bf3-4a9652d05055.jpg" media="screen and (min-width: 1282px)" />
+                    <img src="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg" alt="my portrait"/>
+                </picture>
+                <div className="name text-bold">Ashkan Ph.</div>
+                <div className="job-title">Web developer</div>
+                <div className="social-icons">
+                    <a target="_blank" rel="noreferrer" href="https://www.github.com/Ashkanph" title="My Github profile">
+                        <i className="icon-gh" />
+                    </a>
+                    <a target="_blank" rel="noreferrer" href="https://ir.linkedin.com/in/ashkan-paleganeh" title="My Linkedin profile">
+                        <i className="icon-in" />
+                    </a>
+                    <a target="_blank" rel="noreferrer" href="https://stackoverflow.com/users/7338291/ashkan" title="My Stackoverflow profile">
+                        <i className="icon-so" />
+                    </a>
+                    <a target="_blank" rel="noreferrer" href="mailto:ashkanpaleganeh@gmail.com?Subject=HiFromYourWebsite" title="My Email">
+                        <i className="icon-email" />
+                    </a>
+                    <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/User:Ashkan_P." title="My Wikipedia profile">
+                        <i className="icon-wp" />
+                    </a>
+                    <a target="_blank" rel="noreferrer" href="https://www.goodreads.com/Ashkanph" title="My Goodreads profile">
+                        <i className="icon-gr" />
+                    </a>
+                </div>
+                <div className="pages">
+                    <Link to="/skills">Skills</Link>
+                    <Link to="/notes">Notes</Link>
+                    <Link to="/book-recommendation">Book Recommendations</Link>
+                </div>
+            </IndexEl>
+        </BaseLayout> 
     )
 }
 

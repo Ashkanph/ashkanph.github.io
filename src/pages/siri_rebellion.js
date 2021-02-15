@@ -4,6 +4,7 @@ import { graphql } from "gatsby";
 import styled from 'styled-components';
 
 import Seo from '../components/seo/seo';
+import BaseLayout from '../components/layouts/baseLayout';
 
 const SiriEl = 
     styled.div`
@@ -37,12 +38,14 @@ export default function SiriRebellion({
     };
 
     return (
-        <SiriEl>
-            <Seo pageMeta={pageMeta}
-                 postImage={require(`../images/books/hyperion.jpg`)}
-                 isBlogPost={false} />
-            <div dangerouslySetInnerHTML={{ __html: html }}/>
-        </SiriEl>
+        <BaseLayout>
+            <SiriEl>
+                <Seo pageMeta={pageMeta}
+                    postImage={require(`../images/books/hyperion.jpg`)}
+                    isBlogPost={false} />
+                <div dangerouslySetInnerHTML={{ __html: html }}/>
+            </SiriEl>
+        </BaseLayout>
     )
 }
 

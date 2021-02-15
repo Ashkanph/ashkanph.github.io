@@ -97,12 +97,10 @@ const SkillItem = props => {
                     !!item.subs && showSubs &&
                         item.subs.map(
                             (subItem, subIndex) => 
-                                <>
-                                    <div className="skill-sub-item" key={`skill-sub-${subIndex}`}>
-                                        <i class="icon-check-square" />
-                                        { subItem }
-                                    </div>
-                                </>
+                                <div className="skill-sub-item" key={`skill-sub-${subIndex}`}>
+                                    <i className="icon-check-square" />
+                                    { subItem }
+                                </div>
                         )
                 }
             </div>

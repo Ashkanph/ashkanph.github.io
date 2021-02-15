@@ -70,7 +70,7 @@ From the chapter of “A panegyric upon Abraham”
 <br/>
 از بخش مدیحه بر ابراهیم
 <br/>
-<a target="_blank" href="https://ashkanph.github.io/blog/Fear_and_trembling/">بیشتر بخوانید</a>
+<a target="_blank" rel="noreferrer" href="/blog/Fear_and_trembling">بیشتر بخوانید</a>
 </p>
 
 ---
@@ -161,7 +161,7 @@ From the first book
 <br/>
 برگردان فارسی از سید رضا حسینی
 <br/>
-<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+<a target="_blank" rel="noreferrer" href="/blog/hagakure">بیشتر بخوانید</a>
 </p>
 
 
@@ -192,7 +192,7 @@ From the third book
 <br/>
 برگردان فارسی از سید رضا حسینی
 <br/>
-<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+<a target="_blank" rel="noreferrer" href="/blog/hagakure">بیشتر بخوانید</a>
 </p>
 
 ---
@@ -211,7 +211,7 @@ English translation by Alexander Bennett
 <br/>
 From the first book
 <br/>
-<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+<a target="_blank" rel="noreferrer" href="/blog/hagakure">بیشتر بخوانید</a>
 </p>
 
 
@@ -240,7 +240,7 @@ English translation by Alexander Bennett
 <br/>
 From the first book
 <br/>
-<a target="_blank" href="https://ashkanph.github.io/blog/hagakure/">بیشتر بخوانید</a>
+<a target="_blank" rel="noreferrer" href="/blog/hagakure">بیشتر بخوانید</a>
 </p>
 
 ```پی‌نوشت:``` مردانی که نوجوان چهارده‌ساله را مجبور می‌کنند تا در یک روز سر ده مجرم دست‌بسته را قطع کند تا روحیه جنگاوری‌اش تقویت شود، با بوییدن عطر میخکِ میان یک کتاب، احساساتی می‌شوند.

@@ -1,10 +1,14 @@
-import React, { createContext, useReducer, useContext } from "react";
+import React, { createContext, useReducer } from "react";
 
 const StateContext = createContext();
 const ActionContext = createContext();
 
 const defaultTheme = () => {
-    const lth = window?.localStorage.getItem("theme");
+    let lth = "";
+    if (typeof window !== `undefined`) {
+        // code that references a browser global
+        lth = window?.localStorage.getItem("theme");
+    }
     return lth && lth !== "" ? lth : "light";
 };
 
@@ -21,36 +25,37 @@ function reducer(state, action) {
   }
 }
 
-function useTheme() {
-  const context = useContext(StateContext)
-  if (!StateContext) throw Error("useTheme must be used under StateContext")
-  return context
-}
+// function useTheme() {
+//   const context = React.useContext(StateContext)
+//   if (!StateContext) throw Error("useTheme must be used under StateContext")
+//   return context
+// }
 
-function useActions() {
-  const context = useContext(ActionContext)
-  if (!ActionContext) throw Error("useActions must be used under ActionContext")
-  return context
-}
+// function useActions() {
+//   const context = React.useContext(ActionContext)
+//   if (!ActionContext) throw Error("useActions must be used under ActionContext")
+//   return context
+// }
 
 const StateProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState)
 
-  const actions = {
-    changeTheme: selectedTheme => {
-        localStorage.setItem("theme", selectedTheme);
-        dispatch({ type: "changeTheme", data: selectedTheme });
-    } 
-  };
+//   const actions = {
+//     changeTheme: selectedTheme => {
+//         localStorage.setItem("theme", selectedTheme);
+//         dispatch({ type: "changeTheme", data: selectedTheme });
+//     } 
+//   };
 
   return (
     <StateContext.Provider value={state}>
-      <ActionContext.Provider value={actions}>
+      {/* <ActionContext.Provider value={actions}> */}
+      <ActionContext.Provider value={dispatch}>
         {children}
       </ActionContext.Provider>
     </StateContext.Provider>
   )
 }
 
-export { useActions, useTheme };
+export { StateContext, ActionContext };
 export default StateProvider;

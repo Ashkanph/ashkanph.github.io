@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import styled from 'styled-components';
 
 import Seo from '../components/seo/seo';
+import BaseLayout from '../components/layouts/baseLayout';
 
 const TemplateEl = 
     styled.div`
@@ -47,16 +48,18 @@ export default function Template({
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   return (
-    <TemplateEl dir={frontmatter.dir}>
-        <Seo frontmatter={frontmatter}
-             isBlogPost={false} />
-        <h1 className="title">{frontmatter.title}</h1>
-        <h4 className="date">{frontmatter?.jdate ?? frontmatter?.date}</h4>
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
-    </TemplateEl>
+        <BaseLayout>
+            <TemplateEl dir={frontmatter.dir}>
+                <Seo frontmatter={frontmatter}
+                    isBlogPost={false} />
+                <h1 className="title">{frontmatter.title}</h1>
+                <h4 className="date">{frontmatter?.jdate ?? frontmatter?.date}</h4>
+                <div
+                className="blog-post-content"
+                dangerouslySetInnerHTML={{ __html: html }}
+                />
+            </TemplateEl>
+        </BaseLayout>
   )
 }
 export const pageQuery = graphql`

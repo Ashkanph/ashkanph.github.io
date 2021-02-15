@@ -1,5 +1,9 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from "react";
+import PropTypes from "prop-types";
+import { Helmet } from 'react-helmet';
+
+import MyIconFont from "./static/fonts/myIconFont.woff"
+import Sahel from "./static/fonts/sahel.woff"
 
 export default function HTML(props) {
   return (
@@ -11,20 +15,18 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <link
-            rel="preload"
-            href="fonts/sahel.woff"
-            as="font"
-            crossorigin="anonymous"
-            type="font/woff"
-        />
-        <link
-            rel="preload"
-            href="fonts/myIconFont.woff"
-            as="font"
-            crossorigin="anonymous"
-            type="font/woff"
-        />
+        <Helmet>
+            <link   rel="preload"
+                    as="font"
+                    href={MyIconFont}
+                    type="font/woff"
+                    crossOrigin="anonymous" />
+            <link   rel="preload"
+                    as="font"
+                    href={Sahel}
+                    type="font/woff"
+                    crossOrigin="anonymous" />
+        </Helmet>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
@@ -36,27 +38,22 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
 
-        {/* <!-- Default Statcounter code for my personal website https://ashkanph.github.io/ --> */}
-        <script type="text/javascript">
-            var sc_project=11198962; 
-            var sc_invisible=1; 
-            var sc_security="fb004402"; 
-        </script>
-        <script type="text/javascript"
-        src="https://www.statcounter.com/counter/counter.js"
-        async></script>
+        {/* <!-- Default Statcounter code for my personal website --> */}
+        <Helmet>
+            <script type="text/javascript">var sc_project=11198962;var sc_invisible=1;var sc_security="fb004402";</script>
+            <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async />
+        </Helmet>
         <noscript>
-            <div class="statcounter">
+            <div className="statcounter">
                 <a title="Web Analytics Made Easy - StatCounter" href="https://statcounter.com/"
                     target="_blank">
-                        <img class="statcounter"
+                        <img className="statcounter"
                                 src="https://c.statcounter.com/11198962/0/fb004402/1/"
                                 alt="Web Analytics Made Easy - StatCounter" />
                 </a>
             </div>
         </noscript>
         {/* <!-- End of Statcounter Code --> */}
-
       </body>
     </html>
   )

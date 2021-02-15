@@ -37,6 +37,12 @@ const ListOfTitlesEl =
             padding: 10px;
             font-size: 14px;
 
+            @media screen and (min-width: 677px) {
+                columns: ${props => props.isBooks ? '3' : '4'};
+                -webkit-columns: ${props => props.isBooks ? '3' : '4'};
+                -moz-columns: ${props => props.isBooks ? '3' : '4'};
+            }
+
             @media screen and (min-width: 870px) {
                 columns: ${props => props.isBooks ? '4' : '6'};
                 -webkit-columns: ${props => props.isBooks ? '4' : '6'};

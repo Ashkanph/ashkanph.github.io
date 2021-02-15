@@ -1,9 +1,9 @@
 
 exports.onCreateWebpackConfig = ({ getConfig, actions }) => {
     if (getConfig().mode === 'production') {
-      actions.setWebpackConfig({
-        devtool: false  // To prevent creating source map for codes in production
-      });
+        actions.setWebpackConfig({
+            devtool: false  // To prevent creating source map for codes in production
+        });
     }
 };
 
@@ -28,7 +28,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             }
         }
     `);
-    
+
     // Handle errors
     if (result.errors) {
         reporter.panicOnBuild(`Error while running GraphQL query.`);

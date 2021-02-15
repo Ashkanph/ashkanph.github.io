@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import skills from "../static/skills";
 import SkillItem from "../components/skillItem";
 import Seo from '../components/seo/seo';
+import BaseLayout from '../components/layouts/baseLayout';
 
 const SkillsEl = 
     styled.div`
@@ -19,16 +20,18 @@ const Skills = () => {
     };
 
     return (
-        <SkillsEl className="non-selectable">
-            <Seo pageMeta={pageMeta}
-                isBlogPost={false} />
-            {
-                skillsKeys.map(
-                    (item, index) => 
-                        <SkillItem skillTitle={item} item={skills[item]} key={`skill-${index}`} />
-                )
-            }
-        </SkillsEl>
+        <BaseLayout>
+            <SkillsEl className="non-selectable">
+                <Seo pageMeta={pageMeta}
+                    isBlogPost={false} />
+                {
+                    skillsKeys.map(
+                        (item, index) => 
+                            <SkillItem skillTitle={item} item={skills[item]} key={`skill-${index}`} />
+                    )
+                }
+            </SkillsEl>
+        </BaseLayout>
     )
 }
 

@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby";
 import styled from 'styled-components';
 
 import Seo from '../components/seo/seo';
+import BaseLayout from '../components/layouts/baseLayout';
 
 const BlogEl = 
     styled.div`
@@ -67,25 +68,27 @@ export default function Blog({
     // const { categories, tags } = allCategoriesTags(blogPosts);
 
     return (
-        <BlogEl>
-            <Seo pageMeta={pageMeta}
-                 isBlogPost={false} />
-            <div className="list">
-                {
-                    blogPosts.map (
-                        (post, index) => 
-                            <Link to={post.slug} key={`blog-${index}`}>
-                                <span className="title">
-                                    { post.title }
-                                </span>{" - "}
-                                <span className="date">
-                                    { post.date }
-                                </span>
-                            </Link>
-                    )
-                }
-            </div>
-        </BlogEl>
+        <BaseLayout>
+            <BlogEl>
+                <Seo pageMeta={pageMeta}
+                    isBlogPost={false} />
+                <div className="list">
+                    {
+                        blogPosts.map (
+                            (post, index) => 
+                                <Link to={post.slug} key={`blog-${index}`}>
+                                    <span className="title">
+                                        { post.title }
+                                    </span>{" - "}
+                                    <span className="date">
+                                        { post.date }
+                                    </span>
+                                </Link>
+                        )
+                    }
+                </div>
+            </BlogEl>
+        </BaseLayout>
     )
 }
   

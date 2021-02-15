@@ -61,7 +61,7 @@ const IndexEl =
             display: flex;
 
             a {
-                font-size: 35px;
+                font-size: 26px;
                 color: var(--font-color);
                 border: 1px solid var(--font-color);
                 opacity: 0.65;
@@ -73,22 +73,22 @@ const IndexEl =
 
                 @media screen and (max-width: 769px){
                     border-radius: 5px;
-                    font-size: 20px;
+                    font-size: 22px;
                     margin: 0 8px;
                     padding: 3px 6px;
                 }
 
-                @media screen and (min-height: 770px){
+                @media screen and (min-width: 770px){
                     border-radius: 10px;
-                    font-size: 35px;
-                    margin: 0 8px;
+                    font-size: 26px;
+                    margin: 0 5px;
                 }
             }
         }
         
         .pages {
             display: flex;
-            font-size: 20px;
+            font-size: 16px;
 
             @media screen and (max-width: 769px){
                 flex-direction: column;
@@ -97,7 +97,7 @@ const IndexEl =
 
             a {
                 color: var(--font-color);
-                margin: 35px 8px;
+                margin: 25px 8px;
                 font-size: 18px;
                 text-decoration: underline;
                 

@@ -26,7 +26,7 @@ body {
 }
 
 html {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 1.3rem;
 }
 

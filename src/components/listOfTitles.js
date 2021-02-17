@@ -49,14 +49,11 @@ const ListOfTitlesEl =
                 -moz-columns: ${props => props.isBooks ? '4' : '6'};
             }
 
-            li {
-                list-style: none;
+            .list-item {
                 line-height: 26px;
-
-                a {
-                    color: var(--list-color);
-                    text-decoration: none;
-                }
+                display: block;
+                color: var(--list-color);
+                text-decoration: none;
             }
         }
     `;
@@ -66,11 +63,10 @@ const ListOfTitles = props => {
     const [showList, setShowList] = React.useState(true);
 
     const createdListItems = list.map(
-        (item, index) => <li key={`list-item-${index}`}>
-            <a href={`#${item.anchorTitle}`}>
+        (item, index) => 
+            <a className="list-item" key={`list-item-${index}`} href={`#${item.anchorTitle}`}>
                 {`${latToPerNumbers(index + 1)}. ${item.title}`}
             </a>
-        </li>
     );
 
     const onShowList = _e => {
@@ -79,11 +75,11 @@ const ListOfTitles = props => {
 
     return (
         <ListOfTitlesEl isBooks={isBooks} showList={showList}>
-            <div className="list-title cursor-pointer" onClick={onShowList} aria-hidden="true">
+            <div className="list-title cursor-pointer no-focus-active-outline" onClick={onShowList} onKeyDown={onShowList} tabIndex={0} role="button" aria-label="Toggle the list">
                 { title } <PlusIcon open={showList} color="#f5f5f5" />
             </div>
             {
-                showList && <ul className="list-body">{ createdListItems }</ul>
+                showList && <div className="list-body">{ createdListItems }</div>
             }
         </ListOfTitlesEl>
     )

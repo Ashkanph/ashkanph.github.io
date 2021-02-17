@@ -18,23 +18,26 @@ const skills = {
     "Javascript": {
         "stars": 3.5,
         "subs": [
-            "jQuery",
-            "AngularJS (1.5.6)",
-            "Vue.js",
-            "Nuxt.js", 
             "React",
             "Redux",
             "Redux-saga",
             "GatsbyJs",
+            "styled-components",
+            "Vue.js",
+            "Nuxt.js", 
             "Node.js",
             "Gulp, Webpack",
-            "styled-components",
+            "AngularJS (1.5.6)",
+            "jQuery",
             "Leaflet, Open Street Map, Google Map, etc",
             "Chart.js, Chartist, D3 charts, etc"
         ]
     },
     "Rust": {
-        "stars": 1.5
+        "stars": 1.5,
+        "subs": [
+            "Actix Web",
+        ]
     },
     "Go": {
         "stars": 1.5

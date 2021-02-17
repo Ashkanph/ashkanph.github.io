@@ -117,18 +117,14 @@ input[type=number] {
     line-height: 21px;
     text-align: center;
 
-}
-
-.circled-triangle svg {
-    fill: #b3b3b3;
+    background-image: url('../images/triangle.svg');
+    background-size: 13px 13px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .circled-triangle:hover {
-    border: 1px solid #989898;
-    fill: #989898;
-}
-
-.circled-triangle:hover svg {
+    border: 1px solid var(--font-color);
     fill: #989898;
 }
 
@@ -159,4 +155,9 @@ a{
 sup, .reference-number {
     line-height: 0;
     color: var(--persian-tr);
+}
+
+.no-focus-active-outline:focus,
+.no-focus-active-outline:active {
+    outline: none;
 }

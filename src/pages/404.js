@@ -1,4 +1,5 @@
-import * as React from "react";
+import React, { useEffect } from "react";
+import { navigate } from 'gatsby';
 
 import BaseLayout from '../components/layouts/baseLayout';
 
@@ -21,8 +22,27 @@ const paragraphStyles = {
   color: "var(--font-color)",
 }
 
-// markup
 const NotFoundPage = () => {
+    // Implementing redirects
+    useEffect(() => {
+        if(typeof window !== "undefined") {
+            const pathname = window?.location?.pathname;
+
+            switch (pathname) {
+                case "/book-recommendation.html":
+                case "/book-recommendation.html/":
+                    navigate("/book-recommendation");
+                    break;
+                case "/notes.html":
+                case "/notes.html/":
+                    navigate("/notes");
+                    break;
+                default:
+                    break;
+            }
+        }
+    }, []);
+
     return (
         <BaseLayout>
             <main style={pageStyles}>

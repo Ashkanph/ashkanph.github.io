@@ -84,7 +84,7 @@ const SkillItem = props => {
 
     return (
         <SkillItemEl>
-            <div className={`skill-title ${ !!item.subs ? 'cursor-pointer' : '' }`} aria-hidden="true"
+            <div className={`skill-title ${ !!item.subs ? 'cursor-pointer' : '' } no-focus-active-outline`}  onKeyDown={onSkillClick} tabIndex={0} role="button" aria-label="Open details"
                  onClick={onSkillClick}>
                 { 
                     !!item.subs && <PlusIcon open={showSubs} color="var(--font-color)" />

@@ -38,7 +38,7 @@ const SideMenuEl =
             min-height: 100%;
             overflow-x: hidden;
 
-            #menu-link{
+            .menu-link{
                 display: flex;
                 align-items: center;
                 color: #dbd7d7;
@@ -83,18 +83,17 @@ const SideMenu = props => {
             <span className="cursor-pointer open-menu">
                 <i className="icon-bars"></i>
             </span>
-
             <div className="dropdown-content" id="top-vertical-menu">
-                <Link onClick={closeSideMenu} id="menu-link" to="/skills">
+                <Link onClick={closeSideMenu} className="menu-link" to="/skills">
                     <i className="icon-check-square"></i>Skills
                 </Link>
-                <Link onClick={closeSideMenu} id="menu-link" to="/book-recommendation">
+                <Link onClick={closeSideMenu} className="menu-link" to="/book-recommendation">
                     <i className="icon-book"></i>Book recommendation
                 </Link>
-                <Link onClick={closeSideMenu} id="menu-link" to="/notes">
+                <Link onClick={closeSideMenu} className="menu-link" to="/notes">
                     <i className="icon-feather"></i>Notes
                 </Link>
-                <Link onClick={closeSideMenu} id="menu-link" to="/blog">
+                <Link onClick={closeSideMenu} className="menu-link" to="/blog">
                     <i className="icon-feather"></i>Blog
                 </Link>
             </div>

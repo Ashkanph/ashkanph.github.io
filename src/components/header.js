@@ -47,6 +47,10 @@ const HeaderEl =
         .menu-icon {
             font-size: 30px;
             margin: 0 .7rem 0 1rem;
+
+            .icon-bars:focus {
+                outline: none;
+            }
         }
 
         .page-title {
@@ -67,7 +71,7 @@ const Header = props => {
 
     return (
         <HeaderEl>
-            <div className="cursor-pointer menu-icon" id="menu-icon" onClick={onMenuClick} onKeyDown={onMenuClick} role="button" tabIndex={0}>
+            <div className="cursor-pointer menu-icon no-focus-active-outline" id="menu-icon" onClick={onMenuClick} onKeyDown={onMenuClick} role="button" tabIndex={0}>
                 <i className="icon-bars" id="icon-bars" />
             </div>
             <span className="page-title text-truncate">{ title }</span>

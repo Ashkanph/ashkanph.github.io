@@ -2,7 +2,6 @@ import * as React from "react";
 import styled from 'styled-components';
 
 import { latToPerNumbers } from "../helper/numbers";
-import Triangle from "./icons/triangle";
 
 const BookDescriptionEl = 
     styled.div`
@@ -19,7 +18,10 @@ const BookDescriptionEl =
             }
 
             .title-item {
-                margin-bottom: 5px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                line-height: 26px;
 
                 &:last-child {
                     margin-bottom: 20px;
@@ -72,9 +74,7 @@ const BookDescriptions = props => {
                             </bdi>
                         </strong>
                         &nbsp;&nbsp;
-                        <a href="#desc" className="return-to-top" title="برگشت به بالای صفحه">
-                            <Triangle />
-                        </a>
+                        <a className="circled-triangle" href="#desc" title="برگشت به بالای صفحه" aria-hidden="true" />
                     </div>
                     <div className="title-item">
                         تاریخ اولین چاپ:&nbsp;

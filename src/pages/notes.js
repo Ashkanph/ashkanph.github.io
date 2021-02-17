@@ -25,6 +25,17 @@ const NotesEl =
             text-align: center;
         }
 
+        .note-title {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 26px;
+            padding-top: 3.8rem;
+            padding-bottom: 12px;
+            font-size: 18px;
+            font-weight: 700;
+        }
+
         .ref {
             text-align: center !important;
             letter-spacing: 2px;
@@ -121,7 +132,7 @@ export default function Notes({
             anchorTitle: `note-${index}`,
         });
 
-        html = html.replace(match[0], `<h3 id="note-${index++}">${match[1]}<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382.365 382.365" enableBackground="new 0 0 382.365 382.365" height="13px" width="13px"><g><path d="m378.248,312.399l-162.38-271.915c-5.239-8.774-14.468-14.011-24.686-14.011s-19.446,5.237-24.685,14.011l-162.379,271.915c-5.375,8.999-5.494,19.815-0.32,28.932s14.522,14.561 25.005,14.561h324.76c10.482,0 19.831-5.443 25.005-14.561 5.174-9.116 5.054-19.932-0.32-28.932z"/></g></svg></a></h3>`);
+        html = html.replace(match[0], `<div class="note-title" id="note-${index++}">${match[1]}<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>`);
     }
 
     return (
@@ -131,13 +142,7 @@ export default function Notes({
                     isBlogPost={false} />
                 <div id="notes-desc">کتاب‌هایی خوانده‌ام و یادداشت‌هایی از آنها نگاه داشته‌ام. جملات زیر، برخی از آن یادداشت‌هاست. مطالب جدیدتر را هربار به بالای صفحه اضافه می‌کنم.</div>
                 <ListOfTitles title="فهرست یادداشت‌ها" list={titles} />
-                <div className="blog-post-container">
-                    <div className="blog-post">
-                        <div
-                            className="blog-post-content"
-                            dangerouslySetInnerHTML={{ __html: html }}/>
-                    </div>
-                </div>
+                <div dangerouslySetInnerHTML={{ __html: html }}/>
             </NotesEl>
         </BaseLayout>
     )
@@ -157,14 +162,14 @@ export const query = graphql`
                 }
             }
         ) {
-        edges {
-            node {
-                id
-                childMarkdownRemark {
-                    html
+            edges {
+                node {
+                    id
+                    childMarkdownRemark {
+                        html
+                    }
                 }
             }
-        }
         }
     }
 `;

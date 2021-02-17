@@ -19,9 +19,12 @@ const initialState = {
 function reducer(state, action) {
   switch (action.type) {
     case "changeTheme":
-      return { ...state, theme: action.data }
+        if(typeof window !== "undefined") {
+            localStorage.setItem("theme", action.data);
+        }
+        return { ...state, theme: action.data }
     default:
-      return state
+        return state
   }
 }
 

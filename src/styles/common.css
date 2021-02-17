@@ -1,3 +1,61 @@
+
+
+/* Bootstrap 4.5.1 */
+
+/*------------- Text classes -----------*/
+
+.text-justify {
+    text-align: justify !important;
+}
+
+.text-wrap {
+    white-space: normal !important;
+}
+
+.text-nowrap {
+    white-space: nowrap !important;
+}
+
+.text-truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-lowercase {
+    text-transform: lowercase !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.text-capitalize {
+    text-transform: capitalize !important;
+}
+
+.text-decoration-none {
+    text-decoration: none !important;
+}
+
+.text-break {
+    word-wrap: break-word !important;
+}
+
+/* ------ */
+
 .position-fixed {
     position: fixed;
 }
@@ -46,7 +104,7 @@
     font-weight: bold;
 }
 
-/* ------------- */
+/* -------------------------- */
 
 .display-flex-center {
     display: flex;

@@ -2,9 +2,9 @@ import React from "react";
 
 import StateProvider from "./src/store/index";
 
+import "./src/styles/global.css";
 import "./src/styles/myIconFont.css";
 import "./src/styles/common.css";
-import "./src/styles/bootstrap4.5.1.css";
 
 // // Wraps every page in a component
 // export const wrapPageElement = ({ element, props }) => 
@@ -17,3 +17,9 @@ export const wrapRootElement = ({ element }) => {
                 { element }
             </StateProvider>
 };
+
+export const onInitialClientRender = () => {
+    setTimeout(function() {
+        document.getElementById("___loader").style.display = "none"
+    }, 1000)
+}

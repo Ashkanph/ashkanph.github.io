@@ -4,7 +4,7 @@ import styled from "styled-components";
 import Header from "../header";
 import SideMenu from "../sideMenu";
 import { StateContext } from "../../store/index";
-import GlobalStyle from "./globalStyle";
+// import GlobalStyle from "./globalStyle";
 
 const BaseLayoutEl =
     styled.div`
@@ -34,7 +34,7 @@ const BaseLayout = props => {
 
     return (
         <BaseLayoutEl className={state?.theme}>
-            <GlobalStyle />
+            {/* <GlobalStyle /> */}
             {
                 !!indexPage ?
                     children :

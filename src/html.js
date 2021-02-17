@@ -4,6 +4,7 @@ import { Helmet } from 'react-helmet';
 
 import MyIconFont from "./static/fonts/myIconFont.woff"
 import Sahel from "./static/fonts/sahel.woff"
+import LoaderSVG from "./images/loading.svg"
 
 export default function HTML(props) {
   return (
@@ -31,6 +32,28 @@ export default function HTML(props) {
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
+        <div
+              key={`loader`}
+              id="___loader"
+              style={{
+                alignItems: "center",
+                backgroundColor: "#F2F2F2",
+                display: "flex",
+                justifyContent: "center",
+                position: "absolute",
+                left: 0,
+                top: 0,
+                right: 0,
+                bottom: 0,
+                zIndex: 1,
+              }}>
+           <img 
+             src={LoaderSVG} 
+             alt="Loading spinner" 
+             width="150" 
+             height="150"
+           />
+        </div>
         <div
           key={`body`}
           id="___gatsby"

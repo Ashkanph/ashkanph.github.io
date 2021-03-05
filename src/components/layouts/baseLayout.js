@@ -33,7 +33,7 @@ const BaseLayout = props => {
     const state = useContext(StateContext);
 
     return (
-        <BaseLayoutEl className={state?.theme}>
+        <BaseLayoutEl className={state?.theme ?? "light"}>
             {/* <GlobalStyle /> */}
             {
                 !!indexPage ?

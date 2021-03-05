@@ -84,7 +84,19 @@ module.exports = {
             options: {
                 name: "Ashkan P. Webpage",
                 short_name: "Ashkanph web",
-                icon: "src/images/icon.jpg",
+                icon: "src/images/icon.jpg",  
+                icons: [
+                    {
+                      src: `src/images/icon.jpg`,
+                      sizes: `192x192`,
+                      type: `image/jpg`,
+                    },
+                    {
+                      src: `src/images/icon.jpg`,
+                      sizes: `512x512`,
+                      type: `image/jpg`,
+                    },
+                ],
                 cache_busting_mode: 'none',  
                 theme_color: "#423c3c",
                 background_color: "#f4f4f1",

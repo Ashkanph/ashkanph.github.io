@@ -1,7 +1,7 @@
 
 import React from "react";
-import { graphql } from "gatsby";
 import styled from 'styled-components';
+import { useStaticQuery, graphql } from "gatsby";
 
 import ListOfTitles from "../components/listOfTitles";
 import Seo from '../components/seo/seo';
@@ -112,9 +112,33 @@ const NotesEl =
         }
     `;
 
-export default function Notes({
-  data,
-}) {
+export default function Notes() {
+    const data = useStaticQuery(graphql`
+        query NotesQuery {
+            allFile(
+                filter: {
+                    internal: {
+                        mediaType: {
+                            eq: "text/markdown"
+                        }
+                    }, 
+                    name: {
+                        eq: "notes"
+                    }
+                }
+            ) {
+                edges {
+                    node {
+                        id
+                        childMarkdownRemark {
+                            html
+                        }
+                    }
+                }
+            }
+        }
+    `);
+
     let html = data?.allFile?.edges[0]?.node?.childMarkdownRemark?.html ?? "";
     var match, regex = /<h3>(.*?)<\/h3>/ig;
     let titles = [], index = 1;
@@ -147,29 +171,3 @@ export default function Notes({
         </BaseLayout>
     )
 }
-
-export const query = graphql`
-    query NotesQuery {
-        allFile(
-            filter: {
-                internal: {
-                    mediaType: {
-                        eq: "text/markdown"
-                    }
-                }, 
-                name: {
-                    eq: "notes"
-                }
-            }
-        ) {
-            edges {
-                node {
-                    id
-                    childMarkdownRemark {
-                        html
-                    }
-                }
-            }
-        }
-    }
-`;

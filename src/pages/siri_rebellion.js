@@ -1,7 +1,7 @@
 
 import React from "react";
-import { graphql } from "gatsby";
 import styled from 'styled-components';
+import { useStaticQuery, graphql } from "gatsby";
 
 import Seo from '../components/seo/seo';
 import BaseLayout from '../components/layouts/baseLayout';
@@ -24,9 +24,32 @@ const SiriEl =
     `;
 
 
-export default function SiriRebellion({
-  data,
-}) {
+export default function SiriRebellion() {
+    const data = useStaticQuery(graphql`
+        query SiriQuery {
+            allFile(
+                filter: {
+                    internal: {
+                        mediaType: {
+                            eq: "text/markdown"
+                        }
+                    }, 
+                    name: {
+                        eq: "siri_rebellion"
+                    }
+                }
+            ) {
+                edges {
+                    node {
+                        id
+                        childMarkdownRemark {
+                            html
+                        }
+                    }
+                }
+            }
+        }
+    `);
     let html = data?.allFile?.edges[0]?.node?.childMarkdownRemark?.html ?? "";
 
     const pageMeta = {
@@ -48,29 +71,3 @@ export default function SiriRebellion({
         </BaseLayout>
     )
 }
-
-export const query = graphql`
-    query SiriQuery {
-        allFile(
-            filter: {
-                internal: {
-                    mediaType: {
-                        eq: "text/markdown"
-                    }
-                }, 
-                name: {
-                    eq: "siri_rebellion"
-                }
-            }
-        ) {
-            edges {
-                node {
-                    id
-                    childMarkdownRemark {
-                        html
-                    }
-                }
-            }
-        }
-    }
-`;

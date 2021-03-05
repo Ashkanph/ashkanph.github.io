@@ -54,7 +54,7 @@ const SideMenuEl =
                     font-size: 18px;
                 }
 
-                &:active, &:focus, &:hover{
+                &.active-menu, &:active, &:focus, &:hover {
                     background-color: #423c3c;
                     text-shadow: none;
                 }
@@ -84,16 +84,16 @@ const SideMenu = props => {
                 <i className="icon-bars"></i>
             </span>
             <div className="dropdown-content" id="top-vertical-menu">
-                <Link onClick={closeSideMenu} className="menu-link" to="/skills">
+                <Link activeClassName="active-menu" onClick={closeSideMenu} className="menu-link" to="/skills">
                     <i className="icon-check-square"></i>Skills
                 </Link>
-                <Link onClick={closeSideMenu} className="menu-link" to="/book-recommendation">
+                <Link activeClassName="active-menu" onClick={closeSideMenu} className="menu-link" to="/book-recommendation">
                     <i className="icon-book"></i>Book recommendation
                 </Link>
-                <Link onClick={closeSideMenu} className="menu-link" to="/notes">
+                <Link activeClassName="active-menu" onClick={closeSideMenu} className="menu-link" to="/notes">
                     <i className="icon-feather"></i>Notes
                 </Link>
-                <Link onClick={closeSideMenu} className="menu-link" to="/blog">
+                <Link activeClassName="active-menu" onClick={closeSideMenu} className="menu-link" to="/blog">
                     <i className="icon-feather"></i>Blog
                 </Link>
             </div>

@@ -2,7 +2,7 @@
 
 ---
 
-### ‌Brains
+### Brains
 <p class="english tr">
 "Brains are survival engines, not truth detectors. if self-deception promotes fitness, the brain lies. Stops noticing irrelevant things. Truth never matters. Only fitness. By now you don't experience the world as it exists at all. You experience a simulation built from assumptions. Shortcuts. Lies, Whole species is agnosiac by default. Rorschach does nothing to you that you don't already do to yourselves." 
 </p>
@@ -18,34 +18,6 @@ From the second chapter: Rorschach
 ```پی‌نوشت:``` سفینه‌ای با پنج نفر خدمه از حوزه‌های مختلف دانش، برای اولین‌بار در تاریخ بشر با سفینه‌ای متعلق به بیگانگان روبه‌رو شده‌است. پس از چند بار ورود به سفینه بیگانگان، که آنرا روشاخ می‌نامند، متوجه می‌شوند که روشاخ در حال بازی با افکار و احساسات آنهاست و کاری با آنها کرده که در محدوده‌اش فرق واقعیت با توهم را متوجه نشوند. خدمه ترسیده‌اند و پیشنهاد عقب نشینی و دوری از آن‌را می‌دهند. جمله بالا بخشی از سخنانی است که فرمانده سفینه برای ترغیب آنها به ادامه ماموریت بر زبان می‌آورد.
 
 ---
-### جنبش‌های بی‌پایان
-<div class="two-column" style="max-width: 600px;">
-<p class="english tr">
-We are creatures born of heat and pressure and grinding, ceaseless movement. To be still is to be... not alive.
-</p>
-<p class="persian tr">
-ما زادگان گرما و فشار و جنبش‌های بی‌پایان فرسایشیم. آرام بودن... فرقی با مردن ندارد.
-</p>
-</div>
-
-<p class="english ref">
-The fifth season
-<br/>
-N. K. Jemisin
-<br/>
-From the interlude between chapter 19 and 20
-<br/>
-فصل پنجم
-<br/>
-برگردان فارسی از مطهره اسلامی
-<br/>
-از میان‌پرده بین فصل ۱۹ و ۲۰
-</p>
-
-```پی‌نوشت:``` این متن، یک استعاره نیست. انسانی که این سخن را گفته در اصل در این کتاب فانتزیِ زیبا، متعلق به رسته‌ای از انسان‌هاست که آنها را فرزندان زمین (اوروگِن) می‌نامند و توانایی کنترل قدرت‌های زمین را دارند؛ ولی خب، در دنیای واقعی هم ما همین‌طوریم. ما زادگان هزاران نسل فرگشت و انتخاب طبیعی و فشارهای طبیعتیم که چنین چیزی از ما ساخته.
-
----
-
 ### ابراهیم
 
 <div class="two-column" style="max-width: 700px;">
@@ -2122,3 +2094,5 @@ aêvô pañtå ýô ashahe vîspe anyaêshãm apañtãm angrahe mainyêush nasis
 از غزل صفحه ۶۷۵<br/>
 به کوشش دکتر ضیاالدین سجادی، چاپ ششم ۱۳۷۸، انتشارات زوار
 </p>
+
+---

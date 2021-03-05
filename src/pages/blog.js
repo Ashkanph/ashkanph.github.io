@@ -1,6 +1,6 @@
 import React from "react";
-import { graphql, Link } from "gatsby";
 import styled from 'styled-components';
+import { useStaticQuery, graphql, Link } from "gatsby";
 
 import Seo from '../components/seo/seo';
 import BaseLayout from '../components/layouts/baseLayout';
@@ -21,7 +21,7 @@ const BlogEl =
                 .title {
                     display: inline-block;
                 }
-    
+
                 .date {
                     display: inline-block;
                     color: var(--ref-color);
@@ -53,9 +53,29 @@ const allCategoriesTags = blogPosts => {
     };
 };
 
-export default function Blog({
-  data,
-}) {
+export default function Blog() {
+    const data = useStaticQuery(graphql`
+        query blogPage {
+            allMarkdownRemark(
+                sort: { order: DESC, fields: [frontmatter___date] }
+                limit: 1000
+                filter: {frontmatter: {slug: {ne: null}}}
+            ) {
+                edges {
+                    node {
+                        frontmatter {
+                            slug
+                            categories
+                            tags
+                            title
+                            date
+                            jdate
+                        }
+                    }
+                }
+            }
+        }
+    `);
     let blogPosts = data?.allMarkdownRemark?.edges ?? [];
     blogPosts = blogPosts.map(
         item => item?.node?.frontmatter ?? item
@@ -91,26 +111,3 @@ export default function Blog({
         </BaseLayout>
     )
 }
-  
-export const query = graphql`
-    query blogPage {
-        allMarkdownRemark(
-            sort: { order: DESC, fields: [frontmatter___date] }
-            limit: 1000
-            filter: {frontmatter: {slug: {ne: null}}}
-        ) {
-            edges {
-                node {
-                    frontmatter {
-                        slug
-                        categories
-                        tags
-                        title
-                        date
-                        jdate
-                    }
-                }
-            }
-        }
-    }
-`;

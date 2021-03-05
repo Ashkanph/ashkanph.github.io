@@ -36,7 +36,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     }
     
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-        if(node?.frontmatter?.slug) {   // Don't create the page when there is no slug in the md file
+        if(node.frontmatter.slug != null) {   // Don't create the page when there is no slug in the md file
             createPage({
                 path: node.frontmatter.slug,
                 component: blogPostTemplate,

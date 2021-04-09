@@ -29,6 +29,7 @@ export default function HTML(props) {
                     crossOrigin="anonymous" />
         </Helmet>
         {props.headComponents}
+        <meta name="google-site-verification" content="yWuSnI_Zanp7aNLPGGuU7kgjcs39wqyb-Hzw13eqkBE" />
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}

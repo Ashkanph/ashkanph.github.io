@@ -145,9 +145,9 @@ const IndexPage = () => {
                     <a target="_blank" rel="noreferrer" href="mailto:ashkanpaleganeh@gmail.com?Subject=HiFromYourWebsite" title="My Email">
                         <i className="icon-email" />
                     </a>
-                    <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/User:Ashkan_P." title="My Wikipedia profile">
+                    {/* <a target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/User:Ashkan_P." title="My Wikipedia profile">
                         <i className="icon-wp" />
-                    </a>
+                    </a> */}
                     <a target="_blank" rel="noreferrer" href="https://www.goodreads.com/Ashkanph" title="My Goodreads profile">
                         <i className="icon-gr" />
                     </a>

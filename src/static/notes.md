@@ -421,8 +421,7 @@ From chapter 12
 ### unloved
 
 <p class="english tr">
-The ancient Skoptsy sect of White Russia, believing that sex was the root of all evil, practiced an atrocious self-castration to extirpate the root. The modern Skoptsys, believing that sensation was the root of all evil, practiced an even more barbaric custom. Having entered the Skoptsy Colony and paid a fortune for the privilege, the initiates submitted joyously to an operation that severed the sensory nervous system, and lived out their days without sight, sound, speech, smell, taste, or touch.
-
+The ancient Skoptsy sect of White Russia, believing that sex was the root of all evil, practiced an atrocious self-castration to extirpate the root. The modern Skoptsys, believing that sensation was the root of all evil, practiced an even more barbaric custom. Having entered the Skoptsy Colony and paid a fortune for the privilege, the initiates submitted joyously to an operation that severed the sensory nervous system, and lived out their days without sight, sound, speech, smell, taste, or touch.<br/><br/>
 When they first entered the monastery, the initiates were shown elegant ivory cells in which it was intimated they would spend the remainder of their lives in rapt contemplation, lovingly tended. In actuality, the senseless creatures were packed in catacombs where they sat on rough stone slabs and were fed and exercised once a day. For twenty-three out of twenty-four hours they sat alone in the dark, untended, unguarded, unloved.
 </p>
 
@@ -434,7 +433,7 @@ When they first entered the monastery, the initiates were shown elegant ivory ce
 From chapter 13
 </p>
 
-```پی‌نوشت:``` این چند پاراگراف از فصل سیزدهم این کتاب علمی‌تخیلی است. قهرمان داستان داخل این دخمه‌ها رفته تا شخصی را که به این فرقه گرویده پیدا کند و از او پرسش‌هایی کند.  
+```پی‌نوشت:``` این چند پاراگراف از فصل سیزدهم این کتاب علمی‌تخیلی است. قهرمان داستان داخل این دخمه‌ها رفته تا شخصی را که به این فرقه گرویده پیدا کند و از او پرسش‌هایی کند؛ البته برای صحبت با چنین شخصی باید تمهیدات خاصی اندیشید.
 
 ---
 
@@ -2094,5 +2093,3 @@ aêvô pañtå ýô ashahe vîspe anyaêshãm apañtãm angrahe mainyêush nasis
 از غزل صفحه ۶۷۵<br/>
 به کوشش دکتر ضیاالدین سجادی، چاپ ششم ۱۳۷۸، انتشارات زوار
 </p>
-
----

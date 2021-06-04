@@ -38,7 +38,7 @@ const BookDescriptionEl =
 
         .book-cover{
             float:right; 
-            margin:15px;
+            margin: 22px 15px 15px;
             max-height: 230px;
         }
 

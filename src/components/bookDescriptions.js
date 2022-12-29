@@ -69,7 +69,7 @@ export default function BookDescriptions () {
     const titles = books.map(
         book => ({
             anchorTitle: book.oname,
-            title: book.pname
+            title: book.pname || book.oname
         })
     );
 
@@ -89,7 +89,10 @@ export default function BookDescriptions () {
                                 <strong>
                                     { book.pname }&nbsp;
                                     <bdi>
-                                        ({book.oname})
+                                        {
+                                          book.pname ?  
+                                            `(${book.oname})` : book.oname
+                                        }
                                     </bdi>
                                 </strong>
                             </div>

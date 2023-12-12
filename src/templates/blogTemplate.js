@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import styled from 'styled-components';
+import { Helmet } from 'react-helmet';
 
 import Seo from '../components/seo/seo';
 import BaseLayout from '../components/layouts/baseLayout';
@@ -49,6 +50,9 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
         <BaseLayout>
+            <Helmet>
+                <meta name="robots" content="noindex,nofollow" />
+            </Helmet>
             <TemplateEl dir={frontmatter.dir}>
                 <Seo frontmatter={frontmatter}
                     isBlogPost={false} />

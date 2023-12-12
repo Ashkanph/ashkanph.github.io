@@ -188,7 +188,7 @@ From the first book
 
 
 <div class="english">
-<code>P.S.</code> That way even though a warrior suffers like a dog on the insisde, his pain will never show on the outside. In other words his outward appearance should show attentiveness and taste, but at the same time he must be frugal and "dogged" in his heart.
+<code>P.S.</code> That way even though a warrior suffers like a dog on the inside, his pain will never show on the outside. In other words his outward appearance should show attentiveness and taste, but at the same time he must be frugal and "dogged" in his heart.
 </div>
 
 ---

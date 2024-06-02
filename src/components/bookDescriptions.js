@@ -106,6 +106,17 @@ export default function BookDescriptions () {
                                 &nbsp;&nbsp;
                                 <a className="circled-triangle" href="#desc" title="برگشت به بالای صفحه" aria-hidden="true" />
                             </div>
+                            {
+                                book.pages && 
+                                    <div className="title-item">
+                                        تعداد صفحات:&nbsp;
+                                        <strong>
+                                            <bdi>
+                                                {latToPerNumbers(book.pages)}
+                                            </bdi>
+                                        </strong>
+                                    </div>
+                            }
                             <div className="title-item">
                                 تاریخ اولین چاپ:&nbsp;
                                 <strong>

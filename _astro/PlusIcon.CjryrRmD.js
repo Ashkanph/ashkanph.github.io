@@ -1,0 +1,1 @@
+import{j as p}from"./jsx-runtime.D_zvdyIk.js";/* empty css                                     */const e=s=>{const{className:o,open:n}=s;return p.jsx("span",{className:`plus-icon ${o} ${n?"open":""}`})};export{e as P};

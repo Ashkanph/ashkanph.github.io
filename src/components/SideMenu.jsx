@@ -27,9 +27,6 @@ const SideMenu = props => {
                 <a onClick={closeSideMenu} className="menu-link" href="/skills">
                     <i className="icon-check-square"></i>Skills
                 </a>
-                <a onClick={closeSideMenu} className="menu-link" href="/blog/book-recommendation">
-                    <i className="icon-book"></i>پیشنهاد کتاب
-                </a>
                 <a onClick={closeSideMenu} className="menu-link" href="/blog">
                     <i className="icon-feather"></i>نوشته‌ها
                 </a>

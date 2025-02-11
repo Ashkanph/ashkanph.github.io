@@ -1,0 +1,35 @@
+---
+import skills from "../content/skills";
+import SkillItem from "../components/SkillItem";
+import BaseLayout from '../layouts/baseLayout.astro';
+const skillsKeys = Object.keys(skills);
+---
+<BaseLayout title="My skills" description="My skills">
+    <div class="error-wrapper">
+        <title>Not found</title>
+        <h1 class="error-heading">404: Page not found</h1>
+        <p class="error-p">
+            Sorry, I can not find the page you want.
+        </p>
+    </div>
+</BaseLayout>
+
+<style>
+.error-wrapper {
+  color: #232129;
+  padding: 96px;
+  font-family: -apple-system, Roboto, sans-serif, serif;
+}
+
+.error-heading {
+  margin-top: 0;
+  margin-bottom: 64px;
+  max-width: 320px;
+  color: var(--font-color);
+}
+
+.error-p {
+  margin-bottom: 48px;
+  color: var(--font-color);
+}
+</style>

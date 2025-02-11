@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../../layouts/baseLayout.astro';
+import BookDescription from '../../components/BookDescription.astro';
+
+const title = "پیشنهاد کتاب",
+      description = "خلاصه و پیشنهاد چندین کتاب که بیشتر در ژانر علمی تخیلی هستند",
+      tags = "یادداشت,کتاب,علمی تخیلی,پیشنهاد,خلاصه,رمان,برترین کتاب های علمی تخیلی";
+---
+<BaseLayout title={title} description={description} tags={tags}>
+	<main>
+		<div class="book-recommendation">
+			<div id="desc">به مرور کتاب‌های بیشتری را در این صفحه معرفی می‌کنم (کتاب‌های جدید را به آخر لیست اضافه می‌کنم).</div>
+			<BookDescription />
+		</div>
+	</main>
+</BaseLayout>
+
+<style>
+	.book-recommendation {
+		direction: rtl;
+        color: var(--font-color);
+        padding-bottom: 100px;
+
+        #desc {
+            padding-top: 30px;
+        }
+	}
+</style>

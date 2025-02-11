@@ -1,0 +1,16 @@
+---
+import skills from "../content/skills";
+import SkillItem from "../components/SkillItem";
+import BaseLayout from '../layouts/baseLayout.astro';
+const skillsKeys = Object.keys(skills);
+---
+<BaseLayout title="My skills" description="My skills">
+    <div class="non-selectable">
+        {
+            skillsKeys.map(
+                (item, _index) => 
+                    <SkillItem skillTitle={item} item={skills[item]} client:load="true" />
+            )
+        }
+    </div>
+</BaseLayout>

@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../layouts/baseLayout.astro';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+<BaseLayout>
+	<main>
+		<ul class="list">
+			<li>
+				<a href={`/blog/book-recommendation/`}>
+					<h4 class="title">پیشنهاد کتاب</h4>
+				</a>
+			</li>
+		{
+			posts.map((post) => (
+				<li>
+					<a href={`/blog/${post.id}/`}>
+						<h4 class="title">{post.data.title}</h4>
+						<p class="date">
+							<FormattedDate date={post.data.pubDate} />
+						</p>
+					</a>
+				</li>
+			))
+		}
+			<li>
+				<a href={`/blog/notes`}>
+					<h4 class="title">یادداشت‌هایی از کتاب‌ها</h4>
+				</a>
+			</li>
+		</ul>
+	</main>
+</BaseLayout>
+
+<style>
+	.list {
+		direction: rtl;
+
+		a {
+			color: var(--list-color);
+		}
+	}
+</style>

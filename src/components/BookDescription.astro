@@ -1,0 +1,126 @@
+---
+import type { ImageMetadata } from 'astro';
+import { Image } from 'astro:assets';
+
+import { latToPerNumbers } from "../helper/numbers";
+import books from "../content/books";
+import ListOfTitles from "./ListOfTitles";
+
+// https://docs.astro.build/en/recipes/dynamically-importing-images/
+const bookImages = import.meta.glob<{ default: ImageMetadata }>('/src/images/books/*.{jpeg,jpg,png,gif}');
+
+const titles = books.map(
+        book => ({
+            anchorTitle: book.oname || book.pname,
+            title: book.pname || book.oname
+        })
+    );
+---
+<ListOfTitles className="long" title="فهرست کتاب‌ها" list={titles} client:load="true" />
+{
+	books.map(
+		(book, index) => (
+			<div class="book-description">
+				{ index !== 0 && <hr /> }
+				<div class="book-title" id={book.oname || book.pname}>
+					<div class="title-item">
+						{ latToPerNumbers(index + 1) }.&nbsp;
+						<strong>
+							{ book.pname }
+							<bdi>
+								{
+									book.pname ?  
+									book.oname ? ` ( ${book.oname} )` 
+									: "" : book.oname
+								}
+							</bdi>
+						</strong>
+					</div>
+					<div class="title-item">
+						نویسنده:&nbsp;
+						<strong>
+							<bdi>
+								{book.creator}
+							</bdi>
+						</strong>
+						&nbsp;&nbsp;
+						<a class="circled-triangle" href="#desc" title="برگشت به بالای صفحه" aria-hidden="true"></a>
+					</div>
+					{
+						book.pages && 
+							<div class="title-item">
+								تعداد صفحات:&nbsp;
+								<strong>
+									<bdi>
+										{latToPerNumbers(book.pages)}
+									</bdi>
+								</strong>
+							</div>
+					}
+					<div class="title-item">
+						تاریخ اولین چاپ:&nbsp;
+						<strong>
+							<bdi>
+								{latToPerNumbers(book.year.toString())}
+							</bdi>
+						</strong>
+					</div>
+				</div>
+				{
+					<Image class="book-cover" src={bookImages[`/src/images/books/${book.imageAddress}`]()} alt={book.oname || book.pname} loading="lazy" />
+				}
+				<p set:html={book.description} />
+			</div>
+		)
+	)
+}
+
+<style>
+	.book-description {
+		hr {
+			margin: 50px 80px 40px;
+		}
+
+		.book-title {
+			text-align: center;
+			padding-top: 60px;
+
+			&:first-child {
+				margin-top: 50px;
+			}
+
+			.title-item {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				line-height: 26px;
+
+				&:last-child {
+					margin-bottom: 20px;
+				}
+			}
+
+			.return-to-top {
+				display: inline-block;
+			}
+		}
+
+		.book-cover{
+			float:right; 
+			margin: 22px 0 15px 15px;
+			max-height: 230px;
+			width: auto;
+		}
+
+		p{
+			padding-top:15px; 
+			padding-bottom:15px; 
+			text-align:justify;
+			line-height:1.6rem;
+
+			a {
+				color: var(--list-color);
+			}
+		}
+	}
+</style>

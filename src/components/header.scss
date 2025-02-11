@@ -1,0 +1,52 @@
+header {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    background-color: var(--header-bg);
+    height: var(--header-height);
+    width: 100%;
+    max-width: 1024px;
+    z-index: 3;
+
+    @media print {
+        display: none;
+    }
+
+    * {
+        color: #dbd7d7;
+    }
+
+    .right-side {
+        display: flex;
+        flex: 1 1 0%;
+        justify-content: flex-end;
+        align-items: center;
+
+        .home {
+            text-decoration: none;
+            font-size: 33px;
+            margin-right: 1rem;
+        }
+
+        .moon, .sun {
+            width: 25px;
+            height: 25px;
+            margin: 0 1rem;
+            fill:  #dbd7d7;
+        }
+    }
+
+    .menu-icon {
+        font-size: 30px;
+        margin: 0 .7rem 0 1rem;
+    
+        .icon-bars:focus {
+            outline: none;
+        }
+    }
+
+    .page-title {
+        font-size: 23px;
+        line-height: 25px;
+    }
+}

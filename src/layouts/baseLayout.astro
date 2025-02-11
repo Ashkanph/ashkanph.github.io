@@ -1,0 +1,66 @@
+---
+import BaseHead from '../components/BaseHead';
+import HeaderSideMenu from '../components/HeaderSideMenu';
+
+import { getTitle } from "../helper/getTitle";
+
+// import './base-layout.scss';
+
+interface Props {
+	isHomePage?: Boolean;
+	title?: string,
+    description?: string,
+    tags?: string,
+}
+
+const { isHomePage = false,
+		title = getTitle(Astro.url.pathname),
+		description = "My personal web page",
+		tags = null,
+ } = Astro.props;
+---
+<html>
+	<head>
+		<BaseHead title={title} description={description} tags={tags} url={Astro.url} />
+	</head>
+	<body>
+		<div class="wrapper">
+			{
+			!!isHomePage ?
+			<slot /> :
+			<div class="limited-width">
+				<HeaderSideMenu title={title} client:load="true" /> 
+				<main>
+					<slot />
+				</main>
+			</div>
+			}
+		</div>
+		<script>
+			const body = document.getElementsByTagName("body")[0];
+			body.classList.add(window?.localStorage.getItem("theme") ?? "light");
+		</script>
+	</body>
+</html>
+
+<style>
+.wrapper {
+	width: 100%;
+	min-height: 100vh;
+	height: 100%;
+	background-color: var(--background-color);
+}
+
+.limited-width {
+	min-height: 100vh;
+	margin: 0 auto;
+	border-right: 1px solid var(--header-bg);
+	border-left: 1px solid var(--header-bg);
+	max-width: 1024px;
+	width: 100%;
+
+	main {
+		padding: calc(var(--header-height) + 1rem) 1rem 1rem;
+	}
+}
+</style>

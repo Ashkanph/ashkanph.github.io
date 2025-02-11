@@ -1,0 +1,175 @@
+---
+import BaseLayout from '../layouts/baseLayout.astro';
+---
+
+<BaseLayout isHomePage={true}>
+	<main>
+		<div class="main-image">
+			<picture>
+				<source srcset="https://user-images.githubusercontent.com/22937754/31787999-381baef4-b51a-11e7-9ddc-e11976dbae7c.jpg" media="screen and (max-width: 450px)" />
+				<source srcset="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg" media="screen and (max-width: 1281px)" />
+				<source srcset="https://user-images.githubusercontent.com/22937754/31788055-6baa5f54-b51a-11e7-9bf3-4a9652d05055.jpg" media="screen and (min-width: 1282px)" />
+				<img src="https://user-images.githubusercontent.com/22937754/31788032-59a4b610-b51a-11e7-9c28-a2a96f007df7.jpg" alt="portrait"/>
+			</picture>
+		</div>
+		<div class="name text-bold">Ashkan Ph.</div>
+		<div class="job-title">Web developer</div>
+		<div class="social-icons">
+			<a target="_blank" rel='nofollow noopener noreferrer' href="https://www.github.com/Ashkanph" title="Github">
+				<i class="icon-gh" />
+			</a>
+			<a target="_blank" rel='nofollow noopener noreferrer' href="https://ir.linkedin.com/in/ashkan-paleganeh" title="Linkedin">
+				<i class="icon-in" />
+			</a>
+			<a target="_blank" rel='nofollow noopener noreferrer' href="https://stackoverflow.com/users/7338291/ashkan" title="Stackoverflow">
+				<i class="icon-so" />
+			</a>
+			<a target="_blank" rel='nofollow noopener noreferrer' href="mailto:ashkanpaleganeh@gmail.com?Subject=HiFromYourWebsite" title="My Email">
+				<i class="icon-email" />
+			</a>
+			<a target="_blank" rel="noreferrer noopener noreferrer" href="https://www.goodreads.com/Ashkanph" title="Goodreads">
+				<i class="icon-gr" />
+			</a>
+		</div>
+		<div class="pages">
+			<a href="/skills">Skills</a>
+			<a href="/blog/">بلاگ</a>
+		</div>
+	</main>
+</BaseLayout>
+
+<style>
+	main {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		min-height: inherit;
+		width: 100%;
+		background-color: var(--background-color);
+		color: var(--font-color);
+	}
+
+	.main-image {
+		position: relative;
+		margin-bottom: 4rem;
+		width: 100%;
+		min-height: 100px;
+		overflow: hidden;
+		display: flex;
+	    justify-content: center;
+
+		picture {
+			position: absolute;
+		}
+
+		img {
+			height: 35vh;
+			border-radius: 100%;
+			/* box-shadow: 0px 0px 7px 2px #36303055; */
+		}
+
+		&:after {
+			content: "";
+			display: block;
+			padding-top: 35vh;
+			width: 100%;
+		}
+
+		@media screen and (max-height: 880px) {
+			img {
+				height: 40vh;
+			}
+
+			&:after {
+				padding-top: 40vh;
+			}
+		}
+
+		@media screen and (max-height: 550px) {
+			img {
+				height: 45vh;
+			}
+
+			&:after {
+				padding-top: 45vh;
+			}
+		}
+	}
+
+	.name {
+		@media screen and (max-height: 880px) {
+			font-size: 25px;
+			margin-bottom: 1rem;
+		}
+
+		@media screen and (min-height: 881px) {
+			font-size: 35px;
+			margin-bottom: 2rem;
+		}
+	}
+
+	.job-title {
+		@media screen and (max-height: 880px) {
+			font-size: 18px;
+			margin-bottom: 2rem;
+		}
+
+		@media screen and (min-height: 881px) {
+			font-size: 22px;
+			margin-bottom: 3rem;
+		}
+	}
+
+	.social-icons {
+		display: flex;
+
+		a {
+			font-size: 26px;
+			color: var(--font-color);
+			border: 1px solid var(--font-color);
+			opacity: 0.65;
+			padding: 5px 8px;
+
+			&:hover {
+				opacity: 1;
+			}
+
+			@media screen and (max-width: 769px) {
+				border-radius: 5px;
+				font-size: 22px;
+				margin: 0 8px;
+				padding: 3px 6px;
+			}
+
+			@media screen and (min-width: 770px) {
+				border-radius: 10px;
+				font-size: 26px;
+				margin: 0 5px;
+			}
+		}
+	}
+	
+	.pages {
+		display: flex;
+		font-size: 16px;
+
+		@media screen and (max-width: 769px) {
+			flex-direction: column;
+			padding-top: 25px;
+		}
+
+		a {
+			color: var(--font-color);
+			margin: 25px 8px;
+			font-size: 18px;
+			text-decoration: underline;
+			
+			@media screen and (max-width: 769px) {
+				font-size: 17px;
+				margin: 7px 0;
+				text-align: center;
+			}
+		}
+	}
+</style>

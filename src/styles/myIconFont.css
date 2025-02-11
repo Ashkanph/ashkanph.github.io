@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "myIconFont";
+  src: url("/fonts/myIconFont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "myIconFont" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "myIconFont" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gr:before {
+  content: "\61";
+}
+.icon-so:before {
+  content: "\62";
+}
+.icon-email:before {
+  content: "\63";
+}
+.icon-in:before {
+  content: "\64";
+}
+.icon-wp:before {
+  content: "\65";
+}
+.icon-gh:before {
+  content: "\66";
+}
+.icon-rss:before {
+  content: "\67";
+}
+.icon-twitter-square:before {
+  content: "\69";
+}
+.icon-instagram:before {
+  content: "\68";
+}
+.icon-calendar:before {
+  content: "\6a";
+}
+.icon-star-o:before {
+  content: "\6b";
+}
+.icon-star:before {
+  content: "\6c";
+}
+.icon-star-half-o:before {
+  content: "\6d";
+}
+.icon-code:before {
+  content: "\6e";
+}
+.icon-tg:before {
+  content: "\6f";
+}
+.icon-check-square:before {
+  content: "\70";
+}
+.icon-check-square-o:before {
+  content: "\71";
+}
+.icon-linux:before {
+  content: "\73";
+}
+.icon-home:before {
+  content: "\75";
+}
+.icon-bars:before {
+  content: "\74";
+}
+.icon-book:before {
+  content: "\76";
+}
+.icon-feather:before {
+  content: "\77";
+}
+.icon-at-sign:before {
+  content: "\78";
+}
+.icon-language:before {
+  content: "\72";
+}

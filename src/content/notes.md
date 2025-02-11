@@ -10,7 +10,7 @@
 <br />
 ابوتراب خسروی
 <br />
-<a href="book-recommendation#اسفار%20کاتبان">درباره این کتاب</a>
+<a href="/blog/book-recommendation#اسفار%20کاتبان">درباره این کتاب</a>
 </p>
 
 <hr />
@@ -254,7 +254,7 @@ Frank Herbert
 <br />
 برگردان فارسی از مهیار فروتن‌فر
 <br />
-<a href="book-recommendation#Dune">درباره این کتاب</a>
+<a href="/blog/book-recommendation#Dune">درباره این کتاب</a>
 </p>
 
 <hr />
@@ -402,7 +402,7 @@ Arkady and Boris Strugatsky
 <br />
 From the last part
 <br />
-<a href="book-recommendation#Roadside%20Picnic">درباره این کتاب</a>
+<a href="/blog/book-recommendation#Roadside%20Picnic">درباره این کتاب</a>
 </p>
 
 ```پی‌نوشت:``` ردریک شوهارت، قهرمان اصلی این کتاب، به گوی آرزوها دست یافته؛ شیئی از بیگانگان در میانه یک منطقه دست‌نیافتنی؛ که با هربار دیدارش می‌توانی یک آرزو یا درخواست از آن داشته باشی تا برآورده شود. و این‌ها واژگانی است که ردریک، خسته و زخمی از مسیر پرخطری که گذرانده بر زبان می‌آورد.
@@ -440,7 +440,7 @@ When they first entered the monastery, the initiates were shown elegant ivory ce
 <br />
 From chapter 13
 <br />
-<a href="book-recommendation#The%20stars%20my%20destination">درباره این کتاب</a>
+<a href="/blog/book-recommendation#The%20stars%20my%20destination">درباره این کتاب</a>
 </p>
 
 ```پی‌نوشت:``` این چند پاراگراف از فصل سیزدهم این کتاب علمی‌تخیلی است. قهرمان داستان داخل این دخمه‌ها رفته تا شخصی را که به این فرقه گرویده پیدا کند و از او پرسش‌هایی کند؛ البته برای صحبت با چنین شخصی باید تمهیدات خاصی اندیشید.

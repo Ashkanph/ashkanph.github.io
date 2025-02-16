@@ -11,9 +11,9 @@ const posts = (await getCollection('blog')).sort(
 	<main>
 		<ul class="list">
 			<li>
-				<a href={`/blog/book-recommendation/`}>
-					<h4 class="title">پیشنهاد کتاب</h4>
-				</a>
+				<h4 class="title">
+					<a href={`/blog/book-recommendation/`}>پیشنهاد کتاب</a>
+				</h4>
 			</li>
 		{
 			posts.map((post) => (
@@ -28,9 +28,9 @@ const posts = (await getCollection('blog')).sort(
 			))
 		}
 			<li>
-				<a href={`/blog/notes`}>
-					<h4 class="title">یادداشت‌هایی از کتاب‌ها</h4>
-				</a>
+				<h4 class="title">
+					<a href={`/blog/notes`}>یادداشت‌هایی از کتاب‌ها</a>
+				</h4>
 			</li>
 		</ul>
 	</main>
@@ -42,6 +42,8 @@ const posts = (await getCollection('blog')).sort(
 
 		a {
 			color: var(--list-color);
+			font-size: 18px;
+			font-weight: normal;
 		}
 	}
 </style>

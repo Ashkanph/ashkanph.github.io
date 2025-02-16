@@ -38,6 +38,13 @@ await html().then(
 </BaseLayout>
 
 <style>
+main.notes-wrapper {
+	@media screen and (max-width: 520px) {
+		padding-right: 6px;
+		padding-left: 6px;
+    }
+}
+
 .notes-wrapper {
 	direction: rtl;
 	counter-reset: hrcounter 1;
@@ -46,6 +53,7 @@ await html().then(
 
 	#notes-desc {
 		padding-top: 30px;
+		font-size: 16px;
 	}
 
 	h3 {
@@ -71,8 +79,8 @@ await html().then(
 		letter-spacing: 2px;
 		color: var(--ref-color);
 		clear: both;
-		font-size: 14px;
-		line-height: 21px;
+		font-size: 15px;
+		line-height: 24px;
 	}
 
 	.english, .french, .other{
@@ -104,6 +112,8 @@ await html().then(
 
 	p {
 		padding: .5rem;
+		font-size: 16px;
+		line-height: 30px;
 	}
 
 	code {

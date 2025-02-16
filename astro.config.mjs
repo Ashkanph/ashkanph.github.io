@@ -13,4 +13,8 @@ export default defineConfig({
         include: ['**/*.jsx'],
       }),
     ],
+    redirects: {
+      '/book-recommendation': '/blog/book-recommendation',
+      '/notes': '/blog/notes'
+    }
 });

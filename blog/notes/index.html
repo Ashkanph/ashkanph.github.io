@@ -2,7 +2,7 @@
 <style>main[data-astro-cid-lqspyq6f].notes-wrapper{@media screen and (max-width: 520px){padding-right:6px;padding-left:6px}}.notes-wrapper[data-astro-cid-lqspyq6f]{direction:rtl;counter-reset:hrcounter 1;line-height:1.7rem;color:var(--font-color);#notes-desc{padding-top:30px;font-size:16px}h3{display:block;padding-top:3.8rem;padding-bottom:12px;text-align:center}.note-title{display:flex;align-items:center;justify-content:center;line-height:26px;padding-top:3.8rem;padding-bottom:12px;font-size:18px;font-weight:700}.ref{text-align:center!important;letter-spacing:2px;color:var(--ref-color);clear:both;font-size:15px;line-height:24px}.english,.french,.other{direction:ltr}.french.tr{color:var(--french-tr);float:left}.other.tr{color:var(--other-tr);float:left}.english.tr{color:var(--english-tr);float:left}.persian.tr{color:var(--persian-tr)}.two-column{margin:0 auto}p{padding:.5rem;font-size:16px;line-height:30px}code{font-family:sahel;white-space:pre;word-wrap:normal;padding:1px 6px 1px 4px;color:var(--ref-color,#696969);background-color:#1b1f231f;border-radius:3px;font-size:1rem;font-style:italic}a{color:var(--list-color,#1c11ee)}hr{text-align:center;margin:1.5rem 0 0;&:first-child{display:none}&:before{content:counter(hrcounter);counter-increment:hrcounter;background-color:var(--background-color,#f4f4f1);position:absolute;margin-top:-11px;padding:0 5px;font-size:14px}}}
 .plus-icon{position:relative;width:18px;height:18px;border:1px solid var(--font-color);margin:2px 10px 0;float:right}.plus-icon:before,.plus-icon:after{content:"";position:absolute;background-color:var(--font-color);transition:transform .25s ease-out}.plus-icon.light-color{border:1px solid #f5f5f5}.plus-icon.light-color:before,.plus-icon.light-color:after{background-color:#f5f5f5}.plus-icon:before{top:0;left:50%;width:2px;height:100%;margin-left:-1px}.plus-icon:after{top:50%;left:0;width:100%;height:2px;margin-top:-1px}.plus-icon.open:before{transform:rotate(90deg)}.plus-icon.open:after{transform:rotate(180deg)}
 .list-of-titles{margin-top:1.5rem;border-radius:5px;background-color:var(--list-of-titles-bg)}@media screen and (max-width: 520px){.list-of-titles{font-size:14px;margin-bottom:1rem}}@media print{.list-of-titles{display:none}}.list-of-titles .list-header{padding:10px 15px;background-color:#615a5a;color:#f5f5f5;border-radius:5px;text-align:center;font-size:17px}.list-of-titles.open .list-header{border-bottom-left-radius:"0";border-bottom-right-radius:"0"}.list-of-titles.close .list-header{border-bottom-left-radius:"5px";border-bottom-right-radius:"5px"}.list-of-titles .list-body{columns:2;-webkit-columns:2;-moz-columns:2;color:#212121;padding:10px;font-size:14px}.list-of-titles .list-body .list-item{line-height:26px;display:block;color:var(--list-color);text-decoration:none}@media screen and (min-width: 677px){.list-of-titles.long .list-body{columns:3;-webkit-columns:3;-moz-columns:3}}@media screen and (min-width: 870px){.list-of-titles.long .list-body{columns:4;-webkit-columns:4;-moz-columns:4}}@media (min-width: 677px){.list-of-titles.short .list-body{columns:4;-webkit-columns:4;-moz-columns:4}}@media (min-width: 870px){.list-of-titles.short .list-body{columns:6;-webkit-columns:6;-moz-columns:6}}
-</style></head> <body data-astro-cid-wb6454xr> <div class="wrapper" data-astro-cid-wb6454xr> <div class="limited-width" data-astro-cid-wb6454xr> <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var A=Object.defineProperty;var g=(i,o,a)=>o in i?A(i,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):i[o]=a;var d=(i,o,a)=>g(i,typeof o!="symbol"?o+"":o,a);{let i={0:t=>m(t),1:t=>a(t),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(a(t)),5:t=>new Set(a(t)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(t),9:t=>new Uint16Array(t),10:t=>new Uint32Array(t),11:t=>1/0*t},o=t=>{let[l,e]=t;return l in i?i[l](e):void 0},a=t=>t.map(o),m=t=>typeof t!="object"||t===null?t:Object.fromEntries(Object.entries(t).map(([l,e])=>[l,o(e)]));class y extends HTMLElement{constructor(){super(...arguments);d(this,"Component");d(this,"hydrator");d(this,"hydrate",async()=>{var b;if(!this.hydrator||!this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest("astro-island[ssr]");if(e){e.addEventListener("astro:hydrate",this.hydrate,{once:!0});return}let c=this.querySelectorAll("astro-slot"),n={},h=this.querySelectorAll("template[data-astro-template]");for(let r of h){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("data-astro-template")||"default"]=r.innerHTML,r.remove())}for(let r of c){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("name")||"default"]=r.innerHTML)}let p;try{p=this.hasAttribute("props")?m(JSON.parse(this.getAttribute("props"))):{}}catch(r){let s=this.getAttribute("component-url")||"<unknown>",v=this.getAttribute("component-export");throw v&&(s+=` (export ${v})`),console.error(`[hydrate] Error parsing props for component ${s}`,this.getAttribute("props"),r),r}let u;await this.hydrator(this)(this.Component,p,n,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),this.dispatchEvent(new CustomEvent("astro:hydrate"))});d(this,"unmount",()=>{this.isConnected||this.dispatchEvent(new CustomEvent("astro:unmount"))})}disconnectedCallback(){document.removeEventListener("astro:after-swap",this.unmount),document.addEventListener("astro:after-swap",this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute("await-children")||document.readyState==="interactive"||document.readyState==="complete")this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener("DOMContentLoaded",e),c.disconnect(),this.childrenConnectedCallback()},c=new MutationObserver(()=>{var n;((n=this.lastChild)==null?void 0:n.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue==="astro:end"&&(this.lastChild.remove(),e())});c.observe(this,{childList:!0}),document.addEventListener("DOMContentLoaded",e)}}async childrenConnectedCallback(){let e=this.getAttribute("before-hydration-url");e&&await import(e),this.start()}async start(){let e=JSON.parse(this.getAttribute("opts")),c=this.getAttribute("client");if(Astro[c]===void 0){window.addEventListener(`astro:${c}`,()=>this.start(),{once:!0});return}try{await Astro[c](async()=>{let n=this.getAttribute("renderer-url"),[h,{default:p}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),u=this.getAttribute("component-export")||"default";if(!u.includes("."))this.Component=h[u];else{this.Component=h;for(let f of u.split("."))this.Component=this.Component[f]}return this.hydrator=p,this.hydrate},e,this)}catch(n){console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`,n)}}attributeChangedCallback(){this.hydrate()}}d(y,"observedAttributes",["props"]),customElements.get("astro-island")||customElements.define("astro-island",y)}})();</script><astro-island uid="A0WAc" prefix="r2" component-url="/_astro/HeaderSideMenu.COknPy71.js" component-export="default" renderer-url="/_astro/client.DIKfSzo_.js" props="{&quot;title&quot;:[0,&quot;یادداشت‌ها&quot;],&quot;data-astro-cid-wb6454xr&quot;:[0,true]}" ssr client="load" opts="{&quot;name&quot;:&quot;HeaderSideMenu&quot;,&quot;value&quot;:&quot;true&quot;}" await-children><nav class="side-menu "><span class="cursor-pointer open-menu"><i class="icon-bars"></i></span><div class="dropdown-content" id="top-vertical-menu"><a class="menu-link" href="/skills"><i class="icon-check-square"></i>Skills</a><a class="menu-link" href="/blog"><i class="icon-feather"></i>نوشته‌ها</a></div></nav><header><div class="cursor-pointer menu-icon no-focus-active-outline" id="menu-icon" role="button" tabindex="0"><i class="icon-bars" id="icon-bars"></i></div><span class="page-title text-truncate"></span><div class="right-side"><a href="/" class="home" title="Return to home page"><i class="icon-home"></i></a></div></header><!--astro:end--></astro-island> <main data-astro-cid-wb6454xr>  <main class="notes-wrapper" data-astro-cid-lqspyq6f> <div id="notes-desc" data-astro-cid-lqspyq6f>کتاب‌هایی خوانده‌ام و یادداشت‌هایی از آنها نگاه داشته‌ام. جملات زیر، برخی از آن یادداشت‌هاست. مطالب جدیدتر را هربار به بالای صفحه اضافه می‌کنم.</div> <astro-island uid="C4ixx" prefix="r0" component-url="/_astro/ListOfTitles.M9PWMhE4.js" component-export="default" renderer-url="/_astro/client.DIKfSzo_.js" props="{&quot;className&quot;:[0,&quot;short&quot;],&quot;title&quot;:[0,&quot;فهرست یادداشت‌ها&quot;],&quot;list&quot;:[1,[[0,{&quot;title&quot;:[0,&quot;خواجه کاشف‌الاسرار&quot;],&quot;anchorTitle&quot;:[0,&quot;note-108&quot;]}],[0,{&quot;title&quot;:[0,&quot;Brains&quot;],&quot;anchorTitle&quot;:[0,&quot;note-107&quot;]}],[0,{&quot;title&quot;:[0,&quot;ابراهیم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-106&quot;]}],[0,{&quot;title&quot;:[0,&quot;Toten tatenruhm&quot;],&quot;anchorTitle&quot;:[0,&quot;note-105&quot;]}],[0,{&quot;title&quot;:[0,&quot;Friendless man&quot;],&quot;anchorTitle&quot;:[0,&quot;note-104&quot;]}],[0,{&quot;title&quot;:[0,&quot;طریقت سامورایی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-103&quot;]}],[0,{&quot;title&quot;:[0,&quot;از پیش مردن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-102&quot;]}],[0,{&quot;title&quot;:[0,&quot;خلال دندان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-101&quot;]}],[0,{&quot;title&quot;:[0,&quot;میخک&quot;],&quot;anchorTitle&quot;:[0,&quot;note-100&quot;]}],[0,{&quot;title&quot;:[0,&quot;ای ماه&quot;],&quot;anchorTitle&quot;:[0,&quot;note-99&quot;]}],[0,{&quot;title&quot;:[0,&quot;جهان منطقی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-98&quot;]}],[0,{&quot;title&quot;:[0,&quot;آزادمردان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-97&quot;]}],[0,{&quot;title&quot;:[0,&quot;رنج&quot;],&quot;anchorTitle&quot;:[0,&quot;note-96&quot;]}],[0,{&quot;title&quot;:[0,&quot;Infallibility&quot;],&quot;anchorTitle&quot;:[0,&quot;note-95&quot;]}],[0,{&quot;title&quot;:[0,&quot;Mashhad&quot;],&quot;anchorTitle&quot;:[0,&quot;note-94&quot;]}],[0,{&quot;title&quot;:[0,&quot;Monotheism&quot;],&quot;anchorTitle&quot;:[0,&quot;note-93&quot;]}],[0,{&quot;title&quot;:[0,&quot;Big wheel&quot;],&quot;anchorTitle&quot;:[0,&quot;note-92&quot;]}],[0,{&quot;title&quot;:[0,&quot;For everyone&quot;],&quot;anchorTitle&quot;:[0,&quot;note-91&quot;]}],[0,{&quot;title&quot;:[0,&quot;To compromise&quot;],&quot;anchorTitle&quot;:[0,&quot;note-90&quot;]}],[0,{&quot;title&quot;:[0,&quot;unloved&quot;],&quot;anchorTitle&quot;:[0,&quot;note-89&quot;]}],[0,{&quot;title&quot;:[0,&quot;همه&quot;],&quot;anchorTitle&quot;:[0,&quot;note-88&quot;]}],[0,{&quot;title&quot;:[0,&quot;تنهاییِ انسان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-87&quot;]}],[0,{&quot;title&quot;:[0,&quot;هوتوتوگیسو&quot;],&quot;anchorTitle&quot;:[0,&quot;note-86&quot;]}],[0,{&quot;title&quot;:[0,&quot;موی سپید&quot;],&quot;anchorTitle&quot;:[0,&quot;note-85&quot;]}],[0,{&quot;title&quot;:[0,&quot;اسفار باکونون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-84&quot;]}],[0,{&quot;title&quot;:[0,&quot;تاریخ، اشک&quot;],&quot;anchorTitle&quot;:[0,&quot;note-83&quot;]}],[0,{&quot;title&quot;:[0,&quot;ظاهر&quot;],&quot;anchorTitle&quot;:[0,&quot;note-82&quot;]}],[0,{&quot;title&quot;:[0,&quot;بسترم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-81&quot;]}],[0,{&quot;title&quot;:[0,&quot;شاعر بدنام&quot;],&quot;anchorTitle&quot;:[0,&quot;note-80&quot;]}],[0,{&quot;title&quot;:[0,&quot;حسرتِ صحبت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-79&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکوه‌پاره پاسخ&quot;],&quot;anchorTitle&quot;:[0,&quot;note-78&quot;]}],[0,{&quot;title&quot;:[0,&quot;دست تطاول&quot;],&quot;anchorTitle&quot;:[0,&quot;note-77&quot;]}],[0,{&quot;title&quot;:[0,&quot;کفارهٔ تهران&quot;],&quot;anchorTitle&quot;:[0,&quot;note-76&quot;]}],[0,{&quot;title&quot;:[0,&quot;درد مشترک&quot;],&quot;anchorTitle&quot;:[0,&quot;note-75&quot;]}],[0,{&quot;title&quot;:[0,&quot;پول&quot;],&quot;anchorTitle&quot;:[0,&quot;note-74&quot;]}],[0,{&quot;title&quot;:[0,&quot;تا ابد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-73&quot;]}],[0,{&quot;title&quot;:[0,&quot;شیرجه‌های نرفته&quot;],&quot;anchorTitle&quot;:[0,&quot;note-72&quot;]}],[0,{&quot;title&quot;:[0,&quot;هر انسان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-71&quot;]}],[0,{&quot;title&quot;:[0,&quot;کجاست&quot;],&quot;anchorTitle&quot;:[0,&quot;note-70&quot;]}],[0,{&quot;title&quot;:[0,&quot;قبایِ ژنده&quot;],&quot;anchorTitle&quot;:[0,&quot;note-69&quot;]}],[0,{&quot;title&quot;:[0,&quot;گوشهٔ بیشه‌ای&quot;],&quot;anchorTitle&quot;:[0,&quot;note-68&quot;]}],[0,{&quot;title&quot;:[0,&quot;آن همه خاک&quot;],&quot;anchorTitle&quot;:[0,&quot;note-67&quot;]}],[0,{&quot;title&quot;:[0,&quot;سوم‌برادرانِ سوشیانت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-66&quot;]}],[0,{&quot;title&quot;:[0,&quot;قطارِ رفته&quot;],&quot;anchorTitle&quot;:[0,&quot;note-65&quot;]}],[0,{&quot;title&quot;:[0,&quot;یک اسب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-64&quot;]}],[0,{&quot;title&quot;:[0,&quot;خورشید فرزانگی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-63&quot;]}],[0,{&quot;title&quot;:[0,&quot;تفنن و جهاد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-62&quot;]}],[0,{&quot;title&quot;:[0,&quot;virginity&quot;],&quot;anchorTitle&quot;:[0,&quot;note-61&quot;]}],[0,{&quot;title&quot;:[0,&quot;اینان دردند&quot;],&quot;anchorTitle&quot;:[0,&quot;note-60&quot;]}],[0,{&quot;title&quot;:[0,&quot;نازانم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-59&quot;]}],[0,{&quot;title&quot;:[0,&quot;پیام&quot;],&quot;anchorTitle&quot;:[0,&quot;note-58&quot;]}],[0,{&quot;title&quot;:[0,&quot;دژمن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-57&quot;]}],[0,{&quot;title&quot;:[0,&quot;کهنه‌کارمند کاغذباز&quot;],&quot;anchorTitle&quot;:[0,&quot;note-56&quot;]}],[0,{&quot;title&quot;:[0,&quot;مرز و کران&quot;],&quot;anchorTitle&quot;:[0,&quot;note-55&quot;]}],[0,{&quot;title&quot;:[0,&quot;چرخ دون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-54&quot;]}],[0,{&quot;title&quot;:[0,&quot;گرفتم دامنت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-53&quot;]}],[0,{&quot;title&quot;:[0,&quot;سلامتی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-52&quot;]}],[0,{&quot;title&quot;:[0,&quot;رستاخیز&quot;],&quot;anchorTitle&quot;:[0,&quot;note-51&quot;]}],[0,{&quot;title&quot;:[0,&quot;روز هفتم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-50&quot;]}],[0,{&quot;title&quot;:[0,&quot;تیره‌روزی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-49&quot;]}],[0,{&quot;title&quot;:[0,&quot;جنگ&quot;],&quot;anchorTitle&quot;:[0,&quot;note-48&quot;]}],[0,{&quot;title&quot;:[0,&quot;دو کرکس&quot;],&quot;anchorTitle&quot;:[0,&quot;note-47&quot;]}],[0,{&quot;title&quot;:[0,&quot;واپسینِ همگنان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-46&quot;]}],[0,{&quot;title&quot;:[0,&quot;پیدا نخواهدشد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-45&quot;]}],[0,{&quot;title&quot;:[0,&quot;شاعر جماعت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-44&quot;]}],[0,{&quot;title&quot;:[0,&quot;پادشاهان پارسی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-43&quot;]}],[0,{&quot;title&quot;:[0,&quot;اطرافیان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-42&quot;]}],[0,{&quot;title&quot;:[0,&quot;نازک و زیبا&quot;],&quot;anchorTitle&quot;:[0,&quot;note-41&quot;]}],[0,{&quot;title&quot;:[0,&quot;اولین دیدار&quot;],&quot;anchorTitle&quot;:[0,&quot;note-40&quot;]}],[0,{&quot;title&quot;:[0,&quot;گریه نکن مامان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-39&quot;]}],[0,{&quot;title&quot;:[0,&quot;مغلوب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-38&quot;]}],[0,{&quot;title&quot;:[0,&quot;چنین کسانی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-37&quot;]}],[0,{&quot;title&quot;:[0,&quot;روزگاری&quot;],&quot;anchorTitle&quot;:[0,&quot;note-36&quot;]}],[0,{&quot;title&quot;:[0,&quot;هفتاد پشت ما&quot;],&quot;anchorTitle&quot;:[0,&quot;note-35&quot;]}],[0,{&quot;title&quot;:[0,&quot;ژاژخایی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-34&quot;]}],[0,{&quot;title&quot;:[0,&quot;عیارِ گل نیلوفر&quot;],&quot;anchorTitle&quot;:[0,&quot;note-33&quot;]}],[0,{&quot;title&quot;:[0,&quot;زندگی دادن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-32&quot;]}],[0,{&quot;title&quot;:[0,&quot;پرواز کن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-31&quot;]}],[0,{&quot;title&quot;:[0,&quot;ناپیدا&quot;],&quot;anchorTitle&quot;:[0,&quot;note-30&quot;]}],[0,{&quot;title&quot;:[0,&quot;نیستی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-29&quot;]}],[0,{&quot;title&quot;:[0,&quot;باتلاق درماندگی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-28&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکسته‌دلان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-27&quot;]}],[0,{&quot;title&quot;:[0,&quot;آتش&quot;],&quot;anchorTitle&quot;:[0,&quot;note-26&quot;]}],[0,{&quot;title&quot;:[0,&quot;تنهاترین&quot;],&quot;anchorTitle&quot;:[0,&quot;note-25&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکنجه‌گر&quot;],&quot;anchorTitle&quot;:[0,&quot;note-24&quot;]}],[0,{&quot;title&quot;:[0,&quot;عشق واقعی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-23&quot;]}],[0,{&quot;title&quot;:[0,&quot;دلِ گم‌شده&quot;],&quot;anchorTitle&quot;:[0,&quot;note-22&quot;]}],[0,{&quot;title&quot;:[0,&quot;کیلگور تروت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-21&quot;]}],[0,{&quot;title&quot;:[0,&quot;پارسایی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-20&quot;]}],[0,{&quot;title&quot;:[0,&quot;ستیزندگان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-19&quot;]}],[0,{&quot;title&quot;:[0,&quot;ارزش اشیاء&quot;],&quot;anchorTitle&quot;:[0,&quot;note-18&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکسته‌ستون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-17&quot;]}],[0,{&quot;title&quot;:[0,&quot;گردباد سیاه&quot;],&quot;anchorTitle&quot;:[0,&quot;note-16&quot;]}],[0,{&quot;title&quot;:[0,&quot;برعکسِ ما&quot;],&quot;anchorTitle&quot;:[0,&quot;note-15&quot;]}],[0,{&quot;title&quot;:[0,&quot;کالپا&quot;],&quot;anchorTitle&quot;:[0,&quot;note-14&quot;]}],[0,{&quot;title&quot;:[0,&quot;افق تیره&quot;],&quot;anchorTitle&quot;:[0,&quot;note-13&quot;]}],[0,{&quot;title&quot;:[0,&quot;خونِ احمد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-12&quot;]}],[0,{&quot;title&quot;:[0,&quot;فاضلاب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-11&quot;]}],[0,{&quot;title&quot;:[0,&quot;انفجار جمعیت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-10&quot;]}],[0,{&quot;title&quot;:[0,&quot;سیل خون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-9&quot;]}],[0,{&quot;title&quot;:[0,&quot;شمشیر بُرّان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-8&quot;]}],[0,{&quot;title&quot;:[0,&quot;سرب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-7&quot;]}],[0,{&quot;title&quot;:[0,&quot;سینهٔ تکیده&quot;],&quot;anchorTitle&quot;:[0,&quot;note-6&quot;]}],[0,{&quot;title&quot;:[0,&quot;تائو&quot;],&quot;anchorTitle&quot;:[0,&quot;note-5&quot;]}],[0,{&quot;title&quot;:[0,&quot;عشق برادرانه!&quot;],&quot;anchorTitle&quot;:[0,&quot;note-4&quot;]}],[0,{&quot;title&quot;:[0,&quot;جنون جمعی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-3&quot;]}],[0,{&quot;title&quot;:[0,&quot;تودهٔ مردم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-2&quot;]}],[0,{&quot;title&quot;:[0,&quot;کاشکی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-1&quot;]}]]],&quot;data-astro-cid-lqspyq6f&quot;:[0,true]}" ssr client="load" opts="{&quot;name&quot;:&quot;ListOfTitles&quot;,&quot;value&quot;:&quot;true&quot;}" await-children><div class="list-of-titles short open"><div class="list-header cursor-pointer no-focus-active-outline" tabindex="0" role="button" aria-label="Toggle the list">فهرست یادداشت‌ها<!-- --> <span class="plus-icon light-color open"></span></div><div class="list-body"><a class="list-item" href="#note-108">۱. خواجه کاشف‌الاسرار</a><a class="list-item" href="#note-107">۲. Brains</a><a class="list-item" href="#note-106">۳. ابراهیم</a><a class="list-item" href="#note-105">۴. Toten tatenruhm</a><a class="list-item" href="#note-104">۵. Friendless man</a><a class="list-item" href="#note-103">۶. طریقت سامورایی</a><a class="list-item" href="#note-102">۷. از پیش مردن</a><a class="list-item" href="#note-101">۸. خلال دندان</a><a class="list-item" href="#note-100">۹. میخک</a><a class="list-item" href="#note-99">۱۰. ای ماه</a><a class="list-item" href="#note-98">۱۱. جهان منطقی</a><a class="list-item" href="#note-97">۱۲. آزادمردان</a><a class="list-item" href="#note-96">۱۳. رنج</a><a class="list-item" href="#note-95">۱۴. Infallibility</a><a class="list-item" href="#note-94">۱۵. Mashhad</a><a class="list-item" href="#note-93">۱۶. Monotheism</a><a class="list-item" href="#note-92">۱۷. Big wheel</a><a class="list-item" href="#note-91">۱۸. For everyone</a><a class="list-item" href="#note-90">۱۹. To compromise</a><a class="list-item" href="#note-89">۲۰. unloved</a><a class="list-item" href="#note-88">۲۱. همه</a><a class="list-item" href="#note-87">۲۲. تنهاییِ انسان</a><a class="list-item" href="#note-86">۲۳. هوتوتوگیسو</a><a class="list-item" href="#note-85">۲۴. موی سپید</a><a class="list-item" href="#note-84">۲۵. اسفار باکونون</a><a class="list-item" href="#note-83">۲۶. تاریخ، اشک</a><a class="list-item" href="#note-82">۲۷. ظاهر</a><a class="list-item" href="#note-81">۲۸. بسترم</a><a class="list-item" href="#note-80">۲۹. شاعر بدنام</a><a class="list-item" href="#note-79">۳۰. حسرتِ صحبت</a><a class="list-item" href="#note-78">۳۱. شکوه‌پاره پاسخ</a><a class="list-item" href="#note-77">۳۲. دست تطاول</a><a class="list-item" href="#note-76">۳۳. کفارهٔ تهران</a><a class="list-item" href="#note-75">۳۴. درد مشترک</a><a class="list-item" href="#note-74">۳۵. پول</a><a class="list-item" href="#note-73">۳۶. تا ابد</a><a class="list-item" href="#note-72">۳۷. شیرجه‌های نرفته</a><a class="list-item" href="#note-71">۳۸. هر انسان</a><a class="list-item" href="#note-70">۳۹. کجاست</a><a class="list-item" href="#note-69">۴۰. قبایِ ژنده</a><a class="list-item" href="#note-68">۴۱. گوشهٔ بیشه‌ای</a><a class="list-item" href="#note-67">۴۲. آن همه خاک</a><a class="list-item" href="#note-66">۴۳. سوم‌برادرانِ سوشیانت</a><a class="list-item" href="#note-65">۴۴. قطارِ رفته</a><a class="list-item" href="#note-64">۴۵. یک اسب</a><a class="list-item" href="#note-63">۴۶. خورشید فرزانگی</a><a class="list-item" href="#note-62">۴۷. تفنن و جهاد</a><a class="list-item" href="#note-61">۴۸. virginity</a><a class="list-item" href="#note-60">۴۹. اینان دردند</a><a class="list-item" href="#note-59">۵۰. نازانم</a><a class="list-item" href="#note-58">۵۱. پیام</a><a class="list-item" href="#note-57">۵۲. دژمن</a><a class="list-item" href="#note-56">۵۳. کهنه‌کارمند کاغذباز</a><a class="list-item" href="#note-55">۵۴. مرز و کران</a><a class="list-item" href="#note-54">۵۵. چرخ دون</a><a class="list-item" href="#note-53">۵۶. گرفتم دامنت</a><a class="list-item" href="#note-52">۵۷. سلامتی</a><a class="list-item" href="#note-51">۵۸. رستاخیز</a><a class="list-item" href="#note-50">۵۹. روز هفتم</a><a class="list-item" href="#note-49">۶۰. تیره‌روزی</a><a class="list-item" href="#note-48">۶۱. جنگ</a><a class="list-item" href="#note-47">۶۲. دو کرکس</a><a class="list-item" href="#note-46">۶۳. واپسینِ همگنان</a><a class="list-item" href="#note-45">۶۴. پیدا نخواهدشد</a><a class="list-item" href="#note-44">۶۵. شاعر جماعت</a><a class="list-item" href="#note-43">۶۶. پادشاهان پارسی</a><a class="list-item" href="#note-42">۶۷. اطرافیان</a><a class="list-item" href="#note-41">۶۸. نازک و زیبا</a><a class="list-item" href="#note-40">۶۹. اولین دیدار</a><a class="list-item" href="#note-39">۷۰. گریه نکن مامان</a><a class="list-item" href="#note-38">۷۱. مغلوب</a><a class="list-item" href="#note-37">۷۲. چنین کسانی</a><a class="list-item" href="#note-36">۷۳. روزگاری</a><a class="list-item" href="#note-35">۷۴. هفتاد پشت ما</a><a class="list-item" href="#note-34">۷۵. ژاژخایی</a><a class="list-item" href="#note-33">۷۶. عیارِ گل نیلوفر</a><a class="list-item" href="#note-32">۷۷. زندگی دادن</a><a class="list-item" href="#note-31">۷۸. پرواز کن</a><a class="list-item" href="#note-30">۷۹. ناپیدا</a><a class="list-item" href="#note-29">۸۰. نیستی</a><a class="list-item" href="#note-28">۸۱. باتلاق درماندگی</a><a class="list-item" href="#note-27">۸۲. شکسته‌دلان</a><a class="list-item" href="#note-26">۸۳. آتش</a><a class="list-item" href="#note-25">۸۴. تنهاترین</a><a class="list-item" href="#note-24">۸۵. شکنجه‌گر</a><a class="list-item" href="#note-23">۸۶. عشق واقعی</a><a class="list-item" href="#note-22">۸۷. دلِ گم‌شده</a><a class="list-item" href="#note-21">۸۸. کیلگور تروت</a><a class="list-item" href="#note-20">۸۹. پارسایی</a><a class="list-item" href="#note-19">۹۰. ستیزندگان</a><a class="list-item" href="#note-18">۹۱. ارزش اشیاء</a><a class="list-item" href="#note-17">۹۲. شکسته‌ستون</a><a class="list-item" href="#note-16">۹۳. گردباد سیاه</a><a class="list-item" href="#note-15">۹۴. برعکسِ ما</a><a class="list-item" href="#note-14">۹۵. کالپا</a><a class="list-item" href="#note-13">۹۶. افق تیره</a><a class="list-item" href="#note-12">۹۷. خونِ احمد</a><a class="list-item" href="#note-11">۹۸. فاضلاب</a><a class="list-item" href="#note-10">۹۹. انفجار جمعیت</a><a class="list-item" href="#note-9">۱۰۰. سیل خون</a><a class="list-item" href="#note-8">۱۰۱. شمشیر بُرّان</a><a class="list-item" href="#note-7">۱۰۲. سرب</a><a class="list-item" href="#note-6">۱۰۳. سینهٔ تکیده</a><a class="list-item" href="#note-5">۱۰۴. تائو</a><a class="list-item" href="#note-4">۱۰۵. عشق برادرانه!</a><a class="list-item" href="#note-3">۱۰۶. جنون جمعی</a><a class="list-item" href="#note-2">۱۰۷. تودهٔ مردم</a><a class="list-item" href="#note-1">۱۰۸. کاشکی</a></div></div><!--astro:end--></astro-island> <div data-astro-cid-lqspyq6f><div class="note-title" id="note-108">خواجه کاشف‌الاسرار<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+</style></head> <body data-astro-cid-wb6454xr> <div class="wrapper" data-astro-cid-wb6454xr> <div class="limited-width" data-astro-cid-wb6454xr> <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var A=Object.defineProperty;var g=(i,o,a)=>o in i?A(i,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):i[o]=a;var d=(i,o,a)=>g(i,typeof o!="symbol"?o+"":o,a);{let i={0:t=>m(t),1:t=>a(t),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(a(t)),5:t=>new Set(a(t)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(t),9:t=>new Uint16Array(t),10:t=>new Uint32Array(t),11:t=>1/0*t},o=t=>{let[l,e]=t;return l in i?i[l](e):void 0},a=t=>t.map(o),m=t=>typeof t!="object"||t===null?t:Object.fromEntries(Object.entries(t).map(([l,e])=>[l,o(e)]));class y extends HTMLElement{constructor(){super(...arguments);d(this,"Component");d(this,"hydrator");d(this,"hydrate",async()=>{var b;if(!this.hydrator||!this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest("astro-island[ssr]");if(e){e.addEventListener("astro:hydrate",this.hydrate,{once:!0});return}let c=this.querySelectorAll("astro-slot"),n={},h=this.querySelectorAll("template[data-astro-template]");for(let r of h){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("data-astro-template")||"default"]=r.innerHTML,r.remove())}for(let r of c){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("name")||"default"]=r.innerHTML)}let p;try{p=this.hasAttribute("props")?m(JSON.parse(this.getAttribute("props"))):{}}catch(r){let s=this.getAttribute("component-url")||"<unknown>",v=this.getAttribute("component-export");throw v&&(s+=` (export ${v})`),console.error(`[hydrate] Error parsing props for component ${s}`,this.getAttribute("props"),r),r}let u;await this.hydrator(this)(this.Component,p,n,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),this.dispatchEvent(new CustomEvent("astro:hydrate"))});d(this,"unmount",()=>{this.isConnected||this.dispatchEvent(new CustomEvent("astro:unmount"))})}disconnectedCallback(){document.removeEventListener("astro:after-swap",this.unmount),document.addEventListener("astro:after-swap",this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute("await-children")||document.readyState==="interactive"||document.readyState==="complete")this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener("DOMContentLoaded",e),c.disconnect(),this.childrenConnectedCallback()},c=new MutationObserver(()=>{var n;((n=this.lastChild)==null?void 0:n.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue==="astro:end"&&(this.lastChild.remove(),e())});c.observe(this,{childList:!0}),document.addEventListener("DOMContentLoaded",e)}}async childrenConnectedCallback(){let e=this.getAttribute("before-hydration-url");e&&await import(e),this.start()}async start(){let e=JSON.parse(this.getAttribute("opts")),c=this.getAttribute("client");if(Astro[c]===void 0){window.addEventListener(`astro:${c}`,()=>this.start(),{once:!0});return}try{await Astro[c](async()=>{let n=this.getAttribute("renderer-url"),[h,{default:p}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),u=this.getAttribute("component-export")||"default";if(!u.includes("."))this.Component=h[u];else{this.Component=h;for(let f of u.split("."))this.Component=this.Component[f]}return this.hydrator=p,this.hydrate},e,this)}catch(n){console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`,n)}}attributeChangedCallback(){this.hydrate()}}d(y,"observedAttributes",["props"]),customElements.get("astro-island")||customElements.define("astro-island",y)}})();</script><astro-island uid="A0WAc" prefix="r2" component-url="/_astro/HeaderSideMenu.COknPy71.js" component-export="default" renderer-url="/_astro/client.DIKfSzo_.js" props="{&quot;title&quot;:[0,&quot;یادداشت‌ها&quot;],&quot;data-astro-cid-wb6454xr&quot;:[0,true]}" ssr client="load" opts="{&quot;name&quot;:&quot;HeaderSideMenu&quot;,&quot;value&quot;:&quot;true&quot;}" await-children><nav class="side-menu "><span class="cursor-pointer open-menu"><i class="icon-bars"></i></span><div class="dropdown-content" id="top-vertical-menu"><a class="menu-link" href="/skills"><i class="icon-check-square"></i>Skills</a><a class="menu-link" href="/blog"><i class="icon-feather"></i>نوشته‌ها</a></div></nav><header><div class="cursor-pointer menu-icon no-focus-active-outline" id="menu-icon" role="button" tabindex="0"><i class="icon-bars" id="icon-bars"></i></div><span class="page-title text-truncate"></span><div class="right-side"><a href="/" class="home" title="Return to home page"><i class="icon-home"></i></a></div></header><!--astro:end--></astro-island> <main data-astro-cid-wb6454xr>  <main class="notes-wrapper" data-astro-cid-lqspyq6f> <div id="notes-desc" data-astro-cid-lqspyq6f>کتاب‌هایی خوانده‌ام و یادداشت‌هایی از آنها نگاه داشته‌ام. جملات زیر، برخی از آن یادداشت‌هاست. مطالب جدیدتر را هربار به بالای صفحه اضافه می‌کنم.</div> <astro-island uid="ZWCv3z" prefix="r0" component-url="/_astro/ListOfTitles.M9PWMhE4.js" component-export="default" renderer-url="/_astro/client.DIKfSzo_.js" props="{&quot;className&quot;:[0,&quot;short&quot;],&quot;title&quot;:[0,&quot;فهرست یادداشت‌ها&quot;],&quot;list&quot;:[1,[[0,{&quot;title&quot;:[0,&quot;خواجه کاشف‌الاسرار&quot;],&quot;anchorTitle&quot;:[0,&quot;note-103&quot;]}],[0,{&quot;title&quot;:[0,&quot;Brains&quot;],&quot;anchorTitle&quot;:[0,&quot;note-102&quot;]}],[0,{&quot;title&quot;:[0,&quot;ابراهیم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-101&quot;]}],[0,{&quot;title&quot;:[0,&quot;طریقت سامورایی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-100&quot;]}],[0,{&quot;title&quot;:[0,&quot;از پیش مردن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-99&quot;]}],[0,{&quot;title&quot;:[0,&quot;خلال دندان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-98&quot;]}],[0,{&quot;title&quot;:[0,&quot;جهان منطقی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-97&quot;]}],[0,{&quot;title&quot;:[0,&quot;آزادمردان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-96&quot;]}],[0,{&quot;title&quot;:[0,&quot;رنج&quot;],&quot;anchorTitle&quot;:[0,&quot;note-95&quot;]}],[0,{&quot;title&quot;:[0,&quot;Infallibility&quot;],&quot;anchorTitle&quot;:[0,&quot;note-94&quot;]}],[0,{&quot;title&quot;:[0,&quot;Mashhad&quot;],&quot;anchorTitle&quot;:[0,&quot;note-93&quot;]}],[0,{&quot;title&quot;:[0,&quot;Monotheism&quot;],&quot;anchorTitle&quot;:[0,&quot;note-92&quot;]}],[0,{&quot;title&quot;:[0,&quot;Big wheel&quot;],&quot;anchorTitle&quot;:[0,&quot;note-91&quot;]}],[0,{&quot;title&quot;:[0,&quot;For everyone&quot;],&quot;anchorTitle&quot;:[0,&quot;note-90&quot;]}],[0,{&quot;title&quot;:[0,&quot;To compromise&quot;],&quot;anchorTitle&quot;:[0,&quot;note-89&quot;]}],[0,{&quot;title&quot;:[0,&quot;unloved&quot;],&quot;anchorTitle&quot;:[0,&quot;note-88&quot;]}],[0,{&quot;title&quot;:[0,&quot;همه&quot;],&quot;anchorTitle&quot;:[0,&quot;note-87&quot;]}],[0,{&quot;title&quot;:[0,&quot;هوتوتوگیسو&quot;],&quot;anchorTitle&quot;:[0,&quot;note-86&quot;]}],[0,{&quot;title&quot;:[0,&quot;موی سپید&quot;],&quot;anchorTitle&quot;:[0,&quot;note-85&quot;]}],[0,{&quot;title&quot;:[0,&quot;اسفار باکونون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-84&quot;]}],[0,{&quot;title&quot;:[0,&quot;تاریخ، اشک&quot;],&quot;anchorTitle&quot;:[0,&quot;note-83&quot;]}],[0,{&quot;title&quot;:[0,&quot;ظاهر&quot;],&quot;anchorTitle&quot;:[0,&quot;note-82&quot;]}],[0,{&quot;title&quot;:[0,&quot;بسترم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-81&quot;]}],[0,{&quot;title&quot;:[0,&quot;شاعر بدنام&quot;],&quot;anchorTitle&quot;:[0,&quot;note-80&quot;]}],[0,{&quot;title&quot;:[0,&quot;حسرتِ صحبت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-79&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکوه‌پاره پاسخ&quot;],&quot;anchorTitle&quot;:[0,&quot;note-78&quot;]}],[0,{&quot;title&quot;:[0,&quot;دست تطاول&quot;],&quot;anchorTitle&quot;:[0,&quot;note-77&quot;]}],[0,{&quot;title&quot;:[0,&quot;کفارهٔ تهران&quot;],&quot;anchorTitle&quot;:[0,&quot;note-76&quot;]}],[0,{&quot;title&quot;:[0,&quot;درد مشترک&quot;],&quot;anchorTitle&quot;:[0,&quot;note-75&quot;]}],[0,{&quot;title&quot;:[0,&quot;پول&quot;],&quot;anchorTitle&quot;:[0,&quot;note-74&quot;]}],[0,{&quot;title&quot;:[0,&quot;تا ابد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-73&quot;]}],[0,{&quot;title&quot;:[0,&quot;شیرجه‌های نرفته&quot;],&quot;anchorTitle&quot;:[0,&quot;note-72&quot;]}],[0,{&quot;title&quot;:[0,&quot;هر انسان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-71&quot;]}],[0,{&quot;title&quot;:[0,&quot;کجاست&quot;],&quot;anchorTitle&quot;:[0,&quot;note-70&quot;]}],[0,{&quot;title&quot;:[0,&quot;قبایِ ژنده&quot;],&quot;anchorTitle&quot;:[0,&quot;note-69&quot;]}],[0,{&quot;title&quot;:[0,&quot;گوشهٔ بیشه‌ای&quot;],&quot;anchorTitle&quot;:[0,&quot;note-68&quot;]}],[0,{&quot;title&quot;:[0,&quot;آن همه خاک&quot;],&quot;anchorTitle&quot;:[0,&quot;note-67&quot;]}],[0,{&quot;title&quot;:[0,&quot;سوم‌برادرانِ سوشیانت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-66&quot;]}],[0,{&quot;title&quot;:[0,&quot;قطارِ رفته&quot;],&quot;anchorTitle&quot;:[0,&quot;note-65&quot;]}],[0,{&quot;title&quot;:[0,&quot;یک اسب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-64&quot;]}],[0,{&quot;title&quot;:[0,&quot;خورشید فرزانگی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-63&quot;]}],[0,{&quot;title&quot;:[0,&quot;تفنن و جهاد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-62&quot;]}],[0,{&quot;title&quot;:[0,&quot;virginity&quot;],&quot;anchorTitle&quot;:[0,&quot;note-61&quot;]}],[0,{&quot;title&quot;:[0,&quot;اینان دردند&quot;],&quot;anchorTitle&quot;:[0,&quot;note-60&quot;]}],[0,{&quot;title&quot;:[0,&quot;نازانم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-59&quot;]}],[0,{&quot;title&quot;:[0,&quot;پیام&quot;],&quot;anchorTitle&quot;:[0,&quot;note-58&quot;]}],[0,{&quot;title&quot;:[0,&quot;دژمن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-57&quot;]}],[0,{&quot;title&quot;:[0,&quot;کهنه‌کارمند کاغذباز&quot;],&quot;anchorTitle&quot;:[0,&quot;note-56&quot;]}],[0,{&quot;title&quot;:[0,&quot;مرز و کران&quot;],&quot;anchorTitle&quot;:[0,&quot;note-55&quot;]}],[0,{&quot;title&quot;:[0,&quot;چرخ دون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-54&quot;]}],[0,{&quot;title&quot;:[0,&quot;گرفتم دامنت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-53&quot;]}],[0,{&quot;title&quot;:[0,&quot;سلامتی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-52&quot;]}],[0,{&quot;title&quot;:[0,&quot;رستاخیز&quot;],&quot;anchorTitle&quot;:[0,&quot;note-51&quot;]}],[0,{&quot;title&quot;:[0,&quot;روز هفتم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-50&quot;]}],[0,{&quot;title&quot;:[0,&quot;تیره‌روزی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-49&quot;]}],[0,{&quot;title&quot;:[0,&quot;جنگ&quot;],&quot;anchorTitle&quot;:[0,&quot;note-48&quot;]}],[0,{&quot;title&quot;:[0,&quot;دو کرکس&quot;],&quot;anchorTitle&quot;:[0,&quot;note-47&quot;]}],[0,{&quot;title&quot;:[0,&quot;واپسینِ همگنان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-46&quot;]}],[0,{&quot;title&quot;:[0,&quot;پیدا نخواهدشد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-45&quot;]}],[0,{&quot;title&quot;:[0,&quot;شاعر جماعت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-44&quot;]}],[0,{&quot;title&quot;:[0,&quot;پادشاهان پارسی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-43&quot;]}],[0,{&quot;title&quot;:[0,&quot;اطرافیان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-42&quot;]}],[0,{&quot;title&quot;:[0,&quot;نازک و زیبا&quot;],&quot;anchorTitle&quot;:[0,&quot;note-41&quot;]}],[0,{&quot;title&quot;:[0,&quot;اولین دیدار&quot;],&quot;anchorTitle&quot;:[0,&quot;note-40&quot;]}],[0,{&quot;title&quot;:[0,&quot;گریه نکن مامان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-39&quot;]}],[0,{&quot;title&quot;:[0,&quot;مغلوب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-38&quot;]}],[0,{&quot;title&quot;:[0,&quot;چنین کسانی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-37&quot;]}],[0,{&quot;title&quot;:[0,&quot;روزگاری&quot;],&quot;anchorTitle&quot;:[0,&quot;note-36&quot;]}],[0,{&quot;title&quot;:[0,&quot;هفتاد پشت ما&quot;],&quot;anchorTitle&quot;:[0,&quot;note-35&quot;]}],[0,{&quot;title&quot;:[0,&quot;ژاژخایی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-34&quot;]}],[0,{&quot;title&quot;:[0,&quot;عیارِ گل نیلوفر&quot;],&quot;anchorTitle&quot;:[0,&quot;note-33&quot;]}],[0,{&quot;title&quot;:[0,&quot;زندگی دادن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-32&quot;]}],[0,{&quot;title&quot;:[0,&quot;پرواز کن&quot;],&quot;anchorTitle&quot;:[0,&quot;note-31&quot;]}],[0,{&quot;title&quot;:[0,&quot;ناپیدا&quot;],&quot;anchorTitle&quot;:[0,&quot;note-30&quot;]}],[0,{&quot;title&quot;:[0,&quot;نیستی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-29&quot;]}],[0,{&quot;title&quot;:[0,&quot;باتلاق درماندگی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-28&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکسته‌دلان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-27&quot;]}],[0,{&quot;title&quot;:[0,&quot;آتش&quot;],&quot;anchorTitle&quot;:[0,&quot;note-26&quot;]}],[0,{&quot;title&quot;:[0,&quot;تنهاترین&quot;],&quot;anchorTitle&quot;:[0,&quot;note-25&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکنجه‌گر&quot;],&quot;anchorTitle&quot;:[0,&quot;note-24&quot;]}],[0,{&quot;title&quot;:[0,&quot;عشق واقعی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-23&quot;]}],[0,{&quot;title&quot;:[0,&quot;دلِ گم‌شده&quot;],&quot;anchorTitle&quot;:[0,&quot;note-22&quot;]}],[0,{&quot;title&quot;:[0,&quot;کیلگور تروت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-21&quot;]}],[0,{&quot;title&quot;:[0,&quot;پارسایی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-20&quot;]}],[0,{&quot;title&quot;:[0,&quot;ستیزندگان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-19&quot;]}],[0,{&quot;title&quot;:[0,&quot;ارزش اشیاء&quot;],&quot;anchorTitle&quot;:[0,&quot;note-18&quot;]}],[0,{&quot;title&quot;:[0,&quot;شکسته‌ستون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-17&quot;]}],[0,{&quot;title&quot;:[0,&quot;گردباد سیاه&quot;],&quot;anchorTitle&quot;:[0,&quot;note-16&quot;]}],[0,{&quot;title&quot;:[0,&quot;برعکسِ ما&quot;],&quot;anchorTitle&quot;:[0,&quot;note-15&quot;]}],[0,{&quot;title&quot;:[0,&quot;کالپا&quot;],&quot;anchorTitle&quot;:[0,&quot;note-14&quot;]}],[0,{&quot;title&quot;:[0,&quot;افق تیره&quot;],&quot;anchorTitle&quot;:[0,&quot;note-13&quot;]}],[0,{&quot;title&quot;:[0,&quot;خونِ احمد&quot;],&quot;anchorTitle&quot;:[0,&quot;note-12&quot;]}],[0,{&quot;title&quot;:[0,&quot;فاضلاب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-11&quot;]}],[0,{&quot;title&quot;:[0,&quot;انفجار جمعیت&quot;],&quot;anchorTitle&quot;:[0,&quot;note-10&quot;]}],[0,{&quot;title&quot;:[0,&quot;سیل خون&quot;],&quot;anchorTitle&quot;:[0,&quot;note-9&quot;]}],[0,{&quot;title&quot;:[0,&quot;شمشیر بُرّان&quot;],&quot;anchorTitle&quot;:[0,&quot;note-8&quot;]}],[0,{&quot;title&quot;:[0,&quot;سرب&quot;],&quot;anchorTitle&quot;:[0,&quot;note-7&quot;]}],[0,{&quot;title&quot;:[0,&quot;سینهٔ تکیده&quot;],&quot;anchorTitle&quot;:[0,&quot;note-6&quot;]}],[0,{&quot;title&quot;:[0,&quot;تائو&quot;],&quot;anchorTitle&quot;:[0,&quot;note-5&quot;]}],[0,{&quot;title&quot;:[0,&quot;عشق برادرانه!&quot;],&quot;anchorTitle&quot;:[0,&quot;note-4&quot;]}],[0,{&quot;title&quot;:[0,&quot;جنون جمعی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-3&quot;]}],[0,{&quot;title&quot;:[0,&quot;تودهٔ مردم&quot;],&quot;anchorTitle&quot;:[0,&quot;note-2&quot;]}],[0,{&quot;title&quot;:[0,&quot;کاشکی&quot;],&quot;anchorTitle&quot;:[0,&quot;note-1&quot;]}]]],&quot;data-astro-cid-lqspyq6f&quot;:[0,true]}" ssr client="load" opts="{&quot;name&quot;:&quot;ListOfTitles&quot;,&quot;value&quot;:&quot;true&quot;}" await-children><div class="list-of-titles short open"><div class="list-header cursor-pointer no-focus-active-outline" tabindex="0" role="button" aria-label="Toggle the list">فهرست یادداشت‌ها<!-- --> <span class="plus-icon light-color open"></span></div><div class="list-body"><a class="list-item" href="#note-103">۱. خواجه کاشف‌الاسرار</a><a class="list-item" href="#note-102">۲. Brains</a><a class="list-item" href="#note-101">۳. ابراهیم</a><a class="list-item" href="#note-100">۴. طریقت سامورایی</a><a class="list-item" href="#note-99">۵. از پیش مردن</a><a class="list-item" href="#note-98">۶. خلال دندان</a><a class="list-item" href="#note-97">۷. جهان منطقی</a><a class="list-item" href="#note-96">۸. آزادمردان</a><a class="list-item" href="#note-95">۹. رنج</a><a class="list-item" href="#note-94">۱۰. Infallibility</a><a class="list-item" href="#note-93">۱۱. Mashhad</a><a class="list-item" href="#note-92">۱۲. Monotheism</a><a class="list-item" href="#note-91">۱۳. Big wheel</a><a class="list-item" href="#note-90">۱۴. For everyone</a><a class="list-item" href="#note-89">۱۵. To compromise</a><a class="list-item" href="#note-88">۱۶. unloved</a><a class="list-item" href="#note-87">۱۷. همه</a><a class="list-item" href="#note-86">۱۸. هوتوتوگیسو</a><a class="list-item" href="#note-85">۱۹. موی سپید</a><a class="list-item" href="#note-84">۲۰. اسفار باکونون</a><a class="list-item" href="#note-83">۲۱. تاریخ، اشک</a><a class="list-item" href="#note-82">۲۲. ظاهر</a><a class="list-item" href="#note-81">۲۳. بسترم</a><a class="list-item" href="#note-80">۲۴. شاعر بدنام</a><a class="list-item" href="#note-79">۲۵. حسرتِ صحبت</a><a class="list-item" href="#note-78">۲۶. شکوه‌پاره پاسخ</a><a class="list-item" href="#note-77">۲۷. دست تطاول</a><a class="list-item" href="#note-76">۲۸. کفارهٔ تهران</a><a class="list-item" href="#note-75">۲۹. درد مشترک</a><a class="list-item" href="#note-74">۳۰. پول</a><a class="list-item" href="#note-73">۳۱. تا ابد</a><a class="list-item" href="#note-72">۳۲. شیرجه‌های نرفته</a><a class="list-item" href="#note-71">۳۳. هر انسان</a><a class="list-item" href="#note-70">۳۴. کجاست</a><a class="list-item" href="#note-69">۳۵. قبایِ ژنده</a><a class="list-item" href="#note-68">۳۶. گوشهٔ بیشه‌ای</a><a class="list-item" href="#note-67">۳۷. آن همه خاک</a><a class="list-item" href="#note-66">۳۸. سوم‌برادرانِ سوشیانت</a><a class="list-item" href="#note-65">۳۹. قطارِ رفته</a><a class="list-item" href="#note-64">۴۰. یک اسب</a><a class="list-item" href="#note-63">۴۱. خورشید فرزانگی</a><a class="list-item" href="#note-62">۴۲. تفنن و جهاد</a><a class="list-item" href="#note-61">۴۳. virginity</a><a class="list-item" href="#note-60">۴۴. اینان دردند</a><a class="list-item" href="#note-59">۴۵. نازانم</a><a class="list-item" href="#note-58">۴۶. پیام</a><a class="list-item" href="#note-57">۴۷. دژمن</a><a class="list-item" href="#note-56">۴۸. کهنه‌کارمند کاغذباز</a><a class="list-item" href="#note-55">۴۹. مرز و کران</a><a class="list-item" href="#note-54">۵۰. چرخ دون</a><a class="list-item" href="#note-53">۵۱. گرفتم دامنت</a><a class="list-item" href="#note-52">۵۲. سلامتی</a><a class="list-item" href="#note-51">۵۳. رستاخیز</a><a class="list-item" href="#note-50">۵۴. روز هفتم</a><a class="list-item" href="#note-49">۵۵. تیره‌روزی</a><a class="list-item" href="#note-48">۵۶. جنگ</a><a class="list-item" href="#note-47">۵۷. دو کرکس</a><a class="list-item" href="#note-46">۵۸. واپسینِ همگنان</a><a class="list-item" href="#note-45">۵۹. پیدا نخواهدشد</a><a class="list-item" href="#note-44">۶۰. شاعر جماعت</a><a class="list-item" href="#note-43">۶۱. پادشاهان پارسی</a><a class="list-item" href="#note-42">۶۲. اطرافیان</a><a class="list-item" href="#note-41">۶۳. نازک و زیبا</a><a class="list-item" href="#note-40">۶۴. اولین دیدار</a><a class="list-item" href="#note-39">۶۵. گریه نکن مامان</a><a class="list-item" href="#note-38">۶۶. مغلوب</a><a class="list-item" href="#note-37">۶۷. چنین کسانی</a><a class="list-item" href="#note-36">۶۸. روزگاری</a><a class="list-item" href="#note-35">۶۹. هفتاد پشت ما</a><a class="list-item" href="#note-34">۷۰. ژاژخایی</a><a class="list-item" href="#note-33">۷۱. عیارِ گل نیلوفر</a><a class="list-item" href="#note-32">۷۲. زندگی دادن</a><a class="list-item" href="#note-31">۷۳. پرواز کن</a><a class="list-item" href="#note-30">۷۴. ناپیدا</a><a class="list-item" href="#note-29">۷۵. نیستی</a><a class="list-item" href="#note-28">۷۶. باتلاق درماندگی</a><a class="list-item" href="#note-27">۷۷. شکسته‌دلان</a><a class="list-item" href="#note-26">۷۸. آتش</a><a class="list-item" href="#note-25">۷۹. تنهاترین</a><a class="list-item" href="#note-24">۸۰. شکنجه‌گر</a><a class="list-item" href="#note-23">۸۱. عشق واقعی</a><a class="list-item" href="#note-22">۸۲. دلِ گم‌شده</a><a class="list-item" href="#note-21">۸۳. کیلگور تروت</a><a class="list-item" href="#note-20">۸۴. پارسایی</a><a class="list-item" href="#note-19">۸۵. ستیزندگان</a><a class="list-item" href="#note-18">۸۶. ارزش اشیاء</a><a class="list-item" href="#note-17">۸۷. شکسته‌ستون</a><a class="list-item" href="#note-16">۸۸. گردباد سیاه</a><a class="list-item" href="#note-15">۸۹. برعکسِ ما</a><a class="list-item" href="#note-14">۹۰. کالپا</a><a class="list-item" href="#note-13">۹۱. افق تیره</a><a class="list-item" href="#note-12">۹۲. خونِ احمد</a><a class="list-item" href="#note-11">۹۳. فاضلاب</a><a class="list-item" href="#note-10">۹۴. انفجار جمعیت</a><a class="list-item" href="#note-9">۹۵. سیل خون</a><a class="list-item" href="#note-8">۹۶. شمشیر بُرّان</a><a class="list-item" href="#note-7">۹۷. سرب</a><a class="list-item" href="#note-6">۹۸. سینهٔ تکیده</a><a class="list-item" href="#note-5">۹۹. تائو</a><a class="list-item" href="#note-4">۱۰۰. عشق برادرانه!</a><a class="list-item" href="#note-3">۱۰۱. جنون جمعی</a><a class="list-item" href="#note-2">۱۰۲. تودهٔ مردم</a><a class="list-item" href="#note-1">۱۰۳. کاشکی</a></div></div><!--astro:end--></astro-island> <div data-astro-cid-lqspyq6f><div class="note-title" id="note-103">خواجه کاشف‌الاسرار<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p>روایت خودسوزی خواجه را برایش گفتم؛ همان‌طور که در رساله‌ها بود … گویا به مریدانش امر می‌کند که مبادا به دنبالش بیایند و آن‌ها هم متابعت می‌کنند، ولی عده‌ای به دنبالش می‌آیند که مثلا آن‌ها را مسح کند تا آتش دوزخ آن‌ها را نسوزاند و او بر سر تخته‌سنگی می‌رود و ظرفی نفتابه و آتش‌زنه چمخاق می‌خواهد که وقتی ظرف نفتابه و آتش‌زنه چمخاق را به دستش می‌دهند، نفتابه را بر سرش می‌ریزد و آتش‌زنه چمخاق را می‌زند. سر تا پایش شعله‌ای می‌شود. فریاد می‌زند و به آتش امر می‌کند که این بار ما را بسوزان که هوای خاکستر شدن داریم. می‌خندد و رو به شعله‌ها می‌گوید:‌ «ما که بی‌اذن او نمی‌توانیم تا پفی به آتش استخوان خود کنیم چگونه آتش معاصی شما را خاموش سازیم؟ چگونه می‌توانیم به آتش دوزخ گوییم بر آن‌ها چون نسیمی بوز؟»</p>
 <p class="ref">
 اسفار کاتبان
@@ -12,7 +12,7 @@
 <a href="/blog/book-recommendation#اسفار%20کاتبان">درباره این کتاب</a>
 </p>
 <hr>
-<div class="note-title" id="note-107">Brains<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-102">Brains<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="english tr">
 "Brains are survival engines, not truth detectors. if self-deception promotes fitness, the brain lies. Stops noticing irrelevant things. Truth never matters. Only fitness. By now you don't experience the world as it exists at all. You experience a simulation built from assumptions. Shortcuts. Lies, Whole species is agnosiac by default. Rorschach does nothing to you that you don't already do to yourselves." 
 </p>
@@ -25,7 +25,7 @@ From the second chapter: Rorschach
 </p>
 <p><code>پی‌نوشت:</code> سفینه‌ای با پنج نفر خدمه از حوزه‌های مختلف دانش، برای اولین‌بار در تاریخ بشر با سفینه‌ای متعلق به بیگانگان روبه‌رو شده‌است. پس از چند بار ورود به سفینه بیگانگان، که آنرا روشاخ می‌نامند، متوجه می‌شوند که روشاخ در حال بازی با افکار و احساسات آنهاست و کاری با آنها کرده که در محدوده‌اش فرق واقعیت با توهم را متوجه نشوند. خدمه ترسیده‌اند و پیشنهاد عقب نشینی و دوری از آن‌را می‌دهند. جمله بالا بخشی از سخنانی است که فرمانده سفینه برای ترغیب آنها به ادامه ماموریت بر زبان می‌آورد.</p>
 <hr>
-<div class="note-title" id="note-106">ابراهیم<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-101">ابراهیم<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 Yet Abraham believed and did not doubt, he believed the preposterous. If Abraham had doubted—then he would have done something else, something glorious; for how could Abraham do anything but what is great and glorious! He would have marched up to Mount Moriah, he would have cleft the fire-wood, lit the pyre, drawn the knife—he would have cried out to God, “Despise not this sacrifice, it is not the best thing I possess, that I know well, for what is an old man in comparison with the child of promise; but it is the best I am able to give Thee. Let Isaac never come to know this, that he may console himself with his youth.” He would have plunged the knife into his own breast. He would have been admired in the world, and his name would not have been forgotten; but it is one thing to be admired, and another to be the guiding star which saves the anguished.
@@ -48,60 +48,7 @@ From the chapter of “A panegyric upon Abraham”
 از بخش مدیحه بر ابراهیم
 </p>
 <hr>
-<div class="note-title" id="note-105">Toten tatenruhm<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
-<div style="max-width: 750px;">
-<p class="other tr">
-Deyr fé,<br>
-deyja frændr,<br>
-deyr sjalfr it sama,<br>
-ek veit einn,<br>
-at aldrei deyr:<br>
-dómr um dauðan hvern.
-</p>
-<p class="french tr">
-DU STIRBST – BESITZ STIRBT<br>
-DIE SIPPEN STERBEN.<br>
-EINZIG LEBT – WIR WISSEN ES –<br>
-DER TOTEN TATENRUHM.
-</p>
-<p class="english tr">
-Cattle die, kindred die,<br>
-Every man is mortal:<br>
-But I know one thing that never dies,<br> 
-The glory of the great dead
-</p>
-</div>
-<p class="english ref">
-The 77th stanza of Hávamál<br>
-English translation by W. H. Auden and P. B. Taylor
-</p>
-<p class="english">
-<code>P.S.</code> Hávamál is a single poem in the Codex Regius, a collection of Old Norse poems from the Viking age. The German translation is from the <a href="https://de.wikipedia.org/wiki/Leibdragonerdenkmal" target="_blank" rel="nofollow noreferrer">statue of Leibdragonerdenkmal</a> in Baden.
-</p>
-<hr>
-<div class="note-title" id="note-104">Friendless man<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
-<div class="two-column" style="max-width: 510px;">
-<p class="other tr">
-Hrörnar þöll,<br>
-sú er stendr þorpi á,<br>
-hlýr-at henni börkr né barr;<br>
-svá er maðr,<br>
-sá er manngi ann.<br>
-Hvat skal hann lengi lifa?
-</p>
-<p class="english tr">
-The young fir that falls and rots<br>
-Having neither needles nor bark,<br>
-So is the fate of the friendless man:<br>
-Why should he live long?
-</p>
-</div>
-<p class="english ref">
-The 50th stanza of Hávamál<br>
-English translation by W. H. Auden and P. B. Taylor
-</p>
-<hr>
-<div class="note-title" id="note-103">طریقت سامورایی<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-100">طریقت سامورایی<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 The Way of the warrior (bushido) is to be found in dying. If one is faced with two options of life or death, simply settle for death. It is not an especially difficult choice; just go forth and meet it confidently. To declare that dying without aiming for the right purpose is nothing more than a “dog’s death” is the timid and shallow way of Kamigata warriors. Whenever faced with the choice of life and death, there is no need to try and achieve one’s aims.
@@ -122,7 +69,7 @@ From the first book
 برگردان فارسی از سید رضا حسینی
 </p>
 <hr>
-<div class="note-title" id="note-102">از پیش مردن<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-99">از پیش مردن<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 Begin each day pondering death as its climax. Each morning, with a calm mind, conjure images in your head of your last moments. See yourself being pierced by bow and arrow, gun, sword, or spear, or being swept away by a giant wave, vaulting into a fiery inferno, taking a lightning strike, being shaken to death in a great earthquake, falling hundreds of feet from a high cliff top, succumbing to a terminal illness, or just dropping dead unexpectedly. Every morning, be sure to meditate yourself into a trance of death.
@@ -147,7 +94,7 @@ From the third book
 برگردان فارسی از سید رضا حسینی
 </p>
 <hr>
-<div class="note-title" id="note-101">خلال دندان<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-98">خلال دندان<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="english tr">
 Yamamoto Jin'uemon: "A samurai should use a toothpick even though he has not eaten: a dog's skin inside, a tiger's hide outside."
 </p>
@@ -164,36 +111,7 @@ From the first book
 <code>P.S.</code> That way even though a warrior suffers like a dog on the inside, his pain will never show on the outside. In other words his outward appearance should show attentiveness and taste, but at the same time he must be frugal and "dogged" in his heart.
 </div>
 <hr>
-<div class="note-title" id="note-100">میخک<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
-<div class="two-column" style="max-width: 700px;">
-<p class="english tr">
-His lordship (Mitsushige) took a scroll from a case. The fragrance of dried cloves wafted forth as he opened the lid.
-</p>
-<p class="persian tr">
-میتسوشیگه (رییس خاندان نابشیما)، کتابی (طوماری) از قفسه برداشت. با باز کردنش عطر میخک در همه جا پیچید.
-</p>
-</div>
-<p class="english ref">
-Hagakure (1716)
-<br>
-Yamamoto Tsunetomo
-<br>
-English translation by Alexander Bennett
-<br>
-From the first book
-</p>
-<p><code>پی‌نوشت:</code> مردانی که نوجوان چهارده‌ساله را مجبور می‌کنند تا در یک روز سر ده مجرم دست‌بسته را قطع کند تا روحیه جنگاوری‌اش تقویت شود، با بوییدن عطر میخکِ میان یک کتاب، احساساتی می‌شوند.</p>
-<hr>
-<div class="note-title" id="note-99">ای ماه<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
-<p>«ای ماه! گردی رخسارت دهانه توپ را به یاد می‌آورد؛ و گلوله‌ای را که پس از پرتاب، آهسته آهسته در آسمان می‌خرامد‌! بگو که زمان انفجارت کی فرا خواهد رسید، ای گلوله آسمانی! تا ابری از اخگر بباری و همه تخت و تاج‌ها و ارتش‌های دشمن را تباه کنی، تا بر این دیوار بلند فراموشی که هموطنانم به روی من کشیده‌اند شکافی بگشایی و مرا به سوی افتخار رهنمون شوی؟ آه، شهر من ، روآن! آه، ای ماه! ای سرنوشت! ای مجلس مردمی! ای وزغ‌ها! ای دختران! ای زندگی!»</p>
-<p class="ref">
-بارون درخت‌نشین<br>
-ایتالو کالوینو<br>
-برگردانِ مهدی سحابی
-</p>
-<p><code>پی‌نوشت:</code> جملات بالا، شعرگونه‌ای از ستوان اگریپا پاپیون، افسر شاعرمسلک فرانسوی کتاب است؛ همانگونه که از متن جملات بر می‌آید، او فرمانده یکی از هنگ‌های ارتش جمهوری فرانسه بود که برای نبرد با پادشاهی اتریش در جنگل‌های دره اومبروزا بودند.</p>
-<hr>
-<div class="note-title" id="note-98">جهان منطقی<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-97">جهان منطقی<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.
@@ -212,7 +130,7 @@ Frank Herbert
 <a href="/blog/book-recommendation#Dune">درباره این کتاب</a>
 </p>
 <hr>
-<div class="note-title" id="note-97">آزادمردان<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-96">آزادمردان<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 The Fremen were supreme in that quality the ancients called “spannungsbogen”—which is the self-imposed delay between desire for a thing and the act of reaching out to grasp that thing.
@@ -230,7 +148,7 @@ Frank Herbert
 </p>
 <p><code>پی‌نوشت:</code> حره‌مردانی که در اینجا از آنان نام برده شده، مردمان بومی سیاره‌ای به نام آراکیس (تلماسه) هستند که به نظر می‌رسد از پسینیان ایرانیان و اعراب باشند. آنها آزادمردانی هستند که زیر بند نیروهای امپراتوری و جلادان حاکم قرار نگرفته‌اند و در بیابان‌های سخت آراکیس به سختی اما با جسارت زندگی می‌کنند. اراده آهنین آنها در سرسبز کردن سیاره‌شان ستودنی است.</p>
 <hr>
-<div class="note-title" id="note-96">رنج<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-95">رنج<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 Over the exit of the Arrakeen landing field, crudely carved as though with a poor instrument, there was an inscription that Muad'Dib was to repeat many times. He saw it that first night on Arrakis, having been brought to the ducal command post to participate in his father's first full staff conference. The words of the inscription were a plea to those leaving Arrakis, but they fell with dark import on the eyes of a boy who had just escaped a close brush with death. They said: "O you who know what we suffer here, do not forget us in your prayers."
@@ -248,7 +166,7 @@ Frank Herbert
 </p>
 <p><code>پی‌نوشت:</code> شخصی که در اینجا با نام مؤدِّب از او نام برده شده، فرزند دوکی بود که پدرش برای فرمانروایی به سیاره آراکیس آمده بود؛ سیاره‌ای بدون آب که زندگی برای ساکنانش بسیار سخت بود. در شب اول ورودش، در اولین جلسه پدرش در فرودگاه شاتل‌ها حاضر شد و نوشته بالا بر سردرِ یکی از سکو‌های فرود بود.</p>
 <hr>
-<div class="note-title" id="note-95">Infallibility<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-94">Infallibility<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 As we come to make the most important decisions in the history of life, I personally would trust more in those who admit ignorance than in those who claim infallibility. If you want your religion, ideology or world view to lead the world, my first question to you is: ‘What was the biggest mistake your religion, ideology or world view committed? What did it get wrong?’ If you cannot come up with something serious, I for one would not trust you.
@@ -267,7 +185,7 @@ From the 14th chapter: Secularism
 برگردان فارسی از نیک گرگین
 </p>
 <hr>
-<div class="note-title" id="note-94">Mashhad<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-93">Mashhad<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 In March 1839, in the Iranian city of Mashhad, a Jewish woman who suffered from some skin disease was told by a local quack that if she killed a dog and washed her hands in its blood, she would be cured. Mashhad is a holy Shiite city, and it so happened that the woman undertook the grisly therapy on the sacred day of Ashura. She was observed by some Shiites, who believed – or claimed to believe – that the woman killed the dog in mockery of the Karbala martyrdom. Word of this unthinkable sacrilege quickly spread through the streets of Mashhad. Egged on by the local imam, an angry mob broke into the Jewish quarter, torched the synagogue, and murdered thirty-six Jews on the spot. All the surviving Jews of Mashhad were then given a stark choice: convert to Islam immediately, or be killed. The sordid episode hardly harmed Mashhad’s reputation as ‘Iran’s spiritual capital’.
@@ -286,7 +204,7 @@ From the 20th chapter: Meaning
 برگردان فارسی از نیک گرگین
 </p>
 <hr>
-<div class="note-title" id="note-93">Monotheism<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-92">Monotheism<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 580px;">
 <p class="english tr">
 From an ethical perspective, monotheism was arguably one of the worst ideas in human history.
@@ -305,7 +223,7 @@ From the 12th chapter: Humility
 برگردان فارسی از نیک گرگین
 </p>
 <hr>
-<div class="note-title" id="note-92">Big wheel<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-91">Big wheel<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="english tr">
 <b>Melichrone:</b> "I was supernal, immortal, omnipotent and omniscient. All things were resident in me - even dissident opinions about myself. Not a blade of grass grew that was not some infinitesimal portion of my being. The very mountains and rivers were shaped by me. I was the life in the sperm cells, and I was the death in the plague bacillus. I was the All and the Many, That Which Always Was And That Which Always Will Be."
 <br>
@@ -322,7 +240,7 @@ From chapter 7, page 34
 </p>
 <p><code>پی‌نوشت:</code> ملیکرون، قادر مطلق یک سیاره دورافتاده است که کارمودی در بخشی از سفرش در کهکشان به او برمی‌خورد. ملیکرون برایش تعریف می‌کند که چگونه زندگی‌ها به وجود آورده و چگونه خود به آن‌ها پایان داده است. شخصیت‌های این کتاب همگی از جالب‌ترین شخصیت‌هایی هستند که تاکنون در دنیای ادبیات با آن روبه‌رو شده‌ام. نکته جالب توجه اینکه داگلاس آدامز، کتاب معروف <a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy" target="_blank" rel="nofollow noreferrer">The Hitchhiker’s Guide to the Galaxy</a> را با الهام از این کتاب نوشته‌است.</p>
 <hr>
-<div class="note-title" id="note-91">For everyone<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-90">For everyone<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="english tr">
 «HAPPINESS, FREE, FOR EVERYONE, AND LET NO ONE BE FORGOTTEN!»
 </p>
@@ -337,7 +255,7 @@ From the last part
 </p>
 <p><code>پی‌نوشت:</code> ردریک شوهارت، قهرمان اصلی این کتاب، به گوی آرزوها دست یافته؛ شیئی از بیگانگان در میانه یک منطقه دست‌نیافتنی؛ که با هربار دیدارش می‌توانی یک آرزو یا درخواست از آن داشته باشی تا برآورده شود. و این‌ها واژگانی است که ردریک، خسته و زخمی از مسیر پرخطری که گذرانده بر زبان می‌آورد.</p>
 <hr>
-<div class="note-title" id="note-90">To compromise<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-89">To compromise<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="english tr">
 No. Not even in the face of Armageddon. Never compromise.
 </p>
@@ -350,7 +268,7 @@ From chapter 12
 </p>
 <p><code>پی‌نوشت:</code> رورشاک، شخصیتی در کمیک نگهبانان، پیش از کشته شدن این حرف را می‌زند؛ با باد نچرخید و کشتندش. به همین سادگی.</p>
 <hr>
-<div class="note-title" id="note-89">unloved<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-88">unloved<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="english tr">
 The ancient Skoptsy sect of White Russia, believing that sex was the root of all evil, practiced an atrocious self-castration to extirpate the root. The modern Skoptsys, believing that sensation was the root of all evil, practiced an even more barbaric custom. Having entered the Skoptsy Colony and paid a fortune for the privilege, the initiates submitted joyously to an operation that severed the sensory nervous system, and lived out their days without sight, sound, speech, smell, taste, or touch.<br><br>
 When they first entered the monastery, the initiates were shown elegant ivory cells in which it was intimated they would spend the remainder of their lives in rapt contemplation, lovingly tended. In actuality, the senseless creatures were packed in catacombs where they sat on rough stone slabs and were fed and exercised once a day. For twenty-three out of twenty-four hours they sat alone in the dark, untended, unguarded, unloved.
@@ -366,7 +284,7 @@ From chapter 13
 </p>
 <p><code>پی‌نوشت:</code> این چند پاراگراف از فصل سیزدهم این کتاب علمی‌تخیلی است. قهرمان داستان داخل این دخمه‌ها رفته تا شخصی را که به این فرقه گرویده پیدا کند و از او پرسش‌هایی کند؛ البته برای صحبت با چنین شخصی باید تمهیدات خاصی اندیشید.</p>
 <hr>
-<div class="note-title" id="note-88">همه<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
+<div class="note-title" id="note-87">همه<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
 I suffer with all bodies, I am struck on all cheeks, I die the death of everyone. Every woman you have taken by force, you have violated in my flesh.
@@ -384,25 +302,6 @@ I suffer with all bodies, I am struck on all cheeks, I die the death of everyone
 </p>
 </div>
 <p><code>پی‌نوشت:</code> از پرده دوم، صحنه چهارم، از زبان هیلدا به گوتز. هیلدا، زن فداکاری است که به مردمان رنج‌کشیده کمک می‌کند.</p>
-<hr>
-<div class="note-title" id="note-87">تنهاییِ انسان<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
-<div class="two-column">
-<p class="english tr">
-God does not see me, God does not hear me, God does not know me. You see this emptiness over our heads? That is God. You see this gap in the door? It is God. You see that hole in the ground? That is God again. Silence is God. Absence is God. God is the loneliness of man. There was no one but myself; I alone decided on Evil; and I alone invented Good. It was I who cheated, I who worked miracles, I who accused myself today, I alone who can absolve myself; I, man.
-</p>
-<p class="persian tr">
-خدا مرا نمی‌بیند، خدا صدای مرا نمی‌شنود، خدا مرا نمی‌شناسد. این خلا را که بالای سر ماست می‌بینی؟ این خداست. این شکاف در را می‌بینی؟ این خداست. این حفره توی زمین را می‌بینی؟ این هم خداست. سکوت، خداست. نیستی، خداست. خدا، تنهاییِ انسان است. فقط من وجود داشتم؛ من به تنهایی تصمیم به بدی گرفتم؛ من به تنهایی خوبی را اختراع کردم. من بودم که تقلب کردم، من بودم که معجزه کردم، منم که امروز خودم را متهم می‌کنم، تنها منم که می‌توانم خودم را تبرئه کنم؛ من، انسان.
-</p>
-<br>
-<p class="english ref">
-شیطان و خدا (Le diable et le bon dieu) (1951)
-<br>
-ژان پل سارتر (Jean-Paul Sartre) (1905–1980)
-<br>
-برگردان از ابوالحسن نجفی
-</p>
-</div>
-<p><code>پی‌نوشت:</code> از پرده سوم، صحنه دهم. گوتز، سردار آلمانی، بدترین بدکاران، پس از یک سال نیکویی و پاکی، سرانجام به یکباره به روشنایی می‌رسد و دروازه‌های حقیقت بر رویش گشوده می‌شود.</p>
 <hr>
 <div class="note-title" id="note-86">هوتوتوگیسو<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 700px;">
@@ -707,26 +606,6 @@ Thomas More (1478–1535) (تامس مور)<br>
 از مجموعه شعر دستورزبان عشق<br>
 قیصر امین‌پور (۱۳۳۸ - ۱۳۸۶)
 </p>
-<!-- <hr />
-
-### O, lente
-<div class="two-column" style="max-width: 400px;">
-<p class="english tr">
-lente currite,<br />
-noktis equi.</p>
-<p class="persian tr">
-آهسته بروید،<br />
-ای اسب&zwnj;های شب.
-</p>
-
-<p class="english ref">
-Ars Amatoria (The Art of Love)<br />
-Liber I, Elegy XIII, Line 40<br />
-By Ovid (43 BC - 18 AD)
-</p>
-</div>
-
-```پی‌نوشت:``` شاعر به معشوق دست یافته و اینک از شب می‌خواهد تا آرام‌تر بگذرد (گوته در فاوست یک `O lente` نیز به ابتدای آن افزوده است). -->
 <hr>
 <div class="note-title" id="note-64">یک اسب<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 950px;">
@@ -744,26 +623,6 @@ William Shakespeare (1564 - 1616)<br>
 </p>
 </div>
 <p><code>پی‌نوشت:</code> ریچارد سوم در نبرد بازورث فیلد (Bosworth Field) اسب خود را از دست می‌دهد و برای نجات خود این فریاد را سر می‌دهد؛ اما فریادرسی نیست و در همان‌جا کشته می‌شود.</p>
-<!-- <hr />
-
-### حاضرجوابی
-<div class="two-column" style="max-width: 950px;">
-<p class="english tr">
-Anne: Black night o'ershade thy day, and death thy life.<br />
-Richard: Curse not thyself, fair creature; thou art both.
-</p>
-<p class="persian tr">
-لیدی ان: شبِ سیاه روزت را تاریک کناد، و مرگ زندگی‌ات را.<br />
-ریچارد: خودت را نفرین مکن، ای آفریدهٔ زیبا؛ تو خود هر دوی آنهایی.
-</p>
-
-<p class="english ref">
-The Tragedy of King Richard the Third (سوگنمایش شاه ریچارد سوم)<br />
-William Shakespeare (1564 - 1616)<br />
-برگردانِ میر شمس‌الدین ادیب سلطانی<br />
-از پردهٔ اول، صحنهٔ دوم
-</p>
-</div> -->
 <hr>
 <div class="note-title" id="note-63">خورشید فرزانگی<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="text-center">
@@ -895,19 +754,6 @@ tanisław Lem (1921 - 2006)<br>
 برگردانِ اسکندر ذبیحیان
 </p>
 <p><code>پی‌نوشت:</code> رستاخیز، آخرین رمان بلند لئو تولستوی است و برخی این اثر را شالوده افکار و اعتقادات او می‌دانند. در این کتاب یک اشراف‌زادهٔ جاافتاده و معتبر، بر حسب اتفاق، زنی را در جایگاه متهمان یک دادگاه می‌بیند که خودش در روزگاری که دختری پاک و زیباروی بود با وسوسه‌اش بی‌خانمان و بی‌آبرو کرده بود. او که ناگهان به خود آمده هرچه در توان دارد انجام می‌دهد تا او را تبرئه کنند و چون موفق نمی‌شود در سفر تبعید به دنبال او می‌رود.</p>
-<!-- <hr />
-
-### هزار هنگ سپاه
-«راستی آنچنان مرد را یاری می‌دهد گفتی که هزار هنگ سپاه به یاری‌اش شتافته‌اند.»
-
-<p class="ref">
-دینکردِ پاک<br />
-کتاب سوم<br />
-کردهٔ ۱۶۵<br />
-(دینکرد از کتاب‌های بنیادین آیین زرتشتی است.)
-</p>
-
-```پی‌نوشت:``` نمی‌خواهم این گفتهٔ ارزشمند دینکرد را رد کنم، اما این چندین سالِ زندگانی به این کمترین چنین آموخته که راستی، مال انسان را می‌کاهد، زندگی‌اش را به تاراج می‌دهد و او را در وطن خویش غریب می‌کند. در زندگیِ راست‌مردان کم پیش می‌آید که همدل یا هم‌زبانی پیدا شود، چه رسد به هزار هنگ سپاهِ یاری‌دهنده! -->
 <hr>
 <div class="note-title" id="note-50">روز هفتم<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p>از سه‌شنبه تا چهارشنبه، هفده نفر را تیرباران کردند.<br>
@@ -1322,13 +1168,6 @@ Als die Nachricht von Henriettes Tod kam, wurde bei uns zu Hause gerade der Tisc
 برگردان محمد اسماعیل‌زاده<br>
 از بخش ۲۳ام
 </p>
-<!-- <hr />
-
-### نفلیباتا
-
-نِفِلیباتا (nefelibata)، به معنی لغوی «کسی که بر روی ابرها راه می‌رود» اصطلاحی است که از به هم پیوستن دو واژهٔ یونانیِ νεφέλη (یا nefel) به معنی ابر و βάτης (یا bata) که از فعل باینو (به معنی راه رفتن یا سرگردان بودن) گرفته‌شده درست شده‌است.
-
-نِفِلیباتا، رویاپردازی است که گویی در ابرها قدم می‌زند و چنان در دنیای افکار و تخیلات خود غرق شده که از زمین و واقعیتی که پیرامونش را فراگرفته به‌ دور مانده‌است. -->
 <hr>
 <div class="note-title" id="note-17">شکسته‌ستون<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="text-center">
@@ -1381,43 +1220,6 @@ Als die Nachricht von Henriettes Tod kam, wurde bei uns zu Hause gerade der Tisc
 محمد فرخی یزدی (۱۲۶۷ - ۱۳۱۸)
 </p>
 <hr>
-<!-- ### برای وطن
-
-
-<div class="two-column" style="max-width: 700px;">
-    <p class="english tr">
-    I was the first fruits of the battle of Missionary Ridge.<br />
-    When I felt the bullet enter my heart<br />
-    I wished I had staid at home and gone to jail,<br />
-    For stealing the hogs of Curl Trennary,<br />
-    Instead of running away and joining the army,<br />
-    Rather a thousand times the county jail<br />
-    Than to lie under this marble figure with wings,<br />
-    And this granite pedestal<br />
-    Bearing the words 'Pro Patria.'<br />
-    What do they mean, anyway?</p>
-    <p class="persian tr">
-    من اولین ثمرهٔ جنگِ میسونری‌ریج بودم.<br />
-    وقتی که احساس کردم گلوله‌ای در قلبم فرو می‌رود،<br />
-    آرزو کردم کاش به جای فرار و پیوستن به ارتش<br />
-    در خانه مانده بودم و به زندان رفته بودم<br />
-    به خاطر دزدین خوکِ پروارِ کرل ترنری،<br />
-    زندانِ شهر هزارها بار<br />
-    بهتر است تا آرمیدن زیر مرمری بالدار<br />
-    و این ستون گرانیتی<br />
-    <bdi>که این کلمات را بر دوش می‌کشند: "Pro Patria"</bdi><br />
-    اما اینها چه معنی می‌دهند؟
-    </p>
-    <p class="english ref">
-    Pro patria<br />
-    Edgar Lee Masters (1868 - 1950)<br />
-    برگردان مهتاب کلانتری
-    </p>
-</div>
-
-‍‍‍‍```پی‌نوشت:‍‍‍``` نبرد میسونری‌ریج یکی از نبردهایی بود که در طول جنگ داخلی آمریکا میان نیروهای شمالی و جنوبی رخ داد (در ۱۸۶۳ میلادی) و Pro Patria عبارتی به زبان لاتین است به معنی «به خاطر وطن» که بر سنگ مزار سربازان کشته‌شده در جنگ می‌نویسند.
-
-<hr /> -->
 <div class="note-title" id="note-12">خونِ احمد<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p class="text-center">
 خبر اومد که دشتستون بهاره / زمین از خونِ احمد لاله‌زاره<br>
@@ -1462,42 +1264,6 @@ Anthony Giddens<br>
 فئودور داستایفسکی<br>
 برگردان رحمت الهی
 </p>
-<!-- <hr />
-
-### کچی جوان
-
-<div class="two-column" style="max-width: 600px;">
-    <p class="english tr">
-        ئەی کچی جوان، تۆ نە شاعیری و نە نەقاش<br />
-        من هەردووکیان، من هەردووکیان<br />
-        کێ لە ئێوە ئەزانێ<br />
-        ئەو چاوانەت هەموو شەوێ<br />
-        ئەو شعرانەم بە دزیەوە ئەداتێ<br />
-        کێش ئەزانێ ئەوە پەنجەکانی تۆیە<br />
-        ئەو وێنانەم بۆ ئەکێشێ<br />
-        من ئێستا لەوە ئەترسم کە ڕۆژێ بێ<br />
-        چاوەکانت و پەنجەکان ئەو نهێنیە<br />
-        دەربخەن و بە شەقام و گەڕەک و دنیا بڵێن<br />
-        لەڕاستیدا ئا ئەم پیاوە نە شاعیرە و نە نەقاش.
-    </p>
-    <p class="persian tr">
-        ای دختر زیبا، تو نە شاعری و نە نقاش<br />
-        من هردواَش هستم، هردواَش هستم<br />
-        چه کس از اینان می‌داند<br />
-        که این چشمان توست کە هر شب<br />
-        این شعرها را مخفیانه بە من می‌رساند<br />
-        چه کس می‌داند که این انگشتان توست کە<br /> 
-        این نقاشی‌ها را برایم می‌کشد<br />
-        من از آن می‌ترسم کە روزی فرا رسد<br />
-        که چشمان و انگشتانت این راز را<br />
-        آشکار کنند و مردم کوچە‌و‌خیابان و دنیا را آگاه سازند<br />
-        که در حقیقت این مرد نە شاعر است و نە نقاش.
-    </p>
-    <br />
-    <p class="ref">
-        شێرکۆ بێکەس (۱۹۴۰ - ۲۰۱۳)
-    </p>
-</div> -->
 <hr>
 <div class="note-title" id="note-8">شمشیر بُرّان<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column">
@@ -1530,39 +1296,6 @@ Bill Bryson<br>
 کارل گوستاو یونگ<br>
 برگردان دکتر محمود سلطانیه، از صفحهٔ ۱۰۹ چاپ ششم ۱۳۸۷ نشر جامی
 </p>
-<!-- <hr />
-
-### هنر
-
-<div class="two-column">
-    <p class="english tr">
-If you really want to hurt your parents, and you don’t have the nerve to be a homosexual, the least you can do is go into the arts.
-    </p>
-    <p class="persian tr">
-    اگر می‌خواهید والدینتان را برنجانید و جراتش را ندارید که هم‌جنس‌باز شوید سراغ هنر بروید.
-    </p>
-    <p class="english ref">
-        Timequake<br />
-        Kurt Vonnegaut Jr.<br />
-        From chapter 10<br />
-        برگردان از مهدی صداقت پیام<br />
-    </p>
-</div> -->
-<!-- <hr />
-
-### راه راستی
-
-<div class="two-column">
-    <p class="english tr">
-aêvô pañtå ýô ashahe vîspe anyaêshãm apañtãm angrahe mainyêush nasishtãm daênãm daêvayasnanãm parâjîtîm mashyânãm frâkereitîm!
-    </p>
-    <p class="persian tr">
-    راه در جهان یکیست و آن اَشویی است، همه دیگر راه‌ها بیراهه است، بیراهه‌ای که یکسره به دین زیان‌آور اهریمن و به زندگی و کردار دیوپرستی کشاند.
-    </p>
-    <p class="english ref">
-        Yasna 72.11<br />
-    </p>
-</div> -->
 <hr>
 <div class="note-title" id="note-5">تائو<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <div class="two-column" style="max-width: 800px;">
@@ -1584,23 +1317,6 @@ aêvô pañtå ýô ashahe vîspe anyaêshãm apañtãm angrahe mainyêush nasis
         Laozi (possibly 6th Century B.C.)<br>
     </p>
 </div>
-<!-- <hr />
-
-### شعلهٔ بازنده
-
-<div class="two-column" style="max-width: 500px;">
-    <p class="english tr">
-    La vita é fiamma vinta.<br />
-    </p>
-    <p class="persian tr">
-    زندگی، شعله‌ای بازنده است.<br />
-    </p>
-    <p class="english ref">
-        Fuga (فرار)<br />
-        Vincenzo Cardarelli (1887 - 1959)<br />
-        برگردان از فریده مهدوی دامغانی
-    </p>
-</div> -->
 <hr>
 <div class="note-title" id="note-4">عشق برادرانه!<a class="circled-triangle" href="#notes-desc" title="برگشت به بالای صفحه"></a></div>
 <p>«همیشه می‌توان عدهٔ کثیری را با عشق به هم پیوند داد، به شرط آنکه کسانی باقی بمانند که بتوان آنها را مورد پرخاش قرار داد.»</p>

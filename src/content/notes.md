@@ -59,71 +59,6 @@ From the chapter of “A panegyric upon Abraham”
 
 <hr />
 
-### Toten tatenruhm
-
-<div style="max-width: 750px;">
-<p class="other tr">
-Deyr fé,<br />
-deyja frændr,<br />
-deyr sjalfr it sama,<br />
-ek veit einn,<br />
-at aldrei deyr:<br />
-dómr um dauðan hvern.
-</p>
-
-<p class="french tr">
-DU STIRBST – BESITZ STIRBT<br />
-DIE SIPPEN STERBEN.<br />
-EINZIG LEBT – WIR WISSEN ES –<br />
-DER TOTEN TATENRUHM.
-</p>
-
-<p class="english tr">
-Cattle die, kindred die,<br />
-Every man is mortal:<br />
-But I know one thing that never dies,<br /> 
-The glory of the great dead
-</p>
-</div>
-
-<p class="english ref">
-The 77th stanza of Hávamál<br />
-English translation by W. H. Auden and P. B. Taylor
-</p>
-
-<p class="english">
-<code>P.S.</code> Hávamál is a single poem in the Codex Regius, a collection of Old Norse poems from the Viking age. The German translation is from the <a href="https://de.wikipedia.org/wiki/Leibdragonerdenkmal" target="_blank" rel='nofollow noreferrer'>statue of Leibdragonerdenkmal</a> in Baden.
-</p>
-
-<hr />
-
-### Friendless man
-
-<div class="two-column" style="max-width: 510px;">
-<p class="other tr">
-Hrörnar þöll,<br />
-sú er stendr þorpi á,<br />
-hlýr-at henni börkr né barr;<br />
-svá er maðr,<br />
-sá er manngi ann.<br />
-Hvat skal hann lengi lifa?
-</p>
-
-<p class="english tr">
-The young fir that falls and rots<br />
-Having neither needles nor bark,<br />
-So is the fate of the friendless man:<br />
-Why should he live long?
-</p>
-</div>
-
-<p class="english ref">
-The 50th stanza of Hávamál<br />
-English translation by W. H. Auden and P. B. Taylor
-</p>
-
-<hr />
-
 ### طریقت سامورایی
 <div class="two-column" style="max-width: 700px;">
 <p class="english tr">
@@ -196,44 +131,6 @@ From the first book
 <div class="english">
 <code>P.S.</code> That way even though a warrior suffers like a dog on the inside, his pain will never show on the outside. In other words his outward appearance should show attentiveness and taste, but at the same time he must be frugal and "dogged" in his heart.
 </div>
-
-<hr />
-
-### میخک
-<div class="two-column" style="max-width: 700px;">
-<p class="english tr">
-His lordship (Mitsushige) took a scroll from a case. The fragrance of dried cloves wafted forth as he opened the lid.
-</p>
-<p class="persian tr">
-میتسوشیگه (رییس خاندان نابشیما)، کتابی (طوماری) از قفسه برداشت. با باز کردنش عطر میخک در همه جا پیچید.
-</p>
-</div>
-
-<p class="english ref">
-Hagakure (1716)
-<br />
-Yamamoto Tsunetomo
-<br />
-English translation by Alexander Bennett
-<br />
-From the first book
-</p>
-
-```پی‌نوشت:``` مردانی که نوجوان چهارده‌ساله را مجبور می‌کنند تا در یک روز سر ده مجرم دست‌بسته را قطع کند تا روحیه جنگاوری‌اش تقویت شود، با بوییدن عطر میخکِ میان یک کتاب، احساساتی می‌شوند.
-
-<hr />
-
-### ای ماه
-«ای ماه! گردی رخسارت دهانه توپ را به یاد می‌آورد؛ و گلوله‌ای را که پس از پرتاب، آهسته آهسته در آسمان می‌خرامد‌! بگو که زمان انفجارت کی فرا خواهد رسید، ای گلوله آسمانی! تا ابری از اخگر بباری و همه تخت و تاج‌ها و ارتش‌های دشمن را تباه کنی، تا بر این دیوار بلند فراموشی که هموطنانم به روی من کشیده‌اند شکافی بگشایی و مرا به سوی افتخار رهنمون شوی؟ آه، شهر من ، روآن! آه، ای ماه! ای سرنوشت! ای مجلس مردمی! ای وزغ‌ها! ای دختران! ای زندگی!»
-
-<p class="ref">
-بارون درخت‌نشین<br />
-ایتالو کالوینو<br />
-برگردانِ مهدی سحابی
-</p>
-
-
-```پی‌نوشت:``` جملات بالا، شعرگونه‌ای از ستوان اگریپا پاپیون، افسر شاعرمسلک فرانسوی کتاب است؛ همانگونه که از متن جملات بر می‌آید، او فرمانده یکی از هنگ‌های ارتش جمهوری فرانسه بود که برای نبرد با پادشاهی اتریش در جنگل‌های دره اومبروزا بودند.
 
 <hr />
 
@@ -468,30 +365,6 @@ I suffer with all bodies, I am struck on all cheeks, I die the death of everyone
 </div>
 
 ```پی‌نوشت:``` از پرده دوم، صحنه چهارم، از زبان هیلدا به گوتز. هیلدا، زن فداکاری است که به مردمان رنج‌کشیده کمک می‌کند. 
-
-<hr />
-
-### تنهاییِ انسان
-
-<div class="two-column">
-<p class="english tr">
-God does not see me, God does not hear me, God does not know me. You see this emptiness over our heads? That is God. You see this gap in the door? It is God. You see that hole in the ground? That is God again. Silence is God. Absence is God. God is the loneliness of man. There was no one but myself; I alone decided on Evil; and I alone invented Good. It was I who cheated, I who worked miracles, I who accused myself today, I alone who can absolve myself; I, man.
-</p>
-<p class="persian tr">
-خدا مرا نمی‌بیند، خدا صدای مرا نمی‌شنود، خدا مرا نمی‌شناسد. این خلا را که بالای سر ماست می‌بینی؟ این خداست. این شکاف در را می‌بینی؟ این خداست. این حفره توی زمین را می‌بینی؟ این هم خداست. سکوت، خداست. نیستی، خداست. خدا، تنهاییِ انسان است. فقط من وجود داشتم؛ من به تنهایی تصمیم به بدی گرفتم؛ من به تنهایی خوبی را اختراع کردم. من بودم که تقلب کردم، من بودم که معجزه کردم، منم که امروز خودم را متهم می‌کنم، تنها منم که می‌توانم خودم را تبرئه کنم؛ من، انسان.
-</p>
-<br />
-
-<p class="english ref">
-شیطان و خدا (Le diable et le bon dieu) (1951)
-<br />
-ژان پل سارتر (Jean-Paul Sartre) (1905–1980)
-<br />
-برگردان از ابوالحسن نجفی
-</p>
-</div>
-
-```پی‌نوشت:``` از پرده سوم، صحنه دهم. گوتز، سردار آلمانی، بدترین بدکاران، پس از یک سال نیکویی و پاکی، سرانجام به یکباره به روشنایی می‌رسد و دروازه‌های حقیقت بر رویش گشوده می‌شود.
 
 <hr />
 
@@ -878,27 +751,6 @@ Thomas More (1478–1535) (تامس مور)<br />
 قیصر امین‌پور (۱۳۳۸ - ۱۳۸۶)
 </p>
 
-<!-- <hr />
-
-### O, lente
-<div class="two-column" style="max-width: 400px;">
-<p class="english tr">
-lente currite,<br />
-noktis equi.</p>
-<p class="persian tr">
-آهسته بروید،<br />
-ای اسب&zwnj;های شب.
-</p>
-
-<p class="english ref">
-Ars Amatoria (The Art of Love)<br />
-Liber I, Elegy XIII, Line 40<br />
-By Ovid (43 BC - 18 AD)
-</p>
-</div>
-
-```پی‌نوشت:``` شاعر به معشوق دست یافته و اینک از شب می‌خواهد تا آرام‌تر بگذرد (گوته در فاوست یک `O lente` نیز به ابتدای آن افزوده است). -->
-
 <hr />
 
 ### یک اسب
@@ -919,27 +771,6 @@ William Shakespeare (1564 - 1616)<br />
 </div>
 
 ```پی‌نوشت:``` ریچارد سوم در نبرد بازورث فیلد (Bosworth Field) اسب خود را از دست می‌دهد و برای نجات خود این فریاد را سر می‌دهد؛ اما فریادرسی نیست و در همان‌جا کشته می‌شود.
-
-<!-- <hr />
-
-### حاضرجوابی
-<div class="two-column" style="max-width: 950px;">
-<p class="english tr">
-Anne: Black night o'ershade thy day, and death thy life.<br />
-Richard: Curse not thyself, fair creature; thou art both.
-</p>
-<p class="persian tr">
-لیدی ان: شبِ سیاه روزت را تاریک کناد، و مرگ زندگی‌ات را.<br />
-ریچارد: خودت را نفرین مکن، ای آفریدهٔ زیبا؛ تو خود هر دوی آنهایی.
-</p>
-
-<p class="english ref">
-The Tragedy of King Richard the Third (سوگنمایش شاه ریچارد سوم)<br />
-William Shakespeare (1564 - 1616)<br />
-برگردانِ میر شمس‌الدین ادیب سلطانی<br />
-از پردهٔ اول، صحنهٔ دوم
-</p>
-</div> -->
 
 <hr />
 
@@ -1118,20 +949,6 @@ tanisław Lem (1921 - 2006)<br />
 </p>
 
 ```پی‌نوشت:``` رستاخیز، آخرین رمان بلند لئو تولستوی است و برخی این اثر را شالوده افکار و اعتقادات او می‌دانند. در این کتاب یک اشراف‌زادهٔ جاافتاده و معتبر، بر حسب اتفاق، زنی را در جایگاه متهمان یک دادگاه می‌بیند که خودش در روزگاری که دختری پاک و زیباروی بود با وسوسه‌اش بی‌خانمان و بی‌آبرو کرده بود. او که ناگهان به خود آمده هرچه در توان دارد انجام می‌دهد تا او را تبرئه کنند و چون موفق نمی‌شود در سفر تبعید به دنبال او می‌رود.
-
-<!-- <hr />
-
-### هزار هنگ سپاه
-«راستی آنچنان مرد را یاری می‌دهد گفتی که هزار هنگ سپاه به یاری‌اش شتافته‌اند.»
-
-<p class="ref">
-دینکردِ پاک<br />
-کتاب سوم<br />
-کردهٔ ۱۶۵<br />
-(دینکرد از کتاب‌های بنیادین آیین زرتشتی است.)
-</p>
-
-```پی‌نوشت:``` نمی‌خواهم این گفتهٔ ارزشمند دینکرد را رد کنم، اما این چندین سالِ زندگانی به این کمترین چنین آموخته که راستی، مال انسان را می‌کاهد، زندگی‌اش را به تاراج می‌دهد و او را در وطن خویش غریب می‌کند. در زندگیِ راست‌مردان کم پیش می‌آید که همدل یا هم‌زبانی پیدا شود، چه رسد به هزار هنگ سپاهِ یاری‌دهنده! -->
 
 <hr />
 
@@ -1674,14 +1491,6 @@ Als die Nachricht von Henriettes Tod kam, wurde bei uns zu Hause gerade der Tisc
 از بخش ۲۳ام
 </p>
 
-<!-- <hr />
-
-### نفلیباتا
-
-نِفِلیباتا (nefelibata)، به معنی لغوی «کسی که بر روی ابرها راه می‌رود» اصطلاحی است که از به هم پیوستن دو واژهٔ یونانیِ νεφέλη (یا nefel) به معنی ابر و βάτης (یا bata) که از فعل باینو (به معنی راه رفتن یا سرگردان بودن) گرفته‌شده درست شده‌است.
-
-نِفِلیباتا، رویاپردازی است که گویی در ابرها قدم می‌زند و چنان در دنیای افکار و تخیلات خود غرق شده که از زمین و واقعیتی که پیرامونش را فراگرفته به‌ دور مانده‌است. -->
-
 <hr />
 
 ### شکسته‌ستون
@@ -1755,44 +1564,6 @@ Als die Nachricht von Henriettes Tod kam, wurde bei uns zu Hause gerade der Tisc
 
 <hr />
 
-<!-- ### برای وطن
-
-
-<div class="two-column" style="max-width: 700px;">
-    <p class="english tr">
-    I was the first fruits of the battle of Missionary Ridge.<br />
-    When I felt the bullet enter my heart<br />
-    I wished I had staid at home and gone to jail,<br />
-    For stealing the hogs of Curl Trennary,<br />
-    Instead of running away and joining the army,<br />
-    Rather a thousand times the county jail<br />
-    Than to lie under this marble figure with wings,<br />
-    And this granite pedestal<br />
-    Bearing the words 'Pro Patria.'<br />
-    What do they mean, anyway?</p>
-    <p class="persian tr">
-    من اولین ثمرهٔ جنگِ میسونری‌ریج بودم.<br />
-    وقتی که احساس کردم گلوله‌ای در قلبم فرو می‌رود،<br />
-    آرزو کردم کاش به جای فرار و پیوستن به ارتش<br />
-    در خانه مانده بودم و به زندان رفته بودم<br />
-    به خاطر دزدین خوکِ پروارِ کرل ترنری،<br />
-    زندانِ شهر هزارها بار<br />
-    بهتر است تا آرمیدن زیر مرمری بالدار<br />
-    و این ستون گرانیتی<br />
-    <bdi>که این کلمات را بر دوش می‌کشند: "Pro Patria"</bdi><br />
-    اما اینها چه معنی می‌دهند؟
-    </p>
-    <p class="english ref">
-    Pro patria<br />
-    Edgar Lee Masters (1868 - 1950)<br />
-    برگردان مهتاب کلانتری
-    </p>
-</div>
-
-‍‍‍‍```پی‌نوشت:‍‍‍``` نبرد میسونری‌ریج یکی از نبردهایی بود که در طول جنگ داخلی آمریکا میان نیروهای شمالی و جنوبی رخ داد (در ۱۸۶۳ میلادی) و Pro Patria عبارتی به زبان لاتین است به معنی «به خاطر وطن» که بر سنگ مزار سربازان کشته‌شده در جنگ می‌نویسند.
-
-<hr /> -->
-
 ### خونِ احمد
 
 <p class="text-center">
@@ -1854,43 +1625,6 @@ Anthony Giddens<br />
 برگردان رحمت الهی
 </p>
 
-<!-- <hr />
-
-### کچی جوان
-
-<div class="two-column" style="max-width: 600px;">
-    <p class="english tr">
-        ئەی کچی جوان، تۆ نە شاعیری و نە نەقاش<br />
-        من هەردووکیان، من هەردووکیان<br />
-        کێ لە ئێوە ئەزانێ<br />
-        ئەو چاوانەت هەموو شەوێ<br />
-        ئەو شعرانەم بە دزیەوە ئەداتێ<br />
-        کێش ئەزانێ ئەوە پەنجەکانی تۆیە<br />
-        ئەو وێنانەم بۆ ئەکێشێ<br />
-        من ئێستا لەوە ئەترسم کە ڕۆژێ بێ<br />
-        چاوەکانت و پەنجەکان ئەو نهێنیە<br />
-        دەربخەن و بە شەقام و گەڕەک و دنیا بڵێن<br />
-        لەڕاستیدا ئا ئەم پیاوە نە شاعیرە و نە نەقاش.
-    </p>
-    <p class="persian tr">
-        ای دختر زیبا، تو نە شاعری و نە نقاش<br />
-        من هردواَش هستم، هردواَش هستم<br />
-        چه کس از اینان می‌داند<br />
-        که این چشمان توست کە هر شب<br />
-        این شعرها را مخفیانه بە من می‌رساند<br />
-        چه کس می‌داند که این انگشتان توست کە<br /> 
-        این نقاشی‌ها را برایم می‌کشد<br />
-        من از آن می‌ترسم کە روزی فرا رسد<br />
-        که چشمان و انگشتانت این راز را<br />
-        آشکار کنند و مردم کوچە‌و‌خیابان و دنیا را آگاه سازند<br />
-        که در حقیقت این مرد نە شاعر است و نە نقاش.
-    </p>
-    <br />
-    <p class="ref">
-        شێرکۆ بێکەس (۱۹۴۰ - ۲۰۱۳)
-    </p>
-</div> -->
-
 <hr />
 
 ### شمشیر بُرّان
@@ -1936,41 +1670,6 @@ Bill Bryson<br />
 برگردان دکتر محمود سلطانیه، از صفحهٔ ۱۰۹ چاپ ششم ۱۳۸۷ نشر جامی
 </p>
 
-<!-- <hr />
-
-### هنر
-
-<div class="two-column">
-    <p class="english tr">
-If you really want to hurt your parents, and you don’t have the nerve to be a homosexual, the least you can do is go into the arts.
-    </p>
-    <p class="persian tr">
-    اگر می‌خواهید والدینتان را برنجانید و جراتش را ندارید که هم‌جنس‌باز شوید سراغ هنر بروید.
-    </p>
-    <p class="english ref">
-        Timequake<br />
-        Kurt Vonnegaut Jr.<br />
-        From chapter 10<br />
-        برگردان از مهدی صداقت پیام<br />
-    </p>
-</div> -->
-
-<!-- <hr />
-
-### راه راستی
-
-<div class="two-column">
-    <p class="english tr">
-aêvô pañtå ýô ashahe vîspe anyaêshãm apañtãm angrahe mainyêush nasishtãm daênãm daêvayasnanãm parâjîtîm mashyânãm frâkereitîm!
-    </p>
-    <p class="persian tr">
-    راه در جهان یکیست و آن اَشویی است، همه دیگر راه‌ها بیراهه است، بیراهه‌ای که یکسره به دین زیان‌آور اهریمن و به زندگی و کردار دیوپرستی کشاند.
-    </p>
-    <p class="english ref">
-        Yasna 72.11<br />
-    </p>
-</div> -->
-
 <hr />
 
 ### تائو
@@ -1994,24 +1693,6 @@ aêvô pañtå ýô ashahe vîspe anyaêshãm apañtãm angrahe mainyêush nasis
         Laozi (possibly 6th Century B.C.)<br />
     </p>
 </div>
-
-<!-- <hr />
-
-### شعلهٔ بازنده
-
-<div class="two-column" style="max-width: 500px;">
-    <p class="english tr">
-    La vita é fiamma vinta.<br />
-    </p>
-    <p class="persian tr">
-    زندگی، شعله‌ای بازنده است.<br />
-    </p>
-    <p class="english ref">
-        Fuga (فرار)<br />
-        Vincenzo Cardarelli (1887 - 1959)<br />
-        برگردان از فریده مهدوی دامغانی
-    </p>
-</div> -->
 
 <hr />
 

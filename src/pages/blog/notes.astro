@@ -37,19 +37,17 @@ await html().then(
 	</main>
 </BaseLayout>
 
-<style lang="scss">
-main.notes-wrapper {
-	@media screen and (max-width: 520px) {
-		padding-right: 6px;
-		padding-left: 6px;
-    }
-}
-
+<style lang="scss" is:global>
 .notes-wrapper {
 	direction: rtl;
 	counter-reset: hrcounter 1;
 	line-height: 1.7rem;
 	color: var(--font-color);
+
+	@media screen and (max-width: 520px) {
+		padding-right: 6px;
+		padding-left: 6px;
+    }
 
 	#notes-desc {
 		padding-top: 30px;

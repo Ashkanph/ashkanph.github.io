@@ -10,7 +10,6 @@ const Header = props => {
 
     useEffect(() => {
         setPageTitle(title || getTitle(window?.location?.pathname));
-        window.console.log("sdsdsd");
         setTheme(window?.localStorage.getItem("theme") ?? "light");
     }, []);
 

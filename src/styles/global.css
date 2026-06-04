@@ -33,6 +33,7 @@ html {
 .light {
     --background-color: #f4f4f1;
     --font-color: #363030;
+    --hr-color: #ddd;
     --list-of-titles-bg: #e4dede;
     --list-color: #1c11ee;
     --english-tr: #006400;
@@ -46,8 +47,9 @@ html {
 .dark {
     --background-color: #363030;
     --font-color: #f4f4f1;
+    --hr-color: #666;
     --list-of-titles-bg: #292424;
-    --list-color: #bbb7fa;
+    --list-color: #9792df;
     --english-tr: #c6ecc6;
     --persian-tr: #ffc299;
     --french-tr: #ffccff;

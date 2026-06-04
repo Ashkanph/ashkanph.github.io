@@ -24,3 +24,8 @@ pnpm-debug.log*
 .idea/
 .vscode
 .cache/
+
+.pnp.cjs
+.pnp.loader.mjs
+install-state.gz
+yarn.lock

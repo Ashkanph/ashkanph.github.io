@@ -1,6 +1,44 @@
 ---
 ---
 
+### باران
+
+<p class="english tr" style="margin-bottom:0;padding-bottom:4px;">
+»Elsbeth hat mir mal erzählt, dass es für den, der beerdigt wird, gut ist, wenn es auf seinen Sarg regnet«, flüsterte ich in Selmas Ohr.
+</p>
+<p class="english ref" style="padding-top:0;">
+Was man von hier aus sehen kann (2017)
+<br />
+Mariana Leky
+<br />
+Aus dem Kapitel „Nichts Näheres“
+</p>
+
+در جملات بالا، لوییز در یک مراسم خاکسپاری به یاد حرفی از الزبت (یکی از شخصیت‌های خرافاتی این کتاب) میفته که گفته برای کسی که فوت کرده خوبه که در هنگام خاکسپاریش و بر روی تابوتش باران بباره.
+
+این من رو یاد صفحات پایانی کتاب گتسبی بزرگ نوشته اسکات فیتزجرالد انداخت. اونجا هم در روز خاکسپاری گتسبی باران می‌بارید و راوی که در مراسم حاضر بود اینطور میگه:
+
+<p class="english tr" style="margin-bottom:0;padding-bottom:4px;">
+"Dimly I heard someone murmur 'Blessed are the dead that the rain falls on,' and then the owl-eyed man said 'Amen to that,' in a brave voice."
+</p>
+<p class="english ref" style="padding-top:0;">
+The Great Gatsby (1925)
+<br />
+F. Scott Fitzgerald
+</p>
+
+ من فکر می‌کردم که اون جمله پس‌زمینه مذهبی داره (مثلا شاید از انجیل باشه)، ولی به نظر می‌رسه برگرفته از شعر باران نوشته شاعر و نویسنده انگلیسی ادوارد توماس بوده:
+<p class="english tr" style="margin-bottom:0;padding-bottom:4px;text-align:center;width:100%;">
+“Blessed are the dead that the rain rains upon,”
+</p>
+<p class="english ref" style="padding-top:0;">
+Edward Thomas (1878-1917)
+<br />
+From the poem "Rain"
+</p>
+
+<hr />
+
 ### خواجه کاشف‌الاسرار
 
 روایت خودسوزی خواجه را برایش گفتم؛ همان‌طور که در رساله‌ها بود ... گویا به مریدانش امر می‌کند که مبادا به دنبالش بیایند و آن‌ها هم متابعت می‌کنند، ولی عده‌ای به دنبالش می‌آیند که مثلا آن‌ها را مسح کند تا آتش دوزخ آن‌ها را نسوزاند و او بر سر تخته‌سنگی می‌رود و ظرفی نفتابه و آتش‌زنه چخماق می‌خواهد که وقتی ظرف نفتابه و آتش‌زنه چخماق را به دستش می‌دهند، نفتابه را بر سرش می‌ریزد و آتش‌زنه چخماق را می‌زند. سر تا پایش شعله‌ای می‌شود. فریاد می‌زند و به آتش امر می‌کند که این بار ما را بسوزان که هوای خاکستر شدن داریم. می‌خندد و رو به شعله‌ها می‌گوید:‌ «ما که بی‌اذن او نمی‌توانیم تا پفی به آتش استخوان خود کنیم چگونه آتش معاصی شما را خاموش سازیم؟ چگونه می‌توانیم به آتش دوزخ گوییم بر آن‌ها چون نسیمی بوز؟»

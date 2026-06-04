@@ -67,9 +67,19 @@ const titles = books.map(
 					</div>
 				</div>
 				{
-					<Image class="book-cover" src={bookImages[`/src/images/books/${book.imageAddress}`]()} alt={book.oname || book.pname} loading="lazy" />
+				<Image class="book-cover" src={bookImages[`/src/images/books/${book.imageAddress}`]()} alt={book.oname || book.pname} loading="lazy" />
 				}
 				<p set:html={book.description} />
+				{
+					book.gallery && book.gallery.map(
+						(imgItem, index) => (
+							<figure class="gallery-item">
+								<Image src={bookImages[`/src/images/books/${imgItem.address}`]()} alt={imgItem.alt || ""} loading="lazy" />
+								{imgItem.alt && <figcaption>{imgItem.alt}</figcaption>}
+							</figure>
+						)
+					)
+				}
 			</div>
 		)
 	)
@@ -79,6 +89,7 @@ const titles = books.map(
 	.book-description {
 		hr {
 			margin: 50px 80px 40px;
+			color: var(--hr-color);
 		}
 
 		.book-title {
@@ -108,8 +119,26 @@ const titles = books.map(
 		.book-cover {
 			float:right; 
 			margin: 22px 0 15px 15px;
-			max-height: 230px;
+			max-height: 270px;
 			width: auto;
+		}
+
+		.gallery-item {
+			margin-right: 0;
+			margin-left: 0;
+
+			img {
+				display: block;
+				margin: 0 auto;
+				width: 100%;
+				max-width: 700px;
+				height: auto;
+			}
+
+			figcaption {
+				text-align: center;
+				margin-top: 8px;
+			}
 		}
 
 		p {

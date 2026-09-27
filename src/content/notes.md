@@ -27,7 +27,7 @@ The Great Gatsby (1925)
 F. Scott Fitzgerald
 </p>
 
- من فکر می‌کردم که اون جمله پس‌زمینه مذهبی داره (مثلا شاید از انجیل باشه)، ولی به نظر می‌رسه برگرفته از شعر باران نوشته شاعر و نویسنده انگلیسی ادوارد توماس بوده:
+ من فکر می‌کردم که اون جمله پس‌زمینه مذهبی داره، ولی به نظر می‌رسه برگرفته از شعر باران نوشته شاعر و نویسنده انگلیسی ادوارد توماس بوده:
 <p class="english tr" style="margin-bottom:0;padding-bottom:4px;text-align:center;width:100%;">
 “Blessed are the dead that the rain rains upon,”
 </p>

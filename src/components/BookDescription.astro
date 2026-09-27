@@ -73,7 +73,7 @@ const titles = books.map(
 				{
 					book.gallery && book.gallery.map(
 						(imgItem, index) => (
-							<figure class="gallery-item">
+							<figure class={`gallery-item ${imgItem.class || ""}`}>
 								<Image src={bookImages[`/src/images/books/${imgItem.address}`]()} alt={imgItem.alt || ""} loading="lazy" />
 								{imgItem.alt && <figcaption>{imgItem.alt}</figcaption>}
 							</figure>
@@ -126,6 +126,7 @@ const titles = books.map(
 		.gallery-item {
 			margin-right: 0;
 			margin-left: 0;
+			margin: 0 auto;
 
 			img {
 				display: block;
@@ -139,13 +140,16 @@ const titles = books.map(
 				text-align: center;
 				margin-top: 8px;
 			}
+
+			&.yasna-72-11 {
+				max-width: 515px;
+			}
 		}
 
 		p {
 			padding-top:15px; 
 			padding-bottom:15px; 
 			text-align:justify;
-			line-height:1.6rem;
 			font-size: 16px;
 			line-height: 29px;
 

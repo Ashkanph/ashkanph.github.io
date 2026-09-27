@@ -26,5 +26,19 @@
     "@astrojs/upgrade": "^0.7.2",
     "gh-pages": "^6.3.0",
     "sass-embedded": "^1.100.0"
+  },
+  "browserslist": {
+    "production": [
+      "Chrome >= 63",
+      "Firefox >= 62",
+      "Safari >= 11.1",
+      "Edge >= 79",
+      "not dead"
+    ]
+  },
+  "allowScripts": {
+    "@parcel/watcher": false,
+    "esbuild": false,
+    "sharp": false
   }
 }

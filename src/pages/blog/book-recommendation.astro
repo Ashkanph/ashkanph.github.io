@@ -6,10 +6,10 @@ const title = "پیشنهاد کتاب",
       description = "خلاصه و پیشنهاد چندین کتاب که بیشتر در ژانر علمی تخیلی هستند",
       tags = "یادداشت,کتاب,علمی تخیلی,پیشنهاد,خلاصه,رمان,برترین کتاب های علمی تخیلی";
 ---
-<BaseLayout title={title} description={description} tags={tags}>
+<BaseLayout title={title} description={description} tags={tags} indexing={true}>
 	<main>
 		<div class="book-recommendation">
-			<div id="desc">به مرور کتاب‌های بیشتری را در این صفحه معرفی می‌کنم (کتاب‌های جدید را به آخر لیست اضافه می‌کنم).</div>
+			<div id="desc">به مرور کتاب‌های بیشتری را در این صفحه معرفی می‌کنم (کتاب‌های جدید را به آخر لیست اضافه می‌کنم).<br />در نوشتن خلاصه‌ها تا جای امکان سعی می‌کنم که داستان را لو ندهم.</div>
 			<BookDescription />
 		</div>
 	</main>
@@ -24,6 +24,7 @@ const title = "پیشنهاد کتاب",
         #desc {
             padding-top: 30px;
 			font-size: 16px;
+			line-height: 29px;
         }
 	}
 </style>

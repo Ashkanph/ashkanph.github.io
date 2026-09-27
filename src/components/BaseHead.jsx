@@ -3,7 +3,7 @@ import '../styles/myIconFont.css';
 import '../styles/common.css';
 
 export default function BaseLayout(props) {
-	const { title, description, tags, url } = props;
+	const { title, description, tags, url, indexing } = props;
 
 	return (
 		<>
@@ -32,6 +32,12 @@ export default function BaseLayout(props) {
 			<meta property="og:url" content={url} />
 			<meta property="og:title" content={title} />
 			<meta property="og:description" content={description} />
+
+			{
+				indexing ?
+				<meta name="robots" content="index, follow" /> :
+				<meta name="robots" content="noindex, nofollow" />
+			}
 		</>
 	);
 }

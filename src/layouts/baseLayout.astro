@@ -17,11 +17,12 @@ const { isHomePage = false,
 		title = getTitle(Astro.url.pathname),
 		description = "My personal web page",
 		tags = null,
+		indexing = false,
  } = Astro.props;
 ---
 <html>
 	<head>
-		<BaseHead title={title} description={description} tags={tags} url={Astro.url} />
+		<BaseHead title={title} description={description} tags={tags} url={Astro.url} indexing={indexing} />
 	</head>
 	<body>
 		<div class="wrapper">

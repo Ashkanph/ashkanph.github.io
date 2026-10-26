@@ -14,30 +14,32 @@ const skills = {
     "Javascript": {
         "stars": 3.5,
         "subs": [
+            "Typescript",
             "React",
-            "Redux",
-            "GatsbyJs",
             "AstroJs",
             "styled-components",
             "Vue.js",
-            "Nuxt.js", 
             "Node.js",
-            "Gulp, Webpack",
-            "Leaflet, Open Street Map, Google Map, etc",
-            "Chart.js, Chartist, D3 charts, etc"
+            "Webpack, Vite",
+            "ESLint",
+            "web component"
         ]
     },
     "Python": {
         "stars": 1,
         "subs": [
-            "Django, Wagtail",
+            "Wagtail, Django",
         ]
     },
     "Databases": {
         "stars": 1,
         "subs": [
             "MySQL",
+            "PostgreSQL",
         ]
+    },
+    "Docker": {
+        "stars": 1
     },
     "Git": {
         "stars": 3.5
@@ -45,7 +47,7 @@ const skills = {
     "Linux": {
         "stars": 2,
         "subs": [
-            "LPIC I", "LPIC II", "Ubuntu"
+            "LPIC I", "LPIC II", "Ubuntu", "Fedora"
         ]
     }  
 };
